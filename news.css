@@ -406,3 +406,21 @@ body {
 .news-link:hover {
     text-decoration: underline;
 }
+/* API Usage Dashboard navigation */
+.news-tools-nav {
+    max-width: 1100px;
+    margin: 25px auto 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.news-tools-nav a {
+    color: #60a5fa;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.news-tools-nav a:hover {
+    color: #93c5fd;
+}
