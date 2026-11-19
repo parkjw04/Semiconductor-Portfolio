@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-11-19T04:20:50.112Z",
+  "pricingConfigured": false,
+  "pricing": null,
+  "totals": {
+    "requests": 2,
+    "successfulResponses": 2,
+    "inputTokens": 1230,
+    "outputTokens": 3754,
+    "totalTokens": 4984,
+    "estimatedCostUSD": null
+  },
+  "daily": {
+    "2026-11-19": {
+      "requests": 2,
+      "successfulResponses": 2,
+      "inputTokens": 1230,
+      "outputTokens": 3754,
+      "totalTokens": 4984,
+      "estimatedCostUSD": null
+    }
+  }
+}
