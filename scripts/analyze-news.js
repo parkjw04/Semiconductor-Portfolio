@@ -10,6 +10,23 @@ const client = new OpenAI({
 });
 
 const filePath = path.join(__dirname, "../data/news.json");
+const usageFilePath = path.join(__dirname, "../data/usage.json");
+
+// 비용 계산 단가 (USD / 1M tokens)
+// 실제 모델 단가를 확인한 뒤 환경변수로 설정
+const INPUT_PRICE_PER_1M = process.env.OPENAI_INPUT_PRICE_PER_1M
+    ? Number(process.env.OPENAI_INPUT_PRICE_PER_1M)
+    : null;
+
+const OUTPUT_PRICE_PER_1M = process.env.OPENAI_OUTPUT_PRICE_PER_1M
+    ? Number(process.env.OPENAI_OUTPUT_PRICE_PER_1M)
+    : null;
+
+const hasValidPricing =
+    Number.isFinite(INPUT_PRICE_PER_1M) &&
+    INPUT_PRICE_PER_1M >= 0 &&
+    Number.isFinite(OUTPUT_PRICE_PER_1M) &&
+    OUTPUT_PRICE_PER_1M >= 0;
 
 // 분석 설정
 const BATCH_SIZE = 5;
@@ -36,7 +53,170 @@ function getKoreaDate() {
     }).format(new Date());
 }
 
-// JSON 파일 저장
+// 사용량 기록 기본 구조
+function createEmptyUsageData() {
+    return {
+        updatedAt: new Date().toISOString(),
+        pricingConfigured: hasValidPricing,
+        pricing: hasValidPricing
+            ? {
+                inputUSDPerMillionTokens: INPUT_PRICE_PER_1M,
+                outputUSDPerMillionTokens: OUTPUT_PRICE_PER_1M
+            }
+            : null,
+        totals: {
+            requests: 0,
+            successfulResponses: 0,
+            inputTokens: 0,
+            outputTokens: 0,
+            totalTokens: 0,
+            estimatedCostUSD: hasValidPricing ? 0 : null
+        },
+        daily: {}
+    };
+}
+
+// 사용량 파일 읽기
+function loadUsageData() {
+    if (!fs.existsSync(usageFilePath)) {
+        return createEmptyUsageData();
+    }
+
+    try {
+        const saved = JSON.parse(
+            fs.readFileSync(usageFilePath, "utf8")
+        );
+
+        const empty = createEmptyUsageData();
+
+        return {
+            ...empty,
+            ...saved,
+            totals: {
+                ...empty.totals,
+                ...(saved.totals || {})
+            },
+            daily: saved.daily || {}
+        };
+
+    } catch (error) {
+        console.error(
+            "사용량 기록 파일을 읽지 못했습니다. 새 기록을 생성합니다."
+        );
+
+        return createEmptyUsageData();
+    }
+}
+
+// 사용량 파일 저장
+function saveUsageData(usageData) {
+    usageData.updatedAt = new Date().toISOString();
+
+    usageData.pricingConfigured = hasValidPricing;
+
+    usageData.pricing = hasValidPricing
+        ? {
+            inputUSDPerMillionTokens: INPUT_PRICE_PER_1M,
+            outputUSDPerMillionTokens: OUTPUT_PRICE_PER_1M
+        }
+        : null;
+
+    fs.writeFileSync(
+        usageFilePath,
+        JSON.stringify(usageData, null, 2),
+        "utf8"
+    );
+}
+
+// 오늘 날짜의 사용량 항목 가져오기
+function getDailyUsage(usageData, date) {
+    if (!usageData.daily[date]) {
+        usageData.daily[date] = {
+            requests: 0,
+            successfulResponses: 0,
+            inputTokens: 0,
+            outputTokens: 0,
+            totalTokens: 0,
+            estimatedCostUSD: hasValidPricing ? 0 : null
+        };
+    }
+
+    return usageData.daily[date];
+}
+
+// API 요청 횟수 기록
+// 실패한 요청도 포함
+function recordApiRequest() {
+    const usageData = loadUsageData();
+    const today = getKoreaDate();
+
+    const daily = getDailyUsage(usageData, today);
+
+    usageData.totals.requests += 1;
+    daily.requests += 1;
+
+    saveUsageData(usageData);
+}
+
+// API 응답의 토큰 사용량 기록
+function recordTokenUsage(responseUsage) {
+    if (!responseUsage) {
+        console.log(
+            "API 응답에 토큰 사용량 정보가 없어 기록을 건너뜁니다."
+        );
+        return;
+    }
+
+    const inputTokens = Number(responseUsage.input_tokens || 0);
+    const outputTokens = Number(responseUsage.output_tokens || 0);
+
+    const totalTokens = Number(
+        responseUsage.total_tokens ?? inputTokens + outputTokens
+    );
+
+    if (
+        !Number.isFinite(inputTokens) ||
+        !Number.isFinite(outputTokens) ||
+        !Number.isFinite(totalTokens)
+    ) {
+        console.log(
+            "토큰 사용량 형식이 올바르지 않아 기록을 건너뜁니다."
+        );
+        return;
+    }
+
+    const usageData = loadUsageData();
+    const today = getKoreaDate();
+
+    const daily = getDailyUsage(usageData, today);
+
+    usageData.totals.successfulResponses += 1;
+    usageData.totals.inputTokens += inputTokens;
+    usageData.totals.outputTokens += outputTokens;
+    usageData.totals.totalTokens += totalTokens;
+
+    daily.successfulResponses += 1;
+    daily.inputTokens += inputTokens;
+    daily.outputTokens += outputTokens;
+    daily.totalTokens += totalTokens;
+
+    // 공식 단가가 설정된 경우에만 비용 계산
+    if (hasValidPricing) {
+        const cost =
+            (inputTokens / 1000000) * INPUT_PRICE_PER_1M +
+            (outputTokens / 1000000) * OUTPUT_PRICE_PER_1M;
+
+        usageData.totals.estimatedCostUSD =
+            (usageData.totals.estimatedCostUSD || 0) + cost;
+
+        daily.estimatedCostUSD =
+            (daily.estimatedCostUSD || 0) + cost;
+    }
+
+    saveUsageData(usageData);
+}
+
+// 뉴스 JSON 파일 저장
 function saveData(data) {
     fs.writeFileSync(
         filePath,
@@ -131,7 +311,8 @@ function getRetryAfter(error) {
                 );
             }
 
-            const dateDelay = new Date(value).getTime() - Date.now();
+            const dateDelay =
+                new Date(value).getTime() - Date.now();
 
             if (dateDelay > 0) {
                 return Math.min(
@@ -140,8 +321,9 @@ function getRetryAfter(error) {
                 );
             }
         }
+
     } catch (error) {
-        // Retry-After 정보를 읽지 못하면 기본 대기 시간 사용
+        // 기본 대기 시간 사용
     }
 
     return null;
@@ -196,11 +378,18 @@ function validateAnalysisResult(result, batchLength) {
 
 // AI 분석 요청 및 자동 재시도
 async function requestAnalysis(newsText, batchLength) {
-    for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    for (
+        let attempt = 0;
+        attempt <= MAX_RETRIES;
+        attempt++
+    ) {
         try {
             console.log(
                 `AI API 요청 (${attempt + 1}/${MAX_RETRIES + 1}회차)`
             );
+
+            // 성공/실패와 관계없이 요청 횟수 기록
+            recordApiRequest();
 
             const response = await client.responses.create({
                 model: "gpt-6-luna",
@@ -240,6 +429,9 @@ ${newsText}
 `
             });
 
+            // API 응답의 실제 토큰 사용량 기록
+            recordTokenUsage(response.usage);
+
             const result = parseJSON(response.output_text);
 
             return validateAnalysisResult(
@@ -254,7 +446,10 @@ ${newsText}
                 `AI 분석 요청 실패: ${error.message}`
             );
 
-            if (!retryable || attempt >= MAX_RETRIES) {
+            if (
+                !retryable ||
+                attempt >= MAX_RETRIES
+            ) {
                 throw error;
             }
 
@@ -289,14 +484,21 @@ async function analyzeNews() {
         const articles = data.articles;
 
         const pendingArticles = articles
-            .map((article, index) => ({ article, index }))
+            .map((article, index) => ({
+                article,
+                index
+            }))
             .filter(({ article }) => !isAnalyzed(article));
 
         console.log(`전체 뉴스: ${articles.length}개`);
+
         console.log(
             `분석 완료: ${articles.length - pendingArticles.length}개`
         );
-        console.log(`분석 대기: ${pendingArticles.length}개`);
+
+        console.log(
+            `분석 대기: ${pendingArticles.length}개`
+        );
 
         let todayCount = getTodayAnalysisCount(articles);
 
@@ -304,7 +506,9 @@ async function analyzeNews() {
         console.log(`하루 분석 한도: ${DAILY_ANALYSIS_LIMIT}개`);
 
         if (pendingArticles.length === 0) {
-            console.log("모든 뉴스의 AI 분석이 완료되었습니다.");
+            console.log(
+                "모든 뉴스의 AI 분석이 완료되었습니다."
+            );
             return;
         }
 
@@ -323,11 +527,16 @@ async function analyzeNews() {
                 i + Math.min(BATCH_SIZE, remainingLimit)
             );
 
-            console.log(`\nAI 분석 시작: ${batch.length}개 뉴스`);
+            console.log(
+                `\nAI 분석 시작: ${batch.length}개 뉴스`
+            );
 
             // 요청 간격 조절
             if (i > 0) {
-                console.log("다음 API 요청 전 대기합니다.");
+                console.log(
+                    "다음 API 요청 전 대기합니다."
+                );
+
                 await sleep(REQUEST_INTERVAL_MS);
             }
 
@@ -347,18 +556,24 @@ async function analyzeNews() {
                 );
 
                 for (const analysis of result.analyses) {
-                    const index = Number(analysis.index) - 1;
+                    const index =
+                        Number(analysis.index) - 1;
+
                     const article = batch[index].article;
 
                     Object.assign(article, {
                         technicalSignificance:
                             analysis.technicalSignificance,
+
                         careerRelevance:
                             analysis.careerRelevance,
+
                         relatedJobs:
                             analysis.relatedJobs,
+
                         skillsToLearn:
                             analysis.skillsToLearn,
+
                         terms:
                             analysis.terms,
 
@@ -378,6 +593,7 @@ async function analyzeNews() {
                 saveData(data);
 
                 console.log("분석 결과 저장 완료!");
+
                 console.log(
                     `오늘 분석 누적: ${todayCount}/${DAILY_ANALYSIS_LIMIT}개`
                 );
@@ -410,6 +626,7 @@ async function analyzeNews() {
 
         // 최종 저장
         data.generatedAt = new Date().toISOString();
+
         saveData(data);
 
         const remaining = data.articles.filter(
@@ -417,11 +634,65 @@ async function analyzeNews() {
         ).length;
 
         console.log("\n최종 분석 결과");
+
         console.log(`전체 뉴스: ${articles.length}개`);
-        console.log(`분석 완료: ${articles.length - remaining}개`);
+
+        console.log(
+            `분석 완료: ${articles.length - remaining}개`
+        );
+
         console.log(`분석 미완료: ${remaining}개`);
+
         console.log(
             `오늘 분석량: ${todayCount}/${DAILY_ANALYSIS_LIMIT}개`
+        );
+
+        // API 사용량 요약
+        const usageSummary = loadUsageData();
+
+        const todayUsage =
+            usageSummary.daily[getKoreaDate()] || {
+                requests: 0,
+                inputTokens: 0,
+                outputTokens: 0,
+                totalTokens: 0,
+                estimatedCostUSD: null
+            };
+
+        console.log("\n오늘 API 사용량");
+
+        console.log(
+            `API 요청 횟수: ${todayUsage.requests}회`
+        );
+
+        console.log(
+            `입력 토큰: ${todayUsage.inputTokens}`
+        );
+
+        console.log(
+            `출력 토큰: ${todayUsage.outputTokens}`
+        );
+
+        console.log(
+            `총 토큰: ${todayUsage.totalTokens}`
+        );
+
+        if (hasValidPricing) {
+            console.log(
+                `오늘 예상 비용: $${todayUsage.estimatedCostUSD.toFixed(6)}`
+            );
+        } else {
+            console.log(
+                "예상 비용: 단가 미설정 (공식 모델 단가 확인 후 설정 필요)"
+            );
+        }
+
+        console.log(
+            `누적 API 요청: ${usageSummary.totals.requests}회`
+        );
+
+        console.log(
+            `누적 토큰: ${usageSummary.totals.totalTokens}`
         );
 
         if (stopAnalysis) {
@@ -430,7 +701,10 @@ async function analyzeNews() {
             );
         }
 
-        if (todayCount >= DAILY_ANALYSIS_LIMIT && remaining > 0) {
+        if (
+            todayCount >= DAILY_ANALYSIS_LIMIT &&
+            remaining > 0
+        ) {
             console.log(
                 "일일 분석 한도 도달: 남은 뉴스는 다음 실행에서 분석합니다."
             );
@@ -439,7 +713,9 @@ async function analyzeNews() {
         if (failed || remaining > 0) {
             process.exitCode = 1;
         } else {
-            console.log("모든 뉴스 분석 및 저장 완료!");
+            console.log(
+                "모든 뉴스 분석 및 저장 완료!"
+            );
         }
 
     } catch (error) {
