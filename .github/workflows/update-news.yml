@@ -1,13 +1,10 @@
-
-name: SEA Semiconductor News Update
+﻿name: SEA Semiconductor News Update
 
 on:
   schedule:
-    # 매일 오전 9시, 오후 9시 (한국 시간)
     - cron: "0 0 * * *"
     - cron: "0 12 * * *"
 
-  # GitHub에서 수동 실행할 수 있도록 설정
   workflow_dispatch:
 
 permissions:
@@ -18,34 +15,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 저장소 코드 가져오기
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Node.js 환경 설정
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
 
-      # 라이브러리 설치
       - name: Install dependencies
         run: npm ci
 
-      # RSS 뉴스 수집
       - name: Fetch semiconductor news
         run: node scripts/fetch-news.js
 
-      # AI 뉴스 분석
       - name: Analyze news with AI
         run: node scripts/analyze-news.js
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      # 변경된 뉴스 데이터 저장
-      - name: Save updated news
+      - name: Save updated news and API usage
+        if: always()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update semiconductor news"
-          file_pattern: data/news.json
+          commit_message: "Update semiconductor news and API usage"
+          file_pattern: data/news.json data/usage.json
