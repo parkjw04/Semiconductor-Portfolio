@@ -1,4 +1,4 @@
-
+﻿
 const OpenAI = require("openai");
 const fs = require("fs");
 const path = require("path");
@@ -473,6 +473,8 @@ ${newsText}
 
 // 메인 분석 함수
 async function analyzeNews() {
+    // API 호출 여부와 관계없이 사용량 파일 초기화
+    saveUsageData(loadUsageData());
     let failed = false;
     let stopAnalysis = false;
 
@@ -729,3 +731,4 @@ async function analyzeNews() {
 }
 
 analyzeNews();
+
