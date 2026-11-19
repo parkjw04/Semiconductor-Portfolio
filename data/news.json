@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:20:50.114Z",
+  "generatedAt": "2026-11-19T04:32:30.697Z",
   "dailyBriefing": "AI 브리핑은 추후 분석 기능 연결 후 제공됩니다.",
   "articles": [
     {
@@ -234,34 +234,39 @@
       "aiAnalyzedAt": "2026-11-19T04:20:36.788Z"
     },
     {
-      "id": 31,
-      "title": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정 - 베리타스알파",
+      "id": 44,
+      "title": "AI 인프라 수요 확대에 공급망 강화…기판·첨단 패키징 생산능력 확충 - 올포칩",
       "category": "패키징",
       "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
       "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DaTY0bnIxSWVGMDdleWM5d2lUakY1MnpPcWg2QzBfZ1p3LXMzTENWbHFFNXBiaXluR3BmRTNrRjFsRFNLOGhqMy1pZF9lSXVLT2JqNU9aOGQzSHQtTjctc3h5NXlxWmhIR3NGNA?oc=5",
-      "summary": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정  베리타스알파",
-      "technicalSignificance": "충북대 신소재공학과 대학원생들의 첨단 패키징 관련 연구 성과가 인정받았다는 내용입니다. 구체적인 연구 주제, 기술 성과와 인정의 형태가 제시되지 않아 기술적 기여나 산업 적용 가능성은 판단하기 어렵습니다.",
-      "careerRelevance": "첨단 패키징 연구와 소재 분야에 관심 있는 학생에게 관련 연구 경험의 중요성을 보여주는 사례입니다. 다만 기사 제목만으로 해당 연구가 기업의 제품이나 채용 직무와 어떻게 연결되는지는 확인할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jZXJxbjZ3VElvU3lIYWVhcTJpbFE2c1d2ZjhUVE9KbG9obTh6aVE0SXVUTWVpTTRTV3hvNXhncFdYT2R1cTc3SHNjWmotZUtXSDZ1WXlNT0g1YUMzRDNzX2R3bmpvdw?oc=5",
+      "summary": "AI 인프라 수요 확대에 공급망 강화…기판·첨단 패키징 생산능력 확충  올포칩",
+      "technicalSignificance": "AI 인프라 수요에 대응해 기판과 첨단 패키징 생산능력을 확충한다는 내용입니다. 고성능 반도체의 수요가 늘면 칩을 연결하고 시스템으로 구성하는 패키징과 기판의 중요성이 커질 수 있습니다. 투자 주체, 생산 규모, 구체적인 패키징 기술은 제공된 정보만으로 확인되지 않습니다.",
+      "careerRelevance": "기판 제조와 첨단 패키징의 생산능력 확대는 관련 기업의 공정·설비·품질·생산기술 직무와 연결됩니다. 다만 증설 계획만으로 구체적인 채용 규모를 추정할 수는 없습니다.",
       "relatedJobs": [
-        "반도체 패키징 연구개발 엔지니어",
-        "패키징 소재 개발 엔지니어",
-        "반도체 공정·소재 분석 엔지니어"
+        "첨단 패키징 공정 엔지니어",
+        "반도체 기판 공정·제품 엔지니어",
+        "패키징 설비 엔지니어",
+        "생산기술·품질 엔지니어"
       ],
       "skillsToLearn": [
-        "반도체 패키징 구조와 공정 기초",
-        "재료과학 및 재료 특성 분석",
-        "실험 설계와 연구 데이터 해석",
-        "연구 결과를 기술 문서와 발표 자료로 정리하는 능력"
+        "반도체 패키징 구조와 조립 공정 기초",
+        "기판의 배선·재료·제조 공정 이해",
+        "공정 조건 관리와 불량 분석",
+        "생산능력·수율·품질 지표 해석"
       ],
       "terms": [
         {
           "term": "첨단 패키징",
-          "explanation": "칩을 연결하고 보호하는 패키지 기술 중, 여러 칩을 가깝게 배치하거나 적층해 성능과 집적도를 높이는 기술을 통칭합니다."
+          "explanation": "칩을 단순히 보호하는 수준을 넘어 여러 칩을 촘촘하게 연결해 성능과 전력 효율을 높이는 패키징 기술입니다."
         },
         {
-          "term": "신소재공학",
-          "explanation": "재료의 구조와 특성을 연구해 새로운 기능을 가진 소재를 개발하거나 기존 소재의 성능을 개선하는 분야입니다."
+          "term": "반도체 기판",
+          "explanation": "칩과 외부 회로를 전기적으로 연결하고 칩을 지지하는 부품입니다."
+        },
+        {
+          "term": "생산능력 확충",
+          "explanation": "설비나 생산라인을 늘려 일정 기간에 만들 수 있는 제품의 양을 키우는 것을 뜻합니다."
         }
       ]
     },
@@ -303,39 +308,34 @@
       ]
     },
     {
-      "id": 44,
-      "title": "AI 인프라 수요 확대에 공급망 강화…기판·첨단 패키징 생산능력 확충 - 올포칩",
+      "id": 31,
+      "title": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정 - 베리타스알파",
       "category": "패키징",
       "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
       "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jZXJxbjZ3VElvU3lIYWVhcTJpbFE2c1d2ZjhUVE9KbG9obTh6aVE0SXVUTWVpTTRTV3hvNXhncFdYT2R1cTc3SHNjWmotZUtXSDZ1WXlNT0g1YUMzRDNzX2R3bmpvdw?oc=5",
-      "summary": "AI 인프라 수요 확대에 공급망 강화…기판·첨단 패키징 생산능력 확충  올포칩",
-      "technicalSignificance": "AI 인프라 수요에 대응해 기판과 첨단 패키징 생산능력을 확충한다는 내용입니다. 고성능 반도체의 수요가 늘면 칩을 연결하고 시스템으로 구성하는 패키징과 기판의 중요성이 커질 수 있습니다. 투자 주체, 생산 규모, 구체적인 패키징 기술은 제공된 정보만으로 확인되지 않습니다.",
-      "careerRelevance": "기판 제조와 첨단 패키징의 생산능력 확대는 관련 기업의 공정·설비·품질·생산기술 직무와 연결됩니다. 다만 증설 계획만으로 구체적인 채용 규모를 추정할 수는 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DaTY0bnIxSWVGMDdleWM5d2lUakY1MnpPcWg2QzBfZ1p3LXMzTENWbHFFNXBiaXluR3BmRTNrRjFsRFNLOGhqMy1pZF9lSXVLT2JqNU9aOGQzSHQtTjctc3h5NXlxWmhIR3NGNA?oc=5",
+      "summary": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정  베리타스알파",
+      "technicalSignificance": "충북대 신소재공학과 대학원생들의 첨단 패키징 관련 연구 성과가 인정받았다는 내용입니다. 구체적인 연구 주제, 기술 성과와 인정의 형태가 제시되지 않아 기술적 기여나 산업 적용 가능성은 판단하기 어렵습니다.",
+      "careerRelevance": "첨단 패키징 연구와 소재 분야에 관심 있는 학생에게 관련 연구 경험의 중요성을 보여주는 사례입니다. 다만 기사 제목만으로 해당 연구가 기업의 제품이나 채용 직무와 어떻게 연결되는지는 확인할 수 없습니다.",
       "relatedJobs": [
-        "첨단 패키징 공정 엔지니어",
-        "반도체 기판 공정·제품 엔지니어",
-        "패키징 설비 엔지니어",
-        "생산기술·품질 엔지니어"
+        "반도체 패키징 연구개발 엔지니어",
+        "패키징 소재 개발 엔지니어",
+        "반도체 공정·소재 분석 엔지니어"
       ],
       "skillsToLearn": [
-        "반도체 패키징 구조와 조립 공정 기초",
-        "기판의 배선·재료·제조 공정 이해",
-        "공정 조건 관리와 불량 분석",
-        "생산능력·수율·품질 지표 해석"
+        "반도체 패키징 구조와 공정 기초",
+        "재료과학 및 재료 특성 분석",
+        "실험 설계와 연구 데이터 해석",
+        "연구 결과를 기술 문서와 발표 자료로 정리하는 능력"
       ],
       "terms": [
         {
           "term": "첨단 패키징",
-          "explanation": "칩을 단순히 보호하는 수준을 넘어 여러 칩을 촘촘하게 연결해 성능과 전력 효율을 높이는 패키징 기술입니다."
+          "explanation": "칩을 연결하고 보호하는 패키지 기술 중, 여러 칩을 가깝게 배치하거나 적층해 성능과 집적도를 높이는 기술을 통칭합니다."
         },
         {
-          "term": "반도체 기판",
-          "explanation": "칩과 외부 회로를 전기적으로 연결하고 칩을 지지하는 부품입니다."
-        },
-        {
-          "term": "생산능력 확충",
-          "explanation": "설비나 생산라인을 늘려 일정 기간에 만들 수 있는 제품의 양을 키우는 것을 뜻합니다."
+          "term": "신소재공학",
+          "explanation": "재료의 구조와 특성을 연구해 새로운 기능을 가진 소재를 개발하거나 기존 소재의 성능을 개선하는 분야입니다."
         }
       ]
     },
