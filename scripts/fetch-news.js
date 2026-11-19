@@ -74,7 +74,9 @@ function preserveAnalysis(oldArticle, newArticle) {
         "careerRelevance",
         "relatedJobs",
         "skillsToLearn",
-        "terms"
+        "terms",
+        "aiAnalyzedDate",
+        "aiAnalyzedAt"
     ];
 
     const merged = {

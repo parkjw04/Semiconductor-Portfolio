@@ -8,7 +8,20 @@ const client = new OpenAI({
 });
 
 const filePath = path.join(__dirname, "../data/news.json");
+
+// 분석 설정
 const BATCH_SIZE = 5;
+const DAILY_ANALYSIS_LIMIT = 15;
+
+// 한국 시간 기준 날짜
+function getKoreaDate() {
+    return new Intl.DateTimeFormat("en-CA", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+    }).format(new Date());
+}
 
 // JSON 파일 저장
 function saveData(data) {
@@ -29,7 +42,7 @@ function parseJSON(text) {
     return JSON.parse(cleaned);
 }
 
-// 분석이 완료된 기사인지 확인
+// 분석 완료 여부 확인
 function isAnalyzed(article) {
     return Boolean(
         article.technicalSignificance &&
@@ -39,6 +52,16 @@ function isAnalyzed(article) {
         Array.isArray(article.terms) &&
         article.terms.length > 0
     );
+}
+
+// 오늘 분석한 뉴스 개수 확인
+function getTodayAnalysisCount(articles) {
+    const today = getKoreaDate();
+
+    return articles.filter(article =>
+        article.aiAnalyzedDate === today &&
+        isAnalyzed(article)
+    ).length;
 }
 
 async function analyzeNews() {
@@ -56,21 +79,35 @@ async function analyzeNews() {
             .filter(({ article }) => !isAnalyzed(article));
 
         console.log(`전체 뉴스: ${articles.length}개`);
-        console.log(`분석 완료: ${articles.length - pendingArticles.length}개`);
+        console.log(
+            `분석 완료: ${articles.length - pendingArticles.length}개`
+        );
         console.log(`분석 대기: ${pendingArticles.length}개`);
+
+        let todayCount = getTodayAnalysisCount(articles);
+
+        console.log(`오늘 분석 완료: ${todayCount}개`);
+        console.log(`하루 분석 한도: ${DAILY_ANALYSIS_LIMIT}개`);
 
         if (pendingArticles.length === 0) {
             console.log("모든 뉴스의 AI 분석이 완료되었습니다.");
             return;
         }
 
-        // 뉴스 5개씩 묶어서 분석
+        // 하루 분석 한도 내에서만 진행
         for (
             let i = 0;
-            i < pendingArticles.length;
+            i < pendingArticles.length &&
+            todayCount < DAILY_ANALYSIS_LIMIT;
             i += BATCH_SIZE
         ) {
-            const batch = pendingArticles.slice(i, i + BATCH_SIZE);
+            const remainingLimit =
+                DAILY_ANALYSIS_LIMIT - todayCount;
+
+            const batch = pendingArticles.slice(
+                i,
+                i + Math.min(BATCH_SIZE, remainingLimit)
+            );
 
             console.log(`\nAI 분석 시작: ${batch.length}개 뉴스`);
 
@@ -124,19 +161,27 @@ ${newsText}
                 const result = parseJSON(response.output_text);
 
                 if (!Array.isArray(result.analyses)) {
-                    throw new Error("AI 응답에 analyses 배열이 없습니다.");
+                    throw new Error(
+                        "AI 응답에 analyses 배열이 없습니다."
+                    );
                 }
 
-                // 뉴스별 분석 결과 반영
+                const analyzedIndexes = new Set();
+
                 for (const analysis of result.analyses) {
                     const index = Number(analysis.index) - 1;
 
                     if (
                         !Number.isInteger(index) ||
                         index < 0 ||
-                        index >= batch.length
+                        index >= batch.length ||
+                        analyzedIndexes.has(index)
                     ) {
-                        console.log("잘못된 뉴스 번호:", analysis.index);
+                        console.log(
+                            "잘못되거나 중복된 뉴스 번호:",
+                            analysis.index
+                        );
+                        failed = true;
                         continue;
                     }
 
@@ -147,34 +192,52 @@ ${newsText}
                         !analysis.careerRelevance ||
                         !Array.isArray(analysis.relatedJobs) ||
                         !Array.isArray(analysis.skillsToLearn) ||
-                        !Array.isArray(analysis.terms)
+                        !Array.isArray(analysis.terms) ||
+                        analysis.terms.length === 0
                     ) {
-                        console.log(`분석 결과 형식 오류: ${article.title}`);
+                        console.log(
+                            `분석 결과 형식 오류: ${article.title}`
+                        );
                         failed = true;
                         continue;
                     }
 
                     Object.assign(article, {
-                        technicalSignificance: analysis.technicalSignificance,
-                        careerRelevance: analysis.careerRelevance,
+                        technicalSignificance:
+                            analysis.technicalSignificance,
+                        careerRelevance:
+                            analysis.careerRelevance,
                         relatedJobs: analysis.relatedJobs,
                         skillsToLearn: analysis.skillsToLearn,
-                        terms: analysis.terms
+                        terms: analysis.terms,
+
+                        // 분석 완료 날짜 기록
+                        aiAnalyzedDate: getKoreaDate(),
+                        aiAnalyzedAt: new Date().toISOString()
                     });
+
+                    analyzedIndexes.add(index);
+                    todayCount++;
 
                     console.log(`분석 완료: ${article.title}`);
                 }
 
-                // 묶음 분석이 끝날 때마다 저장
+                // 분석 결과 즉시 저장
                 saveData(data);
 
                 console.log("분석 결과 저장 완료!");
+                console.log(
+                    `오늘 분석 누적: ${todayCount}/${DAILY_ANALYSIS_LIMIT}개`
+                );
+
+                if (analyzedIndexes.size !== batch.length) {
+                    failed = true;
+                }
 
             } catch (error) {
                 console.error("AI 분석 오류:", error.message);
                 failed = true;
 
-                // 요청 한도 초과라면 추가 요청을 중단
                 if (
                     error.status === 429 ||
                     error.code === "rate_limit_exceeded"
@@ -185,7 +248,6 @@ ${newsText}
                     break;
                 }
 
-                // 그 외 오류는 다음 묶음으로 진행
                 console.log("다음 뉴스 묶음으로 진행합니다.");
             }
         }
@@ -202,6 +264,15 @@ ${newsText}
         console.log(`전체 뉴스: ${articles.length}개`);
         console.log(`분석 완료: ${articles.length - remaining}개`);
         console.log(`분석 미완료: ${remaining}개`);
+        console.log(
+            `오늘 분석량: ${todayCount}/${DAILY_ANALYSIS_LIMIT}개`
+        );
+
+        if (todayCount >= DAILY_ANALYSIS_LIMIT && remaining > 0) {
+            console.log(
+                "일일 분석 한도 도달: 남은 뉴스는 다음 실행에서 분석합니다."
+            );
+        }
 
         if (failed || remaining > 0) {
             process.exitCode = 1;
