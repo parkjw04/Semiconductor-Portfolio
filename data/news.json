@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:32:30.697Z",
+  "generatedAt": "2026-11-19T04:36:51.945Z",
   "dailyBriefing": "AI 브리핑은 추후 분석 기능 연결 후 제공됩니다.",
   "articles": [
     {
@@ -271,6 +271,38 @@
       ]
     },
     {
+      "id": 31,
+      "title": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정 - 베리타스알파",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DaTY0bnIxSWVGMDdleWM5d2lUakY1MnpPcWg2QzBfZ1p3LXMzTENWbHFFNXBiaXluR3BmRTNrRjFsRFNLOGhqMy1pZF9lSXVLT2JqNU9aOGQzSHQtTjctc3h5NXlxWmhIR3NGNA?oc=5",
+      "summary": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정  베리타스알파",
+      "technicalSignificance": "충북대 신소재공학과 대학원생들의 첨단 패키징 관련 연구 성과가 인정받았다는 내용입니다. 구체적인 연구 주제, 기술 성과와 인정의 형태가 제시되지 않아 기술적 기여나 산업 적용 가능성은 판단하기 어렵습니다.",
+      "careerRelevance": "첨단 패키징 연구와 소재 분야에 관심 있는 학생에게 관련 연구 경험의 중요성을 보여주는 사례입니다. 다만 기사 제목만으로 해당 연구가 기업의 제품이나 채용 직무와 어떻게 연결되는지는 확인할 수 없습니다.",
+      "relatedJobs": [
+        "반도체 패키징 연구개발 엔지니어",
+        "패키징 소재 개발 엔지니어",
+        "반도체 공정·소재 분석 엔지니어"
+      ],
+      "skillsToLearn": [
+        "반도체 패키징 구조와 공정 기초",
+        "재료과학 및 재료 특성 분석",
+        "실험 설계와 연구 데이터 해석",
+        "연구 결과를 기술 문서와 발표 자료로 정리하는 능력"
+      ],
+      "terms": [
+        {
+          "term": "첨단 패키징",
+          "explanation": "칩을 연결하고 보호하는 패키지 기술 중, 여러 칩을 가깝게 배치하거나 적층해 성능과 집적도를 높이는 기술을 통칭합니다."
+        },
+        {
+          "term": "신소재공학",
+          "explanation": "재료의 구조와 특성을 연구해 새로운 기능을 가진 소재를 개발하거나 기존 소재의 성능을 개선하는 분야입니다."
+        }
+      ]
+    },
+    {
       "id": 32,
       "title": "HBM 다음은 첨단 패키징…반도체 소부장으로 매수 '줍줍' - 핀포인트뉴스",
       "category": "패키징",
@@ -304,38 +336,6 @@
         {
           "term": "첨단 패키징",
           "explanation": "복수의 칩을 적층하거나 연결하는 등 패키지 단계에서 집적도와 기능을 높이는 기술입니다."
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "title": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정 - 베리타스알파",
-      "category": "패키징",
-      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
-      "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DaTY0bnIxSWVGMDdleWM5d2lUakY1MnpPcWg2QzBfZ1p3LXMzTENWbHFFNXBiaXluR3BmRTNrRjFsRFNLOGhqMy1pZF9lSXVLT2JqNU9aOGQzSHQtTjctc3h5NXlxWmhIR3NGNA?oc=5",
-      "summary": "충북대 신소재공학과 대학원생들 반도체 첨단 패키징 핵심 기술 연구 성과 인정  베리타스알파",
-      "technicalSignificance": "충북대 신소재공학과 대학원생들의 첨단 패키징 관련 연구 성과가 인정받았다는 내용입니다. 구체적인 연구 주제, 기술 성과와 인정의 형태가 제시되지 않아 기술적 기여나 산업 적용 가능성은 판단하기 어렵습니다.",
-      "careerRelevance": "첨단 패키징 연구와 소재 분야에 관심 있는 학생에게 관련 연구 경험의 중요성을 보여주는 사례입니다. 다만 기사 제목만으로 해당 연구가 기업의 제품이나 채용 직무와 어떻게 연결되는지는 확인할 수 없습니다.",
-      "relatedJobs": [
-        "반도체 패키징 연구개발 엔지니어",
-        "패키징 소재 개발 엔지니어",
-        "반도체 공정·소재 분석 엔지니어"
-      ],
-      "skillsToLearn": [
-        "반도체 패키징 구조와 공정 기초",
-        "재료과학 및 재료 특성 분석",
-        "실험 설계와 연구 데이터 해석",
-        "연구 결과를 기술 문서와 발표 자료로 정리하는 능력"
-      ],
-      "terms": [
-        {
-          "term": "첨단 패키징",
-          "explanation": "칩을 연결하고 보호하는 패키지 기술 중, 여러 칩을 가깝게 배치하거나 적층해 성능과 집적도를 높이는 기술을 통칭합니다."
-        },
-        {
-          "term": "신소재공학",
-          "explanation": "재료의 구조와 특성을 연구해 새로운 기능을 가진 소재를 개발하거나 기존 소재의 성능을 개선하는 분야입니다."
         }
       ]
     },
@@ -760,6 +760,126 @@
       ]
     },
     {
+      "id": 50,
+      "title": "[지명훈 칼럼] AI 반도체 전쟁의 행운·비전·정치 - 대전일보",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX2lsX0VmZDF3TkNWa0phcmFsdmVGWlVpbHV3WTRGOGRBcU9ONndHeVFwbUpSQS12T2w1LXJiSWpBeUdCbTdmWWVtUThiX2pGTXlnVTg0QU5Zb29EQlZvTFd2ZG1KLTlyR2lNV1dQZ9IBc0FVX3lxTE5FOEpWT3VQY1VkWlJnM3JobmRkZGdqYlRSRDVGR2F5bXF6WTJiaHhtWXFwVVRWbTNhcXpVajl2djlfTG5tUjdveE9pZ1dEcHV6a0JzTzdTcjg5anFVaU1fODQ5cTNKU2JraWphNFJiZHhaYzg?oc=5",
+      "summary": "[지명훈 칼럼] AI 반도체 전쟁의 행운·비전·정치  대전일보",
+      "technicalSignificance": "AI 반도체 경쟁을 행운·비전·정치의 관점에서 다룬 칼럼이라는 점만 확인된다. 칼럼의 구체적인 주장이나 기술 사례가 제공되지 않아 기술적 분석과 결론은 판단하기 어렵다.",
+      "careerRelevance": "AI 반도체 분야 전반에 관심을 갖는 계기는 될 수 있지만, 칼럼의 구체적인 내용이 없어 특정 직무나 기술 역량과 직접 연결하기 어렵다. 일반적으로는 AI 연산용 칩 설계·검증과 반도체 제조·패키징 직무가 관련된다.",
+      "relatedJobs": [
+        "AI 반도체 설계 엔지니어",
+        "디지털 회로 검증 엔지니어",
+        "반도체 공정 엔지니어",
+        "첨단 패키징 엔지니어",
+        "반도체 산업·정책 분석가"
+      ],
+      "skillsToLearn": [
+        "디지털 논리회로와 컴퓨터 구조",
+        "GPU 및 AI 가속기의 기본 구조",
+        "반도체 설계·검증 또는 공정·패키징 기초",
+        "AI 반도체 산업과 기술정책 동향을 비판적으로 읽는 능력"
+      ],
+      "terms": [
+        {
+          "term": "AI 반도체",
+          "explanation": "인공지능 모델의 학습이나 추론에 필요한 대규모 연산을 효율적으로 수행하도록 설계된 반도체를 말한다."
+        },
+        {
+          "term": "GPU",
+          "explanation": "여러 계산을 동시에 처리하는 데 강점이 있는 프로세서다. 그래픽 처리뿐 아니라 AI 연산에도 널리 활용되지만, 해당 칼럼에서 GPU를 구체적으로 다뤘는지는 확인되지 않는다."
+        },
+        {
+          "term": "기술정책",
+          "explanation": "정부가 기술 개발, 산업 경쟁력, 연구 투자와 관련해 세우는 정책과 제도다. 칼럼 제목에 정치가 언급됐지만 구체적인 정책 논지는 제공되지 않았다."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "삼성전자 AI 반도체 증설에 협력사 노동자 과로·안전 '위협' - 세이프타임즈",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTElqYmp3bXd6UXBaWXZEUGJ5LW9pbDVWWjZIX3NCUGZNRU04VG5GNHotNzBhcDlSaXFvc0ZLRXJ5X0lvOTg4WjNtOVRoVmZYbjJfXzVqdW1BMWo4ZjBPQ2V6NHdQTHVYcW1Oci1NY9IBc0FVX3lxTE00bGxMQmhDQ3l6M21tenVodGVoSlRQWEpVY1psYmIzS0FLYm1LT1h4MFc2OWRLZVo0cHJTSHM1a2dKZ2IxWlVObjNMd1I4M0ZVMDM5MW1VRHdwZlZBUTc1WEJiRGJRWmxRcVBYX0dOLUNPOVk?oc=5",
+      "summary": "삼성전자 AI 반도체 증설에 협력사 노동자 과로·안전 '위협'  세이프타임즈",
+      "technicalSignificance": "제목만으로는 어떤 AI 반도체 제품이나 공정이 증설되는지 확인할 수 없어 기술적 변화의 구체적인 내용은 판단하기 어렵습니다. 다만 반도체 생산시설 증설 과정에서 협력사 노동자의 과로와 안전 문제가 제기됐다는 점은 생산능력 확대와 현장 안전관리의 균형이 중요함을 보여줍니다.",
+      "careerRelevance": "반도체 취업을 준비할 때 공정·설비 기술뿐 아니라 생산시설 구축 및 운영 과정의 안전관리와 협력사 관리도 중요한 업무임을 보여주는 사례입니다. 구체적인 사고나 근무 실태는 제공된 내용만으로 확인할 수 없습니다.",
+      "relatedJobs": [
+        "산업안전·보건(EHS) 담당자",
+        "반도체 팹 설비·시설 엔지니어",
+        "공장 증설 프로젝트 관리 담당자",
+        "협력사·시공사 안전관리 담당자",
+        "반도체 생산 운영 담당자"
+      ],
+      "skillsToLearn": [
+        "산업안전보건 법규와 위험성 평가 기초",
+        "건설·설비 작업의 안전관리 및 작업허가 절차",
+        "협력사 안전관리와 현장 점검 방법",
+        "반도체 생산시설의 설비·유틸리티 기초",
+        "프로젝트 일정 및 작업 인력 관리 기초"
+      ],
+      "terms": [
+        {
+          "term": "AI 반도체",
+          "explanation": "인공지능의 학습이나 추론에 필요한 계산을 효율적으로 수행하도록 설계된 반도체를 말합니다. 이 기사 제목만으로는 구체적인 제품 종류를 알 수 없습니다."
+        },
+        {
+          "term": "증설",
+          "explanation": "생산능력을 늘리기 위해 공장이나 설비를 새로 짓거나 기존 시설을 확장하는 일입니다."
+        },
+        {
+          "term": "협력사 노동자",
+          "explanation": "반도체 기업과 계약을 맺고 공사, 설비 설치, 유지보수 등의 업무를 수행하는 외부 업체 소속 노동자를 말합니다."
+        },
+        {
+          "term": "과로·안전 위협",
+          "explanation": "과도한 업무나 작업환경의 위험으로 노동자의 건강과 안전이 해를 입을 가능성을 뜻합니다. 구체적인 원인과 상황은 제공된 기사 내용만으로 확인하기 어렵습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-19",
+      "aiAnalyzedAt": "2026-11-19T04:36:51.944Z"
+    },
+    {
+      "id": 52,
+      "title": "HBM에 쏠리는 반도체 생산능력…AI가 바꾼 메모리 공급 공식 - PRESS9",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ERmF3Y00tM0NhNTAwSWRZd01Xa2VJMjZJMjVZMVliT3pYSHdVbXFfVG9zOWp1R1o2TC1HZDh0MW5BbjRvdlhIcU5SUHhfMUtlcVVHX19aNzE5YVluUTM0YmExSmM?oc=5",
+      "summary": "HBM에 쏠리는 반도체 생산능력…AI가 바꾼 메모리 공급 공식  PRESS9",
+      "technicalSignificance": "제목에 따르면 AI용 HBM 수요가 늘면서 메모리 생산능력이 HBM 중심으로 재편되는 흐름을 다룹니다. HBM은 여러 메모리 칩을 수직으로 쌓아 데이터 처리 성능과 대역폭을 높이는 제품으로, AI 가속기의 성능과 공급에 중요한 요소입니다. 다만 기사 본문이 제공되지 않아 생산능력 변화의 규모나 업체별 영향은 확인할 수 없습니다.",
+      "careerRelevance": "HBM 생산 확대는 메모리 설계·공정·패키징·검사 직무와 연관될 수 있습니다. 실제 채용 규모나 특정 기업의 인력 수요는 제목만으로 판단하기 어렵습니다.",
+      "relatedJobs": [
+        "메모리 반도체 공정 엔지니어",
+        "HBM 설계 엔지니어",
+        "반도체 패키징 엔지니어",
+        "제품·품질 테스트 엔지니어"
+      ],
+      "skillsToLearn": [
+        "DRAM 구조와 메모리 동작 원리",
+        "반도체 제조 공정의 기초",
+        "적층 및 고급 패키징 기초",
+        "메모리 대역폭·성능 평가의 기초"
+      ],
+      "terms": [
+        {
+          "term": "HBM",
+          "explanation": "고대역폭 메모리의 약자로, 메모리 칩을 여러 층으로 쌓아 데이터가 오가는 통로를 넓힌 메모리입니다. AI 가속기와 함께 사용되는 경우가 많습니다."
+        },
+        {
+          "term": "생산능력",
+          "explanation": "일정 기간에 공장이나 생산라인이 만들어 낼 수 있는 제품의 양을 뜻합니다."
+        },
+        {
+          "term": "메모리 공급",
+          "explanation": "시장에서 필요한 메모리 제품을 얼마나 안정적으로 생산하고 제공할 수 있는지를 뜻합니다."
+        }
+      ]
+    },
+    {
       "id": 60,
       "title": "책상 대신 생산라인으로…충북도, AI·반도체 해법 모색 - 뉴데일리 충청세종",
       "category": "AI 반도체",
@@ -838,120 +958,6 @@
       ],
       "aiAnalyzedDate": "2026-11-19",
       "aiAnalyzedAt": "2026-11-19T04:20:50.112Z"
-    },
-    {
-      "id": 62,
-      "title": "‘2026년 청소년 AI‧반도체 진로체험 캠프’ 참가자 모집 - 시사안성",
-      "category": "AI 반도체",
-      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
-      "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03OGZ3QWpkZTZBN3FyQUxKUWNIbjEwcGVXNjhWc1RobjVZNmFIdzFHazBseTVPb1dTak9YdFFIV3UyX1A0N2lxRVVGM1JXTVl5WFR1NnFFZmNJUVl1VjR4NWh3SmQ2QzhZaTBRag?oc=5",
-      "summary": "‘2026년 청소년 AI‧반도체 진로체험 캠프’ 참가자 모집  시사안성",
-      "technicalSignificance": "제목으로 확인되는 내용은 청소년 대상 AI·반도체 진로체험 캠프의 참가자 모집입니다. 반도체 기술이나 캠프의 구체적인 교육 내용은 제공된 정보에 없어 기술적 의의와 실제 체험 범위는 판단하기 어렵습니다.",
-      "careerRelevance": "청소년이 AI·반도체 분야의 진로를 알아보는 기회가 될 수 있습니다. 다만 캠프의 교육 과정, 대상, 체험 활동이 확인되지 않아 특정 직무 역량을 기를 수 있는지는 알 수 없습니다.",
-      "relatedJobs": [
-        "반도체 설계 엔지니어",
-        "반도체 공정 엔지니어",
-        "반도체 장비 엔지니어",
-        "AI 반도체 연구개발 엔지니어"
-      ],
-      "skillsToLearn": [
-        "반도체와 인공지능의 기초 개념",
-        "전자회로와 컴퓨터의 기본 원리",
-        "관심 있는 반도체 직무와 필요한 역량을 조사하는 방법",
-        "캠프에서 제공되는 교육 내용에 맞춘 기초 실습 역량"
-      ],
-      "terms": [
-        {
-          "term": "진로체험 캠프",
-          "explanation": "관심 분야의 활동이나 정보를 접하며 관련 직업과 진로를 알아보는 교육 프로그램입니다."
-        },
-        {
-          "term": "반도체",
-          "explanation": "전기가 흐르는 정도를 조절할 수 있어 컴퓨터와 전자기기의 핵심 부품을 만드는 데 쓰이는 물질 및 소자입니다."
-        },
-        {
-          "term": "AI 반도체",
-          "explanation": "인공지능에 필요한 연산을 수행하도록 설계된 반도체입니다. 이 캠프에서 구체적으로 어떤 AI 반도체 내용을 다루는지는 제공된 정보만으로 알 수 없습니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-19",
-      "aiAnalyzedAt": "2026-11-19T04:20:50.113Z"
-    },
-    {
-      "id": 50,
-      "title": "[지명훈 칼럼] AI 반도체 전쟁의 행운·비전·정치 - 대전일보",
-      "category": "AI 반도체",
-      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
-      "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX2lsX0VmZDF3TkNWa0phcmFsdmVGWlVpbHV3WTRGOGRBcU9ONndHeVFwbUpSQS12T2w1LXJiSWpBeUdCbTdmWWVtUThiX2pGTXlnVTg0QU5Zb29EQlZvTFd2ZG1KLTlyR2lNV1dQZ9IBc0FVX3lxTE5FOEpWT3VQY1VkWlJnM3JobmRkZGdqYlRSRDVGR2F5bXF6WTJiaHhtWXFwVVRWbTNhcXpVajl2djlfTG5tUjdveE9pZ1dEcHV6a0JzTzdTcjg5anFVaU1fODQ5cTNKU2JraWphNFJiZHhaYzg?oc=5",
-      "summary": "[지명훈 칼럼] AI 반도체 전쟁의 행운·비전·정치  대전일보",
-      "technicalSignificance": "AI 반도체 경쟁을 행운·비전·정치의 관점에서 다룬 칼럼이라는 점만 확인된다. 칼럼의 구체적인 주장이나 기술 사례가 제공되지 않아 기술적 분석과 결론은 판단하기 어렵다.",
-      "careerRelevance": "AI 반도체 분야 전반에 관심을 갖는 계기는 될 수 있지만, 칼럼의 구체적인 내용이 없어 특정 직무나 기술 역량과 직접 연결하기 어렵다. 일반적으로는 AI 연산용 칩 설계·검증과 반도체 제조·패키징 직무가 관련된다.",
-      "relatedJobs": [
-        "AI 반도체 설계 엔지니어",
-        "디지털 회로 검증 엔지니어",
-        "반도체 공정 엔지니어",
-        "첨단 패키징 엔지니어",
-        "반도체 산업·정책 분석가"
-      ],
-      "skillsToLearn": [
-        "디지털 논리회로와 컴퓨터 구조",
-        "GPU 및 AI 가속기의 기본 구조",
-        "반도체 설계·검증 또는 공정·패키징 기초",
-        "AI 반도체 산업과 기술정책 동향을 비판적으로 읽는 능력"
-      ],
-      "terms": [
-        {
-          "term": "AI 반도체",
-          "explanation": "인공지능 모델의 학습이나 추론에 필요한 대규모 연산을 효율적으로 수행하도록 설계된 반도체를 말한다."
-        },
-        {
-          "term": "GPU",
-          "explanation": "여러 계산을 동시에 처리하는 데 강점이 있는 프로세서다. 그래픽 처리뿐 아니라 AI 연산에도 널리 활용되지만, 해당 칼럼에서 GPU를 구체적으로 다뤘는지는 확인되지 않는다."
-        },
-        {
-          "term": "기술정책",
-          "explanation": "정부가 기술 개발, 산업 경쟁력, 연구 투자와 관련해 세우는 정책과 제도다. 칼럼 제목에 정치가 언급됐지만 구체적인 정책 논지는 제공되지 않았다."
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "title": "[2026 ETF 어워즈] [올해의 히트상품 하우스] AI반도체 탑2는 신한운용…81% 수익률로 개인 싹쓸이 - 딜사이트",
-      "category": "AI 반도체",
-      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
-      "publishedAt": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aeFpWWFNjU1ZVY3M1ZXkxZ0tzempoQUM4bGp2UmZWZjFOUGQxX05NQWRoWXF1dzZxbVpwT1dlb29nbC00OHZaRmpXRHQ1Skk?oc=5",
-      "summary": "[2026 ETF 어워즈] [올해의 히트상품 하우스] AI반도체 탑2는 신한운용…81% 수익률로 개인 싹쓸이  딜사이트",
-      "technicalSignificance": "AI 반도체 관련 ETF의 성과와 운용사 수상·상품 인기를 다룬 기사로 보인다. 제목에는 81% 수익률이 제시돼 있지만 기준 기간, 상품 구성, 수익률 산정 방식은 제공되지 않아 기술 성과나 향후 투자 성과를 판단할 수 없다.",
-      "careerRelevance": "반도체 취업과 직접 연결되는 기술·채용 정보는 아니다. 다만 AI 반도체 기업과 투자 상품에 대한 시장 관심을 파악하는 산업 동향 자료로 참고할 수 있다.",
-      "relatedJobs": [
-        "반도체 산업 애널리스트",
-        "자산운용사 반도체·테크 섹터 리서치 담당자",
-        "ETF 상품 기획·운용 담당자",
-        "반도체 기업 IR·시장 분석 담당자"
-      ],
-      "skillsToLearn": [
-        "ETF의 구조와 지수 추종 방식",
-        "수익률·위험·변동성 등 금융 지표 해석",
-        "AI 반도체 기업의 사업모델과 산업 가치사슬 분석",
-        "과거 수익률과 미래 성과를 구분해 판단하는 능력"
-      ],
-      "terms": [
-        {
-          "term": "ETF",
-          "explanation": "여러 자산이나 특정 지수를 묶어 주식처럼 거래할 수 있도록 만든 상장지수펀드다. 상품마다 편입 종목과 투자 위험이 다르다."
-        },
-        {
-          "term": "수익률",
-          "explanation": "투자한 금액이 일정 기간 동안 얼마나 늘거나 줄었는지를 나타내는 비율이다. 기준 기간과 계산 방식에 따라 값이 달라질 수 있다."
-        },
-        {
-          "term": "AI 반도체 ETF",
-          "explanation": "AI 반도체와 관련된 기업이나 지수를 중심으로 투자하도록 구성한 ETF를 가리킨다. 제목만으로 해당 상품의 편입 종목이나 투자 전략은 알 수 없다."
-        }
-      ]
     },
     {
       "id": 54,
@@ -1126,6 +1132,82 @@
         {
           "term": "반도체 핵심 거점",
           "explanation": "반도체 기업, 생산 시설, 연구·인력 기반 등이 모여 산업 활동의 중심 역할을 하는 지역을 가리킵니다."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "‘2026년 청소년 AI‧반도체 진로체험 캠프’ 참가자 모집 - 시사안성",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03OGZ3QWpkZTZBN3FyQUxKUWNIbjEwcGVXNjhWc1RobjVZNmFIdzFHazBseTVPb1dTak9YdFFIV3UyX1A0N2lxRVVGM1JXTVl5WFR1NnFFZmNJUVl1VjR4NWh3SmQ2QzhZaTBRag?oc=5",
+      "summary": "‘2026년 청소년 AI‧반도체 진로체험 캠프’ 참가자 모집  시사안성",
+      "technicalSignificance": "제목으로 확인되는 내용은 청소년 대상 AI·반도체 진로체험 캠프의 참가자 모집입니다. 반도체 기술이나 캠프의 구체적인 교육 내용은 제공된 정보에 없어 기술적 의의와 실제 체험 범위는 판단하기 어렵습니다.",
+      "careerRelevance": "청소년이 AI·반도체 분야의 진로를 알아보는 기회가 될 수 있습니다. 다만 캠프의 교육 과정, 대상, 체험 활동이 확인되지 않아 특정 직무 역량을 기를 수 있는지는 알 수 없습니다.",
+      "relatedJobs": [
+        "반도체 설계 엔지니어",
+        "반도체 공정 엔지니어",
+        "반도체 장비 엔지니어",
+        "AI 반도체 연구개발 엔지니어"
+      ],
+      "skillsToLearn": [
+        "반도체와 인공지능의 기초 개념",
+        "전자회로와 컴퓨터의 기본 원리",
+        "관심 있는 반도체 직무와 필요한 역량을 조사하는 방법",
+        "캠프에서 제공되는 교육 내용에 맞춘 기초 실습 역량"
+      ],
+      "terms": [
+        {
+          "term": "진로체험 캠프",
+          "explanation": "관심 분야의 활동이나 정보를 접하며 관련 직업과 진로를 알아보는 교육 프로그램입니다."
+        },
+        {
+          "term": "반도체",
+          "explanation": "전기가 흐르는 정도를 조절할 수 있어 컴퓨터와 전자기기의 핵심 부품을 만드는 데 쓰이는 물질 및 소자입니다."
+        },
+        {
+          "term": "AI 반도체",
+          "explanation": "인공지능에 필요한 연산을 수행하도록 설계된 반도체입니다. 이 캠프에서 구체적으로 어떤 AI 반도체 내용을 다루는지는 제공된 정보만으로 알 수 없습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-19",
+      "aiAnalyzedAt": "2026-11-19T04:20:50.113Z"
+    },
+    {
+      "id": 51,
+      "title": "[2026 ETF 어워즈] [올해의 히트상품 하우스] AI반도체 탑2는 신한운용…81% 수익률로 개인 싹쓸이 - 딜사이트",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aeFpWWFNjU1ZVY3M1ZXkxZ0tzempoQUM4bGp2UmZWZjFOUGQxX05NQWRoWXF1dzZxbVpwT1dlb29nbC00OHZaRmpXRHQ1Skk?oc=5",
+      "summary": "[2026 ETF 어워즈] [올해의 히트상품 하우스] AI반도체 탑2는 신한운용…81% 수익률로 개인 싹쓸이  딜사이트",
+      "technicalSignificance": "AI 반도체 관련 ETF의 성과와 운용사 수상·상품 인기를 다룬 기사로 보인다. 제목에는 81% 수익률이 제시돼 있지만 기준 기간, 상품 구성, 수익률 산정 방식은 제공되지 않아 기술 성과나 향후 투자 성과를 판단할 수 없다.",
+      "careerRelevance": "반도체 취업과 직접 연결되는 기술·채용 정보는 아니다. 다만 AI 반도체 기업과 투자 상품에 대한 시장 관심을 파악하는 산업 동향 자료로 참고할 수 있다.",
+      "relatedJobs": [
+        "반도체 산업 애널리스트",
+        "자산운용사 반도체·테크 섹터 리서치 담당자",
+        "ETF 상품 기획·운용 담당자",
+        "반도체 기업 IR·시장 분석 담당자"
+      ],
+      "skillsToLearn": [
+        "ETF의 구조와 지수 추종 방식",
+        "수익률·위험·변동성 등 금융 지표 해석",
+        "AI 반도체 기업의 사업모델과 산업 가치사슬 분석",
+        "과거 수익률과 미래 성과를 구분해 판단하는 능력"
+      ],
+      "terms": [
+        {
+          "term": "ETF",
+          "explanation": "여러 자산이나 특정 지수를 묶어 주식처럼 거래할 수 있도록 만든 상장지수펀드다. 상품마다 편입 종목과 투자 위험이 다르다."
+        },
+        {
+          "term": "수익률",
+          "explanation": "투자한 금액이 일정 기간 동안 얼마나 늘거나 줄었는지를 나타내는 비율이다. 기준 기간과 계산 방식에 따라 값이 달라질 수 있다."
+        },
+        {
+          "term": "AI 반도체 ETF",
+          "explanation": "AI 반도체와 관련된 기업이나 지수를 중심으로 투자하도록 구성한 ETF를 가리킨다. 제목만으로 해당 상품의 편입 종목이나 투자 전략은 알 수 없다."
         }
       ]
     },
@@ -1308,43 +1390,6 @@
         {
           "term": "드레스덴",
           "explanation": "독일의 도시로, 이 뉴스에서는 드레스덴시 대표단의 평택 방문과 반도체 산업 교류 논의가 언급됐다. 구체적인 협력 사업은 제공된 내용에서 확인되지 않는다."
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "title": "HBM에 쏠리는 반도체 생산능력…AI가 바꾼 메모리 공급 공식 - PRESS9",
-      "category": "AI 반도체",
-      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
-      "publishedAt": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ERmF3Y00tM0NhNTAwSWRZd01Xa2VJMjZJMjVZMVliT3pYSHdVbXFfVG9zOWp1R1o2TC1HZDh0MW5BbjRvdlhIcU5SUHhfMUtlcVVHX19aNzE5YVluUTM0YmExSmM?oc=5",
-      "summary": "HBM에 쏠리는 반도체 생산능력…AI가 바꾼 메모리 공급 공식  PRESS9",
-      "technicalSignificance": "제목에 따르면 AI용 HBM 수요가 늘면서 메모리 생산능력이 HBM 중심으로 재편되는 흐름을 다룹니다. HBM은 여러 메모리 칩을 수직으로 쌓아 데이터 처리 성능과 대역폭을 높이는 제품으로, AI 가속기의 성능과 공급에 중요한 요소입니다. 다만 기사 본문이 제공되지 않아 생산능력 변화의 규모나 업체별 영향은 확인할 수 없습니다.",
-      "careerRelevance": "HBM 생산 확대는 메모리 설계·공정·패키징·검사 직무와 연관될 수 있습니다. 실제 채용 규모나 특정 기업의 인력 수요는 제목만으로 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "메모리 반도체 공정 엔지니어",
-        "HBM 설계 엔지니어",
-        "반도체 패키징 엔지니어",
-        "제품·품질 테스트 엔지니어"
-      ],
-      "skillsToLearn": [
-        "DRAM 구조와 메모리 동작 원리",
-        "반도체 제조 공정의 기초",
-        "적층 및 고급 패키징 기초",
-        "메모리 대역폭·성능 평가의 기초"
-      ],
-      "terms": [
-        {
-          "term": "HBM",
-          "explanation": "고대역폭 메모리의 약자로, 메모리 칩을 여러 층으로 쌓아 데이터가 오가는 통로를 넓힌 메모리입니다. AI 가속기와 함께 사용되는 경우가 많습니다."
-        },
-        {
-          "term": "생산능력",
-          "explanation": "일정 기간에 공장이나 생산라인이 만들어 낼 수 있는 제품의 양을 뜻합니다."
-        },
-        {
-          "term": "메모리 공급",
-          "explanation": "시장에서 필요한 메모리 제품을 얼마나 안정적으로 생산하고 제공할 수 있는지를 뜻합니다."
         }
       ]
     },
