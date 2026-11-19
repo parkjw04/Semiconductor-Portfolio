@@ -1,5 +1,7 @@
 ﻿const numberFormat = new Intl.NumberFormat("ko-KR");
 
+const DAILY_ANALYSIS_LIMIT = 15;
+
 function formatNumber(value) {
     return numberFormat.format(Number(value) || 0);
 }
@@ -25,11 +27,77 @@ function formatDate(dateString) {
     });
 }
 
+function getKoreaDate() {
+    return new Intl.DateTimeFormat("en-CA", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+    }).format(new Date());
+}
+
+function isArticleAnalyzed(article) {
+    return Boolean(
+        article.technicalSignificance &&
+        article.careerRelevance &&
+        Array.isArray(article.relatedJobs) &&
+        Array.isArray(article.skillsToLearn) &&
+        Array.isArray(article.terms) &&
+        article.terms.length > 0
+    );
+}
+
 function setText(id, value) {
     const element = document.getElementById(id);
 
     if (element) {
         element.textContent = value;
+    }
+}
+
+function renderAnalysisLimit(newsData) {
+    const today = getKoreaDate();
+    const articles = Array.isArray(newsData.articles)
+        ? newsData.articles
+        : [];
+
+    const analyzedCount = articles.filter(article =>
+        article.aiAnalyzedDate === today &&
+        isArticleAnalyzed(article)
+    ).length;
+
+    const remaining = Math.max(
+        0,
+        DAILY_ANALYSIS_LIMIT - analyzedCount
+    );
+
+    const percentage = Math.min(
+        100,
+        (analyzedCount / DAILY_ANALYSIS_LIMIT) * 100
+    );
+
+    setText("analysis-count", formatNumber(analyzedCount));
+    setText("analysis-limit", formatNumber(DAILY_ANALYSIS_LIMIT));
+    setText("analysis-remaining", formatNumber(remaining));
+    setText("analysis-percent", percentage.toFixed(1) + "%");
+    setText("analysis-date", today);
+
+    const progress = document.getElementById("analysis-progress");
+
+    if (progress) {
+        progress.style.width = percentage + "%";
+    }
+
+    const status = document.getElementById("analysis-status");
+
+    if (status) {
+        if (analyzedCount >= DAILY_ANALYSIS_LIMIT) {
+            status.textContent = "오늘 분석 한도 도달";
+            status.className = "analysis-status full";
+        } else {
+            status.textContent = "분석 가능";
+            status.className = "analysis-status available";
+        }
     }
 }
 
@@ -107,7 +175,7 @@ function renderHistory(dailyData, pricingConfigured) {
     }).join("");
 }
 
-function renderDashboard(data) {
+function renderDashboard(data, newsData) {
     const totals = data.totals || {};
     const pricingConfigured = data.pricingConfigured === true;
 
@@ -138,25 +206,35 @@ function renderDashboard(data) {
         setText("updated-at", "기록 없음");
     }
 
+    renderAnalysisLimit(newsData);
     renderDailyChart(data.daily);
     renderHistory(data.daily, pricingConfigured);
 }
 
 async function loadUsageData() {
     try {
-        const response = await fetch("data/usage.json", {
-            cache: "no-store"
-        });
+        const [usageResponse, newsResponse] = await Promise.all([
+            fetch("data/usage.json", { cache: "no-store" }),
+            fetch("data/news.json", { cache: "no-store" })
+        ]);
 
-        if (!response.ok) {
-            throw new Error("사용량 데이터를 불러오지 못했습니다. HTTP " + response.status);
+        if (!usageResponse.ok) {
+            throw new Error("사용량 데이터 오류: HTTP " + usageResponse.status);
         }
 
-        const data = await response.json();
-        renderDashboard(data);
+        if (!newsResponse.ok) {
+            throw new Error("뉴스 데이터 오류: HTTP " + newsResponse.status);
+        }
+
+        const [usageData, newsData] = await Promise.all([
+            usageResponse.json(),
+            newsResponse.json()
+        ]);
+
+        renderDashboard(usageData, newsData);
 
     } catch (error) {
-        console.error("API 사용량 데이터 오류:", error);
+        console.error("대시보드 데이터 오류:", error);
 
         document.getElementById("daily-chart").innerHTML = `
             <p class="loading-message">
@@ -171,6 +249,7 @@ async function loadUsageData() {
         `;
 
         setText("updated-at", "데이터 연결 실패");
+        setText("analysis-status", "데이터 연결 실패");
     }
 }
 

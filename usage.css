@@ -332,3 +332,128 @@
         font-size: 10px;
     }
 }
+
+/* AI 분석 한도 모니터링 */
+
+.analysis-limit-card {
+    background: #142238;
+    border: 1px solid #29415f;
+    border-radius: 13px;
+    padding: 28px;
+}
+
+.analysis-limit-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 22px;
+}
+
+.analysis-limit-label {
+    color: #94a3b8;
+    font-size: 14px;
+}
+
+.analysis-count {
+    display: flex;
+    align-items: baseline;
+    gap: 7px;
+    margin-top: 12px;
+}
+
+.analysis-count strong {
+    color: #f8fafc;
+    font-size: 36px;
+}
+
+.analysis-count span {
+    color: #94a3b8;
+    font-size: 15px;
+}
+
+.analysis-percent {
+    color: #93c5fd;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.analysis-progress-track {
+    width: 100%;
+    height: 12px;
+    background: #263449;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.analysis-progress {
+    width: 0%;
+    height: 100%;
+    background: #60a5fa;
+    border-radius: 20px;
+    transition: width 0.5s ease;
+}
+
+.analysis-limit-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-top: 22px;
+}
+
+.analysis-limit-bottom div {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+}
+
+.analysis-limit-bottom strong {
+    color: #f8fafc;
+    font-size: 23px;
+}
+
+.analysis-limit-bottom span {
+    color: #94a3b8;
+    font-size: 13px;
+}
+
+.analysis-status {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.analysis-status.available {
+    color: #34d399;
+}
+
+.analysis-status.full {
+    color: #f87171;
+}
+
+.analysis-date {
+    margin: 22px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid #263449;
+    color: #64748b;
+    font-size: 12px;
+}
+
+@media (max-width: 550px) {
+    .analysis-limit-card {
+        padding: 20px;
+    }
+
+    .analysis-count strong {
+        font-size: 30px;
+    }
+
+    .analysis-percent {
+        font-size: 21px;
+    }
+
+    .analysis-limit-bottom {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}

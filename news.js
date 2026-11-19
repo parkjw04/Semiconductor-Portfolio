@@ -1,9 +1,82 @@
-
+﻿
 const newsList = document.getElementById("newsList");
 const categoryButtons = document.querySelectorAll(".category-list button");
 const newsCount = document.getElementById("newsCount");
 
 let articles = [];
+// 한국 시간 기준 오늘 날짜
+function getKoreaDate() {
+    return new Intl.DateTimeFormat("en-CA", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+    }).format(new Date());
+}
+
+// 기존 API Usage Dashboard와 동일한 분석 완료 기준
+function isArticleAnalyzed(article) {
+    return Boolean(
+        article.technicalSignificance &&
+        article.careerRelevance &&
+        Array.isArray(article.relatedJobs) &&
+        Array.isArray(article.skillsToLearn) &&
+        Array.isArray(article.terms) &&
+        article.terms.length > 0
+    );
+}
+
+// 오늘의 AI 분석 현황 표시
+function renderTodayAnalysisLimit(newsData) {
+    const DAILY_ANALYSIS_LIMIT = 15;
+    const today = getKoreaDate();
+
+    const todayCount = (Array.isArray(newsData.articles)
+        ? newsData.articles
+        : []
+    ).filter(article =>
+        article.aiAnalyzedDate === today &&
+        isArticleAnalyzed(article)
+    ).length;
+
+    const remaining = Math.max(
+        0,
+        DAILY_ANALYSIS_LIMIT - todayCount
+    );
+
+    const percentage = Math.min(
+        100,
+        (todayCount / DAILY_ANALYSIS_LIMIT) * 100
+    );
+
+    const setText = (id, value) => {
+        const element = document.getElementById(id);
+        if (element) element.textContent = value;
+    };
+
+    setText("today-analysis-count", todayCount.toLocaleString("ko-KR"));
+    setText("today-analysis-remaining", remaining.toLocaleString("ko-KR"));
+    setText("today-analysis-percent", percentage.toFixed(1) + "%");
+    setText("today-analysis-date", today + " · KST");
+
+    const progress = document.getElementById("today-analysis-progress");
+
+    if (progress) {
+        progress.style.width = percentage + "%";
+    }
+
+    const status = document.getElementById("today-analysis-status");
+
+    if (status) {
+        if (todayCount >= DAILY_ANALYSIS_LIMIT) {
+            status.textContent = "오늘 분석 한도 도달";
+            status.className = "news-analysis-status full";
+        } else {
+            status.textContent = "분석 가능";
+            status.className = "news-analysis-status available";
+        }
+    }
+}
 
 // 안전하게 HTML 요소 생성
 function createElement(tag, className, text) {
@@ -70,7 +143,7 @@ function createTermsSection(terms) {
 // 뉴스 데이터 불러오기
 async function loadNews() {
     try {
-        const response = await fetch("./data/news.json");
+        const response = await fetch("./data/news.json", { cache: "no-store" });
 
         if (!response.ok) {
             throw new Error(`뉴스 데이터 오류: ${response.status}`);
@@ -100,6 +173,7 @@ async function loadNews() {
                     : `마지막 수집: ${date.toLocaleString("ko-KR")}`;
         }
 
+        renderTodayAnalysisLimit(data);
         renderNews(articles);
 
     } catch (error) {
