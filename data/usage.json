@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T12:48:23.697Z",
+  "updatedAt": "2026-11-21T00:41:50.603Z",
   "pricingConfigured": false,
   "pricing": null,
   "totals": {
-    "requests": 8,
-    "successfulResponses": 8,
-    "inputTokens": 5034,
-    "outputTokens": 16801,
-    "totalTokens": 21835,
+    "requests": 11,
+    "successfulResponses": 11,
+    "inputTokens": 7310,
+    "outputTokens": 25464,
+    "totalTokens": 32774,
     "estimatedCostUSD": null
   },
   "daily": {
@@ -25,6 +25,14 @@
       "inputTokens": 2280,
       "outputTokens": 8602,
       "totalTokens": 10882,
+      "estimatedCostUSD": null
+    },
+    "2026-11-21": {
+      "requests": 3,
+      "successfulResponses": 3,
+      "inputTokens": 2276,
+      "outputTokens": 8663,
+      "totalTokens": 10939,
       "estimatedCostUSD": null
     }
   }
