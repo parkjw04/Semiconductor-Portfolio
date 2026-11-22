@@ -1,7 +1,556 @@
 {
-  "generatedAt": "2026-11-22T00:34:03.930Z",
+  "generatedAt": "2026-11-22T12:34:05.597Z",
   "dailyBriefing": "AI 브리핑은 추후 분석 기능 연결 후 제공됩니다.",
   "articles": [
+    {
+      "id": 118,
+      "title": "한국전기연구원, 반도체 초미세 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전 - 한국일보",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LNnNSLWpTeHMyUHZwSnZ5ZXpsYVh6MXpDM3hrWWxycW1maHY4YUp0UUdmLWJlejlNUnBwRVdiaFpYT1N2UjR0SjlXUk02N214VzNSc21xdlI4MmJQVTZ5ZE5UUk8zWDZadW8tdnpR0gFzQVVfeXFMUHRGMGNWSnludW1EeW9mWFFVOUhKQWJyeGxDcUZ5anlTdXlOWGZiR3ZtbXUwblNqZGhzbVpYdnN4NWNndThYWkdHblJGTE85WkRFVFFQN0pVdXRvdWlTd3pVSXVsVk42VFhyblVxMXZOUS1Ubw?oc=5",
+      "summary": "한국전기연구원, 반도체 초미세 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전  한국일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 119,
+      "title": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전 - 전기신문",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYd2l4b3k5bnBSeVB2RmM4d3NXZ1o4QU9ZWVFteUhnQ3B6YVNPUGRYemM5WEJxSUNQNklDZlFTWWVES3ItMTA3MXIxSWRTeUtJSVIxVXNxX1dpNzZVak9GS0FGS1hfYnRnTElObtIBcEFVX3lxTFBXSndaZGxmbVdzNGJGTHlUT1BKWUx0eHM2aFN2UXVnYmZEc19fa1NCcFBOVGVUcWhlMWM4QXA1NFE5aXBOUmdleFA2SGN0TkJXXzRxVzhpX2VTUUNJNHRtb2N0emtkc2xlVy1xbUwzczY?oc=5",
+      "summary": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전  전기신문",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 120,
+      "title": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공 - 헤럴드경제",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT3JuRTRSTkNYWUJPamNGcGIxSUR1UFIwc21jNVZNa2lLRUlpYmtfcV9EamttMjQ2MUdMb0h4QWdGY2hnSW83aVZaM3FFZnZ2RkE2ZURn?oc=5",
+      "summary": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공  헤럴드경제",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 121,
+      "title": "전기연구원 ‘차세대 반도체 공정 핵심 기술’ 이전 - 경남도민일보",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9COEtjUmEtazg4amN3a1pVdi05MFJROHJVaFdiak5xc19naHJaRmJSTXY3eHZmNW1ldDJ6XzhXQzZEa0R0S2xDX2FUTmFQT0tsTFQ5eDhjOWRtMGUtWlREN1NiVjgyemUyX2c?oc=5",
+      "summary": "전기연구원 ‘차세대 반도체 공정 핵심 기술’ 이전  경남도민일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 122,
+      "title": "KERI, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전…완전 국산화 ‘시동’ - 부산일보",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UaUpVM2g4V1R3T3hiU2JNRkxYV0NRYkFaYnRueDNmRGpzZVBWNWxyMFJUSVNReTBBNnloTW45MVZvZG4yMVZOMlMxOTBJNFNLeEtqR09XMTlyMkplUVVyX0hOX3Ffa1Byb3dROUk0T3p5czBj?oc=5",
+      "summary": "KERI, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전…완전 국산화 ‘시동’  부산일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 123,
+      "title": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색 - 경기일보",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cXVBVzlCVGYyc19Kdlc0YVVFMlZabXdPR2FsMzR0RGpOTFJYNUFqR0xVSzhxRC1YNlZvckhXTGxFM0NhdjZWUUtrOTVURXlqTld4LUVnMWpzSm8?oc=5",
+      "summary": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색  경기일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 124,
+      "title": "인천 반도체, ‘후공정’ 넘어 AI 첨단 패키징으로 - 경기신문",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DbVZ1UklHRGk5ZW5NR21pd2pvc1NWV1VrdWpDNFdWNGkwR0VZUG9sTWZrajZ5eFhvMVpiNndsSElIZmd0clVhazRWdjY4U3VVN001OXlKR1hJaXBVNHluMm1n?oc=5",
+      "summary": "인천 반도체, ‘후공정’ 넘어 AI 첨단 패키징으로  경기신문",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 125,
+      "title": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색 - 인천in 시민의 손으로 만드는 인터넷신문",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83cTU2ekhwWDdRbTNfWWF5Rk0yU0NoaWJ6Qjd0TkkxcFVYR3lZTXVpTUVkcDBiV0xSLVZmZGhmV29SRjdZQ3ExSE9wR1VBQVZVSEE3U1VKcjJ1U3J3T1ZzQUFDZ0dQS3RIcUprUA?oc=5",
+      "summary": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색  인천in 시민의 손으로 만드는 인터넷신문",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 126,
+      "title": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색 - 경기매일",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUnA4ZmZKODVkeXRDWFFoRTk1U19FbWxMTHVJTWI3OEo1bEp3VFFpcmozbGpDbXhDemF4WUdoQVllbWk0YWZUQm1FZVFyRTZLTFBtMXZfRVhMX3ozSXBCSkZmdWE3Zmc?oc=5",
+      "summary": "인천시, 국내외 반도체 전문가와 첨단 패키징 기술 협력 모색  경기매일",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 127,
+      "title": "AI반도체·첨단 패키징 기술 어떻게?…인천 글로벌워크숍 - 뉴시스",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iXzJuYmZmZEZTajMzMFB6UmcxX0FvcGNVd2I2dVJINmZpRW1QNC11ZzM2MEhrb1FZLWRvYkdiWUg5ZXg4a0tlMzVESHVSRW1HcjJMLThMYkVyaDBGQ2dUVdIBeEFVX3lxTE1ZN2hGYW1rQ0paVGRRSFRxNGlNR3Nra1UtaEM3Z3BnMnEtX2RxLVpRWFJWalBzZ3BkZHlOaXVEV1FyTGFDVkFpeldEellRcW1PZzZPb2plbXU2Q011MUkxQUI4ZDMzb2M4dnVzV20zQVc0a3NNN2RjNQ?oc=5",
+      "summary": "AI반도체·첨단 패키징 기술 어떻게?…인천 글로벌워크숍  뉴시스",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 11,
+      "title": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격 - 한겨레",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFlLVXFjWFdEQ2pRQUlDYm9CSWRBMFR2RGU1OWh3UlVaeTVNOUVlbFZiM3JnbnMtMXV6NTJsSkFNU1ZEd2xxUUxSYXM4bjFhVTQ5NTRVSDZqTjFXWWNUMXp4ZXlIM0tyTjNDXw?oc=5",
+      "summary": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격  한겨레",
+      "technicalSignificance": "제목만으로는 구체적인 제품 성능, 공정 기술, 생산능력 또는 시장 점유율을 확인할 수 없어 기술적 수준을 판단하기 어렵습니다. 제목은 중국 메모리 업체들이 D램과 낸드 분야에서 한국 기업을 추격하고 있다는 내용을 시사합니다.",
+      "careerRelevance": "메모리 분야의 경쟁 구도와 기술 개발 동향을 살펴볼 때 참고할 수 있는 주제입니다. 다만 기사 본문이 제공되지 않아 어떤 기술이나 기업 활동이 채용 수요에 영향을 주는지는 판단하기 어렵습니다.",
+      "relatedJobs": [
+        "메모리 반도체 공정 엔지니어",
+        "메모리 소자·제품 엔지니어",
+        "반도체 설계 엔지니어",
+        "메모리 테스트 엔지니어",
+        "시장·기술 분석가"
+      ],
+      "skillsToLearn": [
+        "반도체 메모리 기본 원리",
+        "D램·낸드 구조와 동작 이해",
+        "반도체 공정 기초",
+        "메모리 제품 평가 및 테스트 기초",
+        "반도체 산업·시장 동향 분석"
+      ],
+      "terms": [
+        {
+          "term": "D램(DRAM)",
+          "explanation": "데이터를 빠르게 읽고 쓸 수 있어 컴퓨터와 서버의 주기억장치 등에 쓰이는 메모리입니다. 저장된 데이터는 전원이 공급되는 동안에도 주기적으로 유지해야 합니다."
+        },
+        {
+          "term": "낸드(NAND)",
+          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
+        },
+        {
+          "term": "메모리 반도체",
+          "explanation": "데이터를 저장하는 반도체를 말합니다. 대표적인 종류가 D램과 낸드입니다."
+        },
+        {
+          "term": "추격",
+          "explanation": "후발 기업이나 국가가 선도 기업과의 기술·생산·시장 경쟁 격차를 줄여 가는 것을 뜻합니다. 이 기사 제목만으로는 격차가 얼마나 줄었는지 알 수 없습니다."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "📍SK하이닉스 앰버서더 랩(Lab)ㅣSK하이닉스의 AI Era 정복기 (with..하빔이 🐥) - SK hynix",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RnBhb295ek5MbTRzN3pIT1lmV09ON2VpMkpIcmd3WllTLWlyUVNjUEhtQ1U4bDdabVZGd0VjTnlIcEZtN0J3Q2xTUWhLT2pqX1NaN0l3?oc=5",
+      "summary": "📍SK하이닉스 앰버서더 랩(Lab)ㅣSK하이닉스의 AI Era 정복기 (with..하빔이 🐥)  SK hynix",
+      "technicalSignificance": "제목상 SK하이닉스의 AI 시대 대응을 소개하는 앰버서더 랩 콘텐츠로 보입니다. 다만 구체적인 메모리 제품, 기술 또는 사업 전략은 제목만으로 확인할 수 없어 기술적 의미를 세부적으로 평가하기 어렵습니다.",
+      "careerRelevance": "SK하이닉스의 대외 홍보 콘텐츠를 통해 회사와 AI 관련 활동을 살펴보는 참고 자료가 될 수 있습니다. 채용 정보나 실제 직무 설명이 포함됐는지는 제공된 내용만으로 알 수 없습니다.",
+      "relatedJobs": [
+        "DRAM·NAND 메모리 개발 엔지니어",
+        "HBM 제품·공정 엔지니어",
+        "메모리 테스트·품질 엔지니어",
+        "반도체 기술 마케팅·콘텐츠 담당자"
+      ],
+      "skillsToLearn": [
+        "DRAM·NAND 메모리의 기본 구조와 동작 원리",
+        "AI 시스템에서 메모리가 맡는 역할에 대한 기초",
+        "메모리 제품과 응용 분야를 설명하는 기술 커뮤니케이션",
+        "실제 직무와 기업 기술을 확인하기 위한 공식 자료 조사"
+      ],
+      "terms": [
+        {
+          "term": "AI 시대",
+          "explanation": "인공지능 학습과 추론이 다양한 산업과 제품에 널리 적용되는 흐름을 가리키는 표현입니다. 이 콘텐츠가 어떤 AI 기술이나 사업을 다루는지는 제목만으로 확인할 수 없습니다."
+        },
+        {
+          "term": "앰버서더 랩",
+          "explanation": "기업의 앰버서더가 참여하는 콘텐츠 또는 활동의 명칭으로 보입니다. 구체적인 형식과 기술 내용은 제공된 정보만으로 알기 어렵습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-22",
+      "aiAnalyzedAt": "2026-11-22T00:33:02.755Z"
+    },
+    {
+      "id": 13,
+      "title": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망 - www.cio.com",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNS29Sd2ljM1pyM3ZQc05GeVIxUlRVaDFCcV96bXpHT0h6SmpzMjdGZi1ZMTBhT3NsSlRFRXVVQnZ3VEVxS0NpREIyZVpGdzFGdlJHbExVeU5uSHVKWWh6WWdpMnk3SjBob2lsYktZVkJmb0dJU2g1Y3RNbTlkZnBfSDUtNDFsdTZyaUdLSVI1LUZnVDBBQkh5YVJmRldMQnFBMnc1WGRERzViSGlNYWtfblBkT3pIZmxqcl9yejlUWmxlTU45Z0dpVlpQa0dsdks4VVFCdC0yai1kMG1vcUZ3VVZneE9xU05Ed2V1QlkzUWdsVkxjWUVsREE3R1ZpU1ZJMFMzcDBVQ29SYTNzcXpiZEpjeEp5X3ViMkhac2hFTkFERzRxXzB0ZDF3VW82MUpaWnowVlBjbnVuejNqSXBZVHdFNA?oc=5",
+      "summary": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망  www.cio.com",
+      "technicalSignificance": "제목은 ‘멤플레이션’과 함께 NAND 372%, DRAM 247%의 성장 전망을 제시해 메모리 시장의 큰 폭의 성장 가능성을 시사합니다. 다만 성장률의 기준(매출·가격·출하량 등), 비교 기간, 전망 기관과 전제는 제공된 내용만으로 확인할 수 없습니다. 기술적 성능이나 새로운 공정의 진전을 다룬 기사인지는 정보가 부족합니다.",
+      "careerRelevance": "메모리 시장의 성장 전망은 메모리 반도체 설계·공정·제품·시장 분석 직무의 산업 동향을 파악하는 데 참고가 될 수 있습니다. 다만 전망이 실제 채용 규모나 특정 직무의 수요 증가로 이어질지는 이 내용만으로 판단하기 어렵습니다.",
+      "relatedJobs": [
+        "DRAM 설계 엔지니어",
+        "NAND 설계 엔지니어",
+        "메모리 공정 엔지니어",
+        "메모리 제품·특성 평가 엔지니어",
+        "반도체 시장·사업 분석가"
+      ],
+      "skillsToLearn": [
+        "DRAM과 NAND의 기본 구조 및 동작 원리",
+        "메모리 반도체 제조 공정의 기초",
+        "메모리 제품의 성능·수율·신뢰성 평가 기초",
+        "반도체 시장 지표와 성장률의 기준 및 산정 방식 분석",
+        "수요·공급과 가격 변화가 메모리 시장에 미치는 영향 이해"
+      ],
+      "terms": [
+        {
+          "term": "멤플레이션",
+          "explanation": "메모리(memory)와 인플레이션(inflation)을 결합한 표현으로, 메모리 제품의 가격 상승을 가리키는 말로 쓰입니다. 이 기사에서 구체적으로 어떤 가격 지표를 뜻하는지는 제공된 내용만으로 확인하기 어렵습니다."
+        },
+        {
+          "term": "NAND",
+          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리의 한 종류입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
+        },
+        {
+          "term": "DRAM",
+          "explanation": "데이터를 빠르게 읽고 쓸 수 있지만 전원이 공급되는 동안 주기적으로 데이터를 갱신해야 하는 메모리입니다. 컴퓨터와 서버의 주기억장치 등에 사용됩니다."
+        },
+        {
+          "term": "성장 전망",
+          "explanation": "앞으로 시장이나 특정 지표가 얼마나 커질지 예상한 수치입니다. 제목의 372%와 247%가 어떤 지표와 기간을 기준으로 한 것인지는 본문 정보가 없어 알 수 없습니다."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "삼성전자, D램·낸드 점유율 1위… SK하이닉스는 HBM 58% 차지 - Chosunbiz",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEllY3lybXA5MURsOGhpZmw2Ml9McDhNekhHTkd5andCYlVkMmhkU25BWDFSU1dBSFp3WGY2YjRZX1hGeFBmQWZ6UV9kN3ZQX2ZNRmJobDlheU1aVEEzdEZjYkl1WUt1Y2lYVGZ0dVd6MmxRUTJPNlZfLXpPb1h2VWtR0gGWAUFVX3lxTE14Y2NZV1BxUmN5aXBTbVgyUFdJOEFSd0x3UWZkR0wwN1RoNnBQdEc5Z2FFdkotR1FvcWc2NEZPNjhZZE0wZmUxdUdPYmF2emtCc2J3ZF9YcjdJZjBRVHhCeWU0TVlJVmwtTld5dkt1cWdJRHpTY2ZEQlJ2ZEtwM2ZTUlFIS01xYlJpSG5mS0ZKWDVQVnVHUQ?oc=5",
+      "summary": "삼성전자, D램·낸드 점유율 1위… SK하이닉스는 HBM 58% 차지  Chosunbiz",
+      "technicalSignificance": "제목에 따르면 삼성전자는 D램과 낸드플래시 시장에서 점유율 1위이고, SK하이닉스는 HBM 시장에서 58%를 차지했습니다. 범용 메모리와 HBM에서 업체별 경쟁 구도가 다를 수 있음을 보여주는 내용입니다. 다만 점유율의 기준 시점, 산정 방식, 제품별 세부 수치와 기술적 배경은 제공된 정보만으로 확인할 수 없습니다.",
+      "careerRelevance": "메모리 반도체 업계에서 D램·낸드와 HBM의 제품 특성 및 경쟁 구도를 이해하는 데 참고가 됩니다. 다만 기사 제목만으로는 채용 규모, 직무별 수요나 기업별 인력 계획을 판단할 수 없습니다.",
+      "relatedJobs": [
+        "메모리 반도체 소자·공정 엔지니어",
+        "D램·낸드 제품 엔지니어",
+        "HBM 설계·개발 엔지니어",
+        "반도체 패키징·후공정 엔지니어",
+        "메모리 시장·사업 분석 직무"
+      ],
+      "skillsToLearn": [
+        "D램과 낸드플래시의 기본 동작 원리",
+        "HBM의 적층 구조와 메모리 대역폭 개념",
+        "반도체 제조 공정 및 패키징 기초",
+        "메모리 제품의 성능·전력·수율 지표 이해",
+        "시장 점유율 통계의 기준 시점과 산정 방식 확인 능력"
+      ],
+      "terms": [
+        {
+          "term": "D램",
+          "explanation": "데이터를 임시로 저장하는 메모리입니다. 전원이 꺼지면 저장된 내용이 사라지며, 컴퓨터와 서버의 작업 공간으로 널리 쓰입니다."
+        },
+        {
+          "term": "낸드플래시",
+          "explanation": "전원이 꺼져도 데이터가 유지되는 메모리입니다. SSD와 스마트폰 저장장치 등에 사용됩니다."
+        },
+        {
+          "term": "HBM",
+          "explanation": "여러 개의 메모리 칩을 수직으로 쌓고 연결해 데이터 전송 폭을 넓힌 고대역폭 메모리입니다. 인공지능 가속기 등에 활용됩니다."
+        },
+        {
+          "term": "시장 점유율",
+          "explanation": "특정 시장에서 한 기업의 판매액이나 판매량이 차지하는 비율입니다. 금액 기준인지 출하량 기준인지에 따라 수치가 달라질 수 있습니다."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "연세소식 - 연세소식",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ILWZwVkFvSzZPa2xGVHJEOF83TFNHdG81QUhlR0p1Y1Vra0pKbktORTZOMzhNT2lVZHQyd2tvcU9pNThielFlWFd4RVR0SWMwdms5Z2V2VDdUS2E4S0VJSnJoNGFUMlJncmdSUW8xcDdqTkg2Mmt1dlFkbw?oc=5",
+      "summary": "연세소식  연세소식",
+      "technicalSignificance": "제공된 제목과 내용이 ‘연세소식’으로만 되어 있어 메모리 반도체와 관련된 기술적 의미를 판단하기 어렵습니다. 기사 본문이나 실제 제목 정보가 필요합니다.",
+      "careerRelevance": "기사 내용이 확인되지 않아 반도체 취업과의 연관성을 판단하기 어렵습니다.",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": [
+        {
+          "term": "정보 부족",
+          "explanation": "기사의 주제와 본문이 제공되지 않아 구체적인 기술이나 산업 동향을 설명할 수 없는 상태입니다."
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "해외 의존 반도체 핵심 장비 '펄스 전원' 국산화 - DongA Science",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kejhmay1WWGItNlUxSmlTQ0U3MEpHc3hpN2dMa0NhcEVob3hFSGZYMzRVRnAyb25MZk9jcGFDMllwQjRuTzhPMHJiNE9tWFlKdThsTw?oc=5",
+      "summary": "해외 의존 반도체 핵심 장비 '펄스 전원' 국산화  DongA Science",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 129,
+      "title": "전기연구원, 반도체 공정용 맞춤형 펄스 전원 기술 이전 - 경남신문",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mdE5fQ2t2X2ZwV3p5VHZQSDE3bWFlczNJTDQzR2dIOFdZMFczdm03QmNQUmhrOFI3THpaRTRIYXBZZXRfd1YzYUd3ejcxSWRfeFRneG5oUWhQQQ?oc=5",
+      "summary": "전기연구원, 반도체 공정용 맞춤형 펄스 전원 기술 이전  경남신문",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 130,
+      "title": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전 - 에너지데일리",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16MTJZOFZwVmp4eHZ0OE5fM2Q3N3VIYlY1NkFoaXppRkJOUVRtcHFLWnFaUU5zZ2xaTEFQaGhubG10YmtTc3VtZlhQY1pLaVJEN1pEQ3JVUDJQUFUxN0RBRVNUZGwyRk5Kb0k2S2NjZ1ZCZw?oc=5",
+      "summary": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전  에너지데일리",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 131,
+      "title": "[단독] 필리핀 넘어 제3국으로…한·미 AI·반도체 공동 진출 검토 - 중앙일보",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PWGFsN2xkN2MtMkpuSnM0emxNZFR3c21jSjlQMFMwZ3N0dG1uMHEzbUtCc1dwX3VOY05iRGF5cTNIeTBGaVlxcXc1d3ZiTGw0cDF4ZFVB?oc=5",
+      "summary": "[단독] 필리핀 넘어 제3국으로…한·미 AI·반도체 공동 진출 검토  중앙일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 132,
+      "title": "AI·반도체 불안에 흔들린 증시…정부, 증안펀드 '즉시 가동' 준비 - 뉴스핌",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qZ2dyMjJJUVBiX0V6Z2JsLUZuTVNoZTd0eGdQM1YyVFpkc2Etckl2cDk0ckpMbzh2YWtneW12c0dMcllSVUNwbmNud1h0YkRia2NIWlA2a2paOFA4?oc=5",
+      "summary": "AI·반도체 불안에 흔들린 증시…정부, 증안펀드 '즉시 가동' 준비  뉴스핌",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 133,
+      "title": "中기업, 엔비디아 칩 수급난… AI 반도체 공급망 구축 박차[AI 생태계 덮친 젠슨 황 리스크] - 파이낸셜뉴스",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aXJHMVk3bHZkcG92UjhvXzJ6cmFpSi1nbG9YdVU4SS1DcU1yd3hFRzJGT3BzSGdxQTVRUmppVkZQcXp0QWFUM1RCVF9hS0NUY3p3X0s4VEd2Zw?oc=5",
+      "summary": "中기업, 엔비디아 칩 수급난… AI 반도체 공급망 구축 박차[AI 생태계 덮친 젠슨 황 리스크]  파이낸셜뉴스",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 134,
+      "title": "\"中에 못 팔면 어쩌나\" 반도체주 폭락에도…깜짝 전망 나왔다 [노정동의 어쩌다 투자자] - 한국경제",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZVotVUR4cGN0T1BwVzZxdzBvR1BrZlRsVjJuN1dCcENqR2ZMS0RKS3dJMXI4dVhLaFhmNFFValVTUzJiRFdodldIZ3hRLUNHcGpyQnpIdzNXdw?oc=5",
+      "summary": "\"中에 못 팔면 어쩌나\" 반도체주 폭락에도…깜짝 전망 나왔다 [노정동의 어쩌다 투자자]  한국경제",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 135,
+      "title": "[알립니다] 원주 반도체·AI 산업 융합 세미나 - 강원일보",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85NU1idWJBcGtmRElMTXdWLW1nQmVnSU5XMGFSTm9Rb2c1VVRfcllTcFBqRl9Fb0ctUkpYak9rQTRXdncxR1pRTHEzXzlpYjhyZnhqUlUxSlY5b00?oc=5",
+      "summary": "[알립니다] 원주 반도체·AI 산업 융합 세미나  강원일보",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 96,
+      "title": "전남광주 반도체산업지원실장, 삼성·SK 추천받아 선임 추진 - 광주드림",
+      "category": "기업·시장",
+      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
+      "publishedAt": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55ZF9ZRUdSNGVTX05PeXpJX0dRdG5ES2hfeDlETHFhaFMxLTBuVHAzTnBJVDA3ZWJXUERDZTBEOHBKaTd3NWpZM0RBQUE2ZW4yVEEwSzN4RWp5MjNncFBpUlB2aGRKbmZFMnc?oc=5",
+      "summary": "전남광주 반도체산업지원실장, 삼성·SK 추천받아 선임 추진  광주드림",
+      "technicalSignificance": "삼성전자와 SK의 추천을 받아 전남광주 반도체산업지원실장을 선임하려는 움직임은 지역 산업 지원 체계와 기업 간 협력에 관한 소식입니다. 반도체 기술이나 투자 계획의 구체적인 내용은 제목만으로 확인하기 어렵습니다.",
+      "careerRelevance": "지역 반도체 생태계 조성, 기업 지원, 산학연 협력 같은 분야의 진로와 관련이 있습니다. 다만 특정 기업의 채용이나 기술직 수요를 의미한다고 보기는 어렵습니다.",
+      "relatedJobs": [
+        "반도체 산업 정책·사업 기획",
+        "산학연 협력 및 기업 지원",
+        "반도체 기업 전략·대외협력"
+      ],
+      "skillsToLearn": [
+        "반도체 산업의 주요 공정과 가치사슬 이해",
+        "산업·정책 자료 조사 및 분석",
+        "사업 기획과 프로젝트 관리",
+        "기업·정부·연구기관 간 협업 및 의사소통"
+      ],
+      "terms": [
+        {
+          "term": "반도체 산업 생태계",
+          "explanation": "반도체를 설계하고 제조하는 기업뿐 아니라 장비·소재 업체, 연구기관, 대학, 정부 지원 조직 등이 함께 이루는 산업 네트워크입니다."
+        },
+        {
+          "term": "산업 지원 조직",
+          "explanation": "기업이나 연구기관이 성장하고 협력할 수 있도록 사업, 인력, 연구개발 등을 지원하는 조직입니다. 이 뉴스에서 지원실의 구체적인 역할은 제목만으로 확인하기 어렵습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-21",
+      "aiAnalyzedAt": "2026-11-21T00:41:50.604Z"
+    },
+    {
+      "id": 108,
+      "title": "“코스피 폭락에 반도체 비상” … 한국 경제 뒤흔든 5대 뉴스 - 용인신문",
+      "category": "기업·시장",
+      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
+      "publishedAt": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sb25oSkFKQ0FkaWl4OE1MU04tZHp4YzFkSkRHMHdlRE10Vll0aUxWRjFIcDZ4blEybVdnQkJxMy1pMXpGXzRjVy1ZR2Q4U3ZObTI4eFdfYlY0c3BSTmdUYnI0SzM?oc=5",
+      "summary": "“코스피 폭락에 반도체 비상” … 한국 경제 뒤흔든 5대 뉴스  용인신문",
+      "technicalSignificance": "제목은 코스피 급락과 반도체 산업의 우려를 언급하지만, 원인이나 반도체 기업·제품·기술에 대한 구체적인 정보는 제공하지 않습니다. 따라서 기술적 변화나 반도체 업황에 미치는 영향은 기사 내용만으로 판단하기 어렵습니다.",
+      "careerRelevance": "시장 변동은 기업의 투자·채용 계획이나 공급망 의사결정에 영향을 줄 수 있지만, 이 기사만으로 실제 영향 여부를 확인할 수 없습니다. 반도체 산업에 취업하려면 기술 역량과 함께 시장·투자 환경을 해석하는 기본 능력이 도움이 될 수 있습니다.",
+      "relatedJobs": [
+        "반도체 산업·시장 분석가",
+        "반도체 기업 재무·IR 담당자",
+        "반도체 공급망·사업기획 담당자"
+      ],
+      "skillsToLearn": [
+        "반도체 기업의 매출·영업이익 및 투자 지표 이해",
+        "주가와 기업 실적·산업 사이클의 차이를 구분하는 능력",
+        "반도체 공급망과 주요 제품군에 대한 기초 지식",
+        "불확실한 시장 정보를 출처별로 확인하는 능력"
+      ],
+      "terms": [
+        {
+          "term": "코스피",
+          "explanation": "한국거래소에 상장된 주요 기업의 주가 흐름을 보여주는 대표적인 주가지수입니다."
+        },
+        {
+          "term": "반도체 업황",
+          "explanation": "반도체의 수요와 공급, 가격, 재고, 기업 실적 등이 종합적으로 어떤 상태인지를 뜻합니다."
+        },
+        {
+          "term": "시장 변동성",
+          "explanation": "주가나 수요·가격이 짧은 기간에 크게 오르내리는 정도를 말합니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-22",
+      "aiAnalyzedAt": "2026-11-22T00:34:03.928Z"
+    },
+    {
+      "id": 136,
+      "title": "\"HBM만으론 부족\"…AI 반도체 경쟁 격화 속 韓 기업 생존 전략은 - 지디넷코리아",
+      "category": "기업·시장",
+      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
+      "publishedAt": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUy1VUmJ3Y2RYaVl3STd1NkVsbTNyTk1leXY1NEZLRkptX3J5Q1ZtZm11OXNUN28xWTlNR0k3YmRBVjFMT2QxYUpCdHpDRXVzckhkOEhB?oc=5",
+      "summary": "\"HBM만으론 부족\"…AI 반도체 경쟁 격화 속 韓 기업 생존 전략은  지디넷코리아",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 137,
+      "title": "글로벌 반도체 시장 1.5조달러 전망…\"AI 투자 수익성 확보가 관건\" - 이투데이",
+      "category": "기업·시장",
+      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
+      "publishedAt": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tOTExM0tLV1F2Y2RqNTFzNEs2TkNNZzZpM2VJdzNFY09OS1F3WEtOXzk4d3V6VUoyUFdNd1VMRmk2dW1NeE1LNjdyV0J2MkhiZGZTZg?oc=5",
+      "summary": "글로벌 반도체 시장 1.5조달러 전망…\"AI 투자 수익성 확보가 관건\"  이투데이",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 138,
+      "title": "김보라 “한국반도체산업협회와 협력 방안 논의… 동신산단 기업 투자 유치 요청” - 서울뉴스통신",
+      "category": "기업·시장",
+      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
+      "publishedAt": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwVnBpMXk2UjkwWjF1SXlyaXltdzREcG91dU1tNW5kQktKaUxTcXN6dF9vV2dDY3JkLUFVQjAybHBlYldYTlhlZW9CdFpISU1qOFI2QWZMRnZ0WWg0eTZPNllMLUhhT1duUWdZ?oc=5",
+      "summary": "김보라 “한국반도체산업협회와 협력 방안 논의… 동신산단 기업 투자 유치 요청”  서울뉴스통신",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
     {
       "id": 109,
       "title": "'카피 앤 페이스트’ 팹 장벽, 지역기업 공급망 진입 해법은?[반도체 호남시대③] - 뉴시스",
@@ -387,189 +936,6 @@
       ]
     },
     {
-      "id": 11,
-      "title": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격 - 한겨레",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFlLVXFjWFdEQ2pRQUlDYm9CSWRBMFR2RGU1OWh3UlVaeTVNOUVlbFZiM3JnbnMtMXV6NTJsSkFNU1ZEd2xxUUxSYXM4bjFhVTQ5NTRVSDZqTjFXWWNUMXp4ZXlIM0tyTjNDXw?oc=5",
-      "summary": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격  한겨레",
-      "technicalSignificance": "제목만으로는 구체적인 제품 성능, 공정 기술, 생산능력 또는 시장 점유율을 확인할 수 없어 기술적 수준을 판단하기 어렵습니다. 제목은 중국 메모리 업체들이 D램과 낸드 분야에서 한국 기업을 추격하고 있다는 내용을 시사합니다.",
-      "careerRelevance": "메모리 분야의 경쟁 구도와 기술 개발 동향을 살펴볼 때 참고할 수 있는 주제입니다. 다만 기사 본문이 제공되지 않아 어떤 기술이나 기업 활동이 채용 수요에 영향을 주는지는 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "메모리 반도체 공정 엔지니어",
-        "메모리 소자·제품 엔지니어",
-        "반도체 설계 엔지니어",
-        "메모리 테스트 엔지니어",
-        "시장·기술 분석가"
-      ],
-      "skillsToLearn": [
-        "반도체 메모리 기본 원리",
-        "D램·낸드 구조와 동작 이해",
-        "반도체 공정 기초",
-        "메모리 제품 평가 및 테스트 기초",
-        "반도체 산업·시장 동향 분석"
-      ],
-      "terms": [
-        {
-          "term": "D램(DRAM)",
-          "explanation": "데이터를 빠르게 읽고 쓸 수 있어 컴퓨터와 서버의 주기억장치 등에 쓰이는 메모리입니다. 저장된 데이터는 전원이 공급되는 동안에도 주기적으로 유지해야 합니다."
-        },
-        {
-          "term": "낸드(NAND)",
-          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
-        },
-        {
-          "term": "메모리 반도체",
-          "explanation": "데이터를 저장하는 반도체를 말합니다. 대표적인 종류가 D램과 낸드입니다."
-        },
-        {
-          "term": "추격",
-          "explanation": "후발 기업이나 국가가 선도 기업과의 기술·생산·시장 경쟁 격차를 줄여 가는 것을 뜻합니다. 이 기사 제목만으로는 격차가 얼마나 줄었는지 알 수 없습니다."
-        }
-      ]
-    },
-    {
-      "id": 103,
-      "title": "📍SK하이닉스 앰버서더 랩(Lab)ㅣSK하이닉스의 AI Era 정복기 (with..하빔이 🐥) - SK hynix",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RnBhb295ek5MbTRzN3pIT1lmV09ON2VpMkpIcmd3WllTLWlyUVNjUEhtQ1U4bDdabVZGd0VjTnlIcEZtN0J3Q2xTUWhLT2pqX1NaN0l3?oc=5",
-      "summary": "📍SK하이닉스 앰버서더 랩(Lab)ㅣSK하이닉스의 AI Era 정복기 (with..하빔이 🐥)  SK hynix",
-      "technicalSignificance": "제목상 SK하이닉스의 AI 시대 대응을 소개하는 앰버서더 랩 콘텐츠로 보입니다. 다만 구체적인 메모리 제품, 기술 또는 사업 전략은 제목만으로 확인할 수 없어 기술적 의미를 세부적으로 평가하기 어렵습니다.",
-      "careerRelevance": "SK하이닉스의 대외 홍보 콘텐츠를 통해 회사와 AI 관련 활동을 살펴보는 참고 자료가 될 수 있습니다. 채용 정보나 실제 직무 설명이 포함됐는지는 제공된 내용만으로 알 수 없습니다.",
-      "relatedJobs": [
-        "DRAM·NAND 메모리 개발 엔지니어",
-        "HBM 제품·공정 엔지니어",
-        "메모리 테스트·품질 엔지니어",
-        "반도체 기술 마케팅·콘텐츠 담당자"
-      ],
-      "skillsToLearn": [
-        "DRAM·NAND 메모리의 기본 구조와 동작 원리",
-        "AI 시스템에서 메모리가 맡는 역할에 대한 기초",
-        "메모리 제품과 응용 분야를 설명하는 기술 커뮤니케이션",
-        "실제 직무와 기업 기술을 확인하기 위한 공식 자료 조사"
-      ],
-      "terms": [
-        {
-          "term": "AI 시대",
-          "explanation": "인공지능 학습과 추론이 다양한 산업과 제품에 널리 적용되는 흐름을 가리키는 표현입니다. 이 콘텐츠가 어떤 AI 기술이나 사업을 다루는지는 제목만으로 확인할 수 없습니다."
-        },
-        {
-          "term": "앰버서더 랩",
-          "explanation": "기업의 앰버서더가 참여하는 콘텐츠 또는 활동의 명칭으로 보입니다. 구체적인 형식과 기술 내용은 제공된 정보만으로 알기 어렵습니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-22",
-      "aiAnalyzedAt": "2026-11-22T00:33:02.755Z"
-    },
-    {
-      "id": 13,
-      "title": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망 - www.cio.com",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNS29Sd2ljM1pyM3ZQc05GeVIxUlRVaDFCcV96bXpHT0h6SmpzMjdGZi1ZMTBhT3NsSlRFRXVVQnZ3VEVxS0NpREIyZVpGdzFGdlJHbExVeU5uSHVKWWh6WWdpMnk3SjBob2lsYktZVkJmb0dJU2g1Y3RNbTlkZnBfSDUtNDFsdTZyaUdLSVI1LUZnVDBBQkh5YVJmRldMQnFBMnc1WGRERzViSGlNYWtfblBkT3pIZmxqcl9yejlUWmxlTU45Z0dpVlpQa0dsdks4VVFCdC0yai1kMG1vcUZ3VVZneE9xU05Ed2V1QlkzUWdsVkxjWUVsREE3R1ZpU1ZJMFMzcDBVQ29SYTNzcXpiZEpjeEp5X3ViMkhac2hFTkFERzRxXzB0ZDF3VW82MUpaWnowVlBjbnVuejNqSXBZVHdFNA?oc=5",
-      "summary": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망  www.cio.com",
-      "technicalSignificance": "제목은 ‘멤플레이션’과 함께 NAND 372%, DRAM 247%의 성장 전망을 제시해 메모리 시장의 큰 폭의 성장 가능성을 시사합니다. 다만 성장률의 기준(매출·가격·출하량 등), 비교 기간, 전망 기관과 전제는 제공된 내용만으로 확인할 수 없습니다. 기술적 성능이나 새로운 공정의 진전을 다룬 기사인지는 정보가 부족합니다.",
-      "careerRelevance": "메모리 시장의 성장 전망은 메모리 반도체 설계·공정·제품·시장 분석 직무의 산업 동향을 파악하는 데 참고가 될 수 있습니다. 다만 전망이 실제 채용 규모나 특정 직무의 수요 증가로 이어질지는 이 내용만으로 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "DRAM 설계 엔지니어",
-        "NAND 설계 엔지니어",
-        "메모리 공정 엔지니어",
-        "메모리 제품·특성 평가 엔지니어",
-        "반도체 시장·사업 분석가"
-      ],
-      "skillsToLearn": [
-        "DRAM과 NAND의 기본 구조 및 동작 원리",
-        "메모리 반도체 제조 공정의 기초",
-        "메모리 제품의 성능·수율·신뢰성 평가 기초",
-        "반도체 시장 지표와 성장률의 기준 및 산정 방식 분석",
-        "수요·공급과 가격 변화가 메모리 시장에 미치는 영향 이해"
-      ],
-      "terms": [
-        {
-          "term": "멤플레이션",
-          "explanation": "메모리(memory)와 인플레이션(inflation)을 결합한 표현으로, 메모리 제품의 가격 상승을 가리키는 말로 쓰입니다. 이 기사에서 구체적으로 어떤 가격 지표를 뜻하는지는 제공된 내용만으로 확인하기 어렵습니다."
-        },
-        {
-          "term": "NAND",
-          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리의 한 종류입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
-        },
-        {
-          "term": "DRAM",
-          "explanation": "데이터를 빠르게 읽고 쓸 수 있지만 전원이 공급되는 동안 주기적으로 데이터를 갱신해야 하는 메모리입니다. 컴퓨터와 서버의 주기억장치 등에 사용됩니다."
-        },
-        {
-          "term": "성장 전망",
-          "explanation": "앞으로 시장이나 특정 지표가 얼마나 커질지 예상한 수치입니다. 제목의 372%와 247%가 어떤 지표와 기간을 기준으로 한 것인지는 본문 정보가 없어 알 수 없습니다."
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "title": "삼성전자, D램·낸드 점유율 1위… SK하이닉스는 HBM 58% 차지 - Chosunbiz",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEllY3lybXA5MURsOGhpZmw2Ml9McDhNekhHTkd5andCYlVkMmhkU25BWDFSU1dBSFp3WGY2YjRZX1hGeFBmQWZ6UV9kN3ZQX2ZNRmJobDlheU1aVEEzdEZjYkl1WUt1Y2lYVGZ0dVd6MmxRUTJPNlZfLXpPb1h2VWtR0gGWAUFVX3lxTE14Y2NZV1BxUmN5aXBTbVgyUFdJOEFSd0x3UWZkR0wwN1RoNnBQdEc5Z2FFdkotR1FvcWc2NEZPNjhZZE0wZmUxdUdPYmF2emtCc2J3ZF9YcjdJZjBRVHhCeWU0TVlJVmwtTld5dkt1cWdJRHpTY2ZEQlJ2ZEtwM2ZTUlFIS01xYlJpSG5mS0ZKWDVQVnVHUQ?oc=5",
-      "summary": "삼성전자, D램·낸드 점유율 1위… SK하이닉스는 HBM 58% 차지  Chosunbiz",
-      "technicalSignificance": "제목에 따르면 삼성전자는 D램과 낸드플래시 시장에서 점유율 1위이고, SK하이닉스는 HBM 시장에서 58%를 차지했습니다. 범용 메모리와 HBM에서 업체별 경쟁 구도가 다를 수 있음을 보여주는 내용입니다. 다만 점유율의 기준 시점, 산정 방식, 제품별 세부 수치와 기술적 배경은 제공된 정보만으로 확인할 수 없습니다.",
-      "careerRelevance": "메모리 반도체 업계에서 D램·낸드와 HBM의 제품 특성 및 경쟁 구도를 이해하는 데 참고가 됩니다. 다만 기사 제목만으로는 채용 규모, 직무별 수요나 기업별 인력 계획을 판단할 수 없습니다.",
-      "relatedJobs": [
-        "메모리 반도체 소자·공정 엔지니어",
-        "D램·낸드 제품 엔지니어",
-        "HBM 설계·개발 엔지니어",
-        "반도체 패키징·후공정 엔지니어",
-        "메모리 시장·사업 분석 직무"
-      ],
-      "skillsToLearn": [
-        "D램과 낸드플래시의 기본 동작 원리",
-        "HBM의 적층 구조와 메모리 대역폭 개념",
-        "반도체 제조 공정 및 패키징 기초",
-        "메모리 제품의 성능·전력·수율 지표 이해",
-        "시장 점유율 통계의 기준 시점과 산정 방식 확인 능력"
-      ],
-      "terms": [
-        {
-          "term": "D램",
-          "explanation": "데이터를 임시로 저장하는 메모리입니다. 전원이 꺼지면 저장된 내용이 사라지며, 컴퓨터와 서버의 작업 공간으로 널리 쓰입니다."
-        },
-        {
-          "term": "낸드플래시",
-          "explanation": "전원이 꺼져도 데이터가 유지되는 메모리입니다. SSD와 스마트폰 저장장치 등에 사용됩니다."
-        },
-        {
-          "term": "HBM",
-          "explanation": "여러 개의 메모리 칩을 수직으로 쌓고 연결해 데이터 전송 폭을 넓힌 고대역폭 메모리입니다. 인공지능 가속기 등에 활용됩니다."
-        },
-        {
-          "term": "시장 점유율",
-          "explanation": "특정 시장에서 한 기업의 판매액이나 판매량이 차지하는 비율입니다. 금액 기준인지 출하량 기준인지에 따라 수치가 달라질 수 있습니다."
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "title": "연세소식 - 연세소식",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ILWZwVkFvSzZPa2xGVHJEOF83TFNHdG81QUhlR0p1Y1Vra0pKbktORTZOMzhNT2lVZHQyd2tvcU9pNThielFlWFd4RVR0SWMwdms5Z2V2VDdUS2E4S0VJSnJoNGFUMlJncmdSUW8xcDdqTkg2Mmt1dlFkbw?oc=5",
-      "summary": "연세소식  연세소식",
-      "technicalSignificance": "제공된 제목과 내용이 ‘연세소식’으로만 되어 있어 메모리 반도체와 관련된 기술적 의미를 판단하기 어렵습니다. 기사 본문이나 실제 제목 정보가 필요합니다.",
-      "careerRelevance": "기사 내용이 확인되지 않아 반도체 취업과의 연관성을 판단하기 어렵습니다.",
-      "relatedJobs": [],
-      "skillsToLearn": [],
-      "terms": [
-        {
-          "term": "정보 부족",
-          "explanation": "기사의 주제와 본문이 제공되지 않아 구체적인 기술이나 산업 동향을 설명할 수 없는 상태입니다."
-        }
-      ]
-    },
-    {
       "id": 112,
       "title": "반도체 팹 유치 넘어 장비 공급망까지…민형배, 미 AMAT와 협력 모색 - 뉴스1",
       "category": "장비",
@@ -922,40 +1288,6 @@
       "aiAnalyzedAt": "2026-11-22T00:34:03.928Z"
     },
     {
-      "id": 96,
-      "title": "전남광주 반도체산업지원실장, 삼성·SK 추천받아 선임 추진 - 광주드림",
-      "category": "기업·시장",
-      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
-      "publishedAt": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55ZF9ZRUdSNGVTX05PeXpJX0dRdG5ES2hfeDlETHFhaFMxLTBuVHAzTnBJVDA3ZWJXUERDZTBEOHBKaTd3NWpZM0RBQUE2ZW4yVEEwSzN4RWp5MjNncFBpUlB2aGRKbmZFMnc?oc=5",
-      "summary": "전남광주 반도체산업지원실장, 삼성·SK 추천받아 선임 추진  광주드림",
-      "technicalSignificance": "삼성전자와 SK의 추천을 받아 전남광주 반도체산업지원실장을 선임하려는 움직임은 지역 산업 지원 체계와 기업 간 협력에 관한 소식입니다. 반도체 기술이나 투자 계획의 구체적인 내용은 제목만으로 확인하기 어렵습니다.",
-      "careerRelevance": "지역 반도체 생태계 조성, 기업 지원, 산학연 협력 같은 분야의 진로와 관련이 있습니다. 다만 특정 기업의 채용이나 기술직 수요를 의미한다고 보기는 어렵습니다.",
-      "relatedJobs": [
-        "반도체 산업 정책·사업 기획",
-        "산학연 협력 및 기업 지원",
-        "반도체 기업 전략·대외협력"
-      ],
-      "skillsToLearn": [
-        "반도체 산업의 주요 공정과 가치사슬 이해",
-        "산업·정책 자료 조사 및 분석",
-        "사업 기획과 프로젝트 관리",
-        "기업·정부·연구기관 간 협업 및 의사소통"
-      ],
-      "terms": [
-        {
-          "term": "반도체 산업 생태계",
-          "explanation": "반도체를 설계하고 제조하는 기업뿐 아니라 장비·소재 업체, 연구기관, 대학, 정부 지원 조직 등이 함께 이루는 산업 네트워크입니다."
-        },
-        {
-          "term": "산업 지원 조직",
-          "explanation": "기업이나 연구기관이 성장하고 협력할 수 있도록 사업, 인력, 연구개발 등을 지원하는 조직입니다. 이 뉴스에서 지원실의 구체적인 역할은 제목만으로 확인하기 어렵습니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-21",
-      "aiAnalyzedAt": "2026-11-21T00:41:50.604Z"
-    },
-    {
       "id": 28,
       "title": "조용호 오산시장, 경기남부 반도체벨트 핵심 거점 육성 승부수…글로벌 기업 유치 가속 - 에너지경제신문",
       "category": "기업·시장",
@@ -1032,44 +1364,6 @@
       ],
       "aiAnalyzedDate": "2026-11-20",
       "aiAnalyzedAt": "2026-11-20T00:39:25.873Z"
-    },
-    {
-      "id": 108,
-      "title": "“코스피 폭락에 반도체 비상” … 한국 경제 뒤흔든 5대 뉴스 - 용인신문",
-      "category": "기업·시장",
-      "source": "\"반도체 산업 시장 기업 투자\" - Google 뉴스",
-      "publishedAt": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sb25oSkFKQ0FkaWl4OE1MU04tZHp4YzFkSkRHMHdlRE10Vll0aUxWRjFIcDZ4blEybVdnQkJxMy1pMXpGXzRjVy1ZR2Q4U3ZObTI4eFdfYlY0c3BSTmdUYnI0SzM?oc=5",
-      "summary": "“코스피 폭락에 반도체 비상” … 한국 경제 뒤흔든 5대 뉴스  용인신문",
-      "technicalSignificance": "제목은 코스피 급락과 반도체 산업의 우려를 언급하지만, 원인이나 반도체 기업·제품·기술에 대한 구체적인 정보는 제공하지 않습니다. 따라서 기술적 변화나 반도체 업황에 미치는 영향은 기사 내용만으로 판단하기 어렵습니다.",
-      "careerRelevance": "시장 변동은 기업의 투자·채용 계획이나 공급망 의사결정에 영향을 줄 수 있지만, 이 기사만으로 실제 영향 여부를 확인할 수 없습니다. 반도체 산업에 취업하려면 기술 역량과 함께 시장·투자 환경을 해석하는 기본 능력이 도움이 될 수 있습니다.",
-      "relatedJobs": [
-        "반도체 산업·시장 분석가",
-        "반도체 기업 재무·IR 담당자",
-        "반도체 공급망·사업기획 담당자"
-      ],
-      "skillsToLearn": [
-        "반도체 기업의 매출·영업이익 및 투자 지표 이해",
-        "주가와 기업 실적·산업 사이클의 차이를 구분하는 능력",
-        "반도체 공급망과 주요 제품군에 대한 기초 지식",
-        "불확실한 시장 정보를 출처별로 확인하는 능력"
-      ],
-      "terms": [
-        {
-          "term": "코스피",
-          "explanation": "한국거래소에 상장된 주요 기업의 주가 흐름을 보여주는 대표적인 주가지수입니다."
-        },
-        {
-          "term": "반도체 업황",
-          "explanation": "반도체의 수요와 공급, 가격, 재고, 기업 실적 등이 종합적으로 어떤 상태인지를 뜻합니다."
-        },
-        {
-          "term": "시장 변동성",
-          "explanation": "주가나 수요·가격이 짧은 기간에 크게 오르내리는 정도를 말합니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-22",
-      "aiAnalyzedAt": "2026-11-22T00:34:03.928Z"
     },
     {
       "id": 54,
