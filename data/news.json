@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:47:29.897Z",
+  "generatedAt": "2026-11-28T12:41:27.789Z",
   "dailyBriefing": "AI 브리핑은 추후 분석 기능 연결 후 제공됩니다.",
   "articles": [
     {
@@ -81,82 +81,82 @@
       "aiAnalyzedAt": "2026-11-26T00:45:43.543Z"
     },
     {
-      "id": 241,
-      "title": "라온로보틱스·서진시스템 '불기둥'…AI 반도체 투자 확대에 장비주 불붙었다 - 핀포인트뉴스",
+      "id": 218,
+      "title": "HBM 넘어 첨단 패키징까지 불꽃랠리…엘티씨·심텍홀딩스 두 자릿수 상승속 반도체 소부장 무슨 호재 있나 - 핀포인트뉴스",
       "category": "공정",
       "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzU2Y5UlV1eVE5cTQxTWIxb3ZmMHJ0LXJ3aWUxaXZXbU9henhLMHJReU1NUXZVQ0NlLURsZDNPYXRkc29rMXE1OGpQaVJidFlGeWYtZnhHM1FKeFhwNWZmdnZxcDRxYS05azlXQjBQX1ZNY3ZDWTV30gF3QVVfeXFMUDNTZjlSVXV5UTlxNDFNYjFvdmYwcnQtcndpZTFpdldtT2F6eEswclF5TU1RdlVDQ2UtRGxkM09hdGRzb2sxcTU4alBpUmJ0WUZ5Zi1meEczUUp4WHA1ZmZ2dnFwNHFhLTlrOVdCMFBfVk1jdkNZNXc?oc=5",
-      "summary": "라온로보틱스·서진시스템 '불기둥'…AI 반도체 투자 확대에 장비주 불붙었다  핀포인트뉴스",
-      "technicalSignificance": "제목은 AI 반도체 투자 확대 기대와 장비주 주가 상승을 연결합니다. 다만 어떤 투자나 장비 수요가 실제로 늘었는지, 언급된 기업이 어떤 장비를 공급하는지에 대한 정보는 제공되지 않아 구체적인 기술적 수혜를 판단하기 어렵습니다.",
-      "careerRelevance": "AI 반도체 투자와 제조 장비 산업의 관계를 살펴보는 데 참고할 수 있습니다. 다만 주가 움직임만으로 기업의 기술 경쟁력이나 채용 확대를 단정할 수는 없으며, 기업별 사업·제품 정보 확인이 필요합니다.",
+      "publishedAt": "2026-11-26",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91b01DMXA3b3pNdWI0ZmxYVjRjRmhtTFNmYmswclNNY0hhalVpcXRUekxJcGY2NTktTmkyYklPVS1sODNuSjEyN3dxYVhlLXZIUEt6d092NXgzTDJ4S0plb2wzcFRhVHkwSmNUM3dWTFY3QW1fVTM00gF3QVVfeXFMT3VvTUMxcDdvek11YjRmbFhWNGNGaG1MU2ZiazByU01jSGFqVWlxdFR6TElwZjY1OS1OaTJiSU9VLWw4M25KMTI3d3FhWGUtdkhQS3p3T3Y1eDNMMnhLSmVvbDNwVGFUeTBKY1Qzd1ZMVjdBbV9VMzQ?oc=5",
+      "summary": "HBM 넘어 첨단 패키징까지 불꽃랠리…엘티씨·심텍홀딩스 두 자릿수 상승속 반도체 소부장 무슨 호재 있나  핀포인트뉴스",
+      "technicalSignificance": "제목은 HBM뿐 아니라 첨단 패키징 관련 기업과 반도체 소재·부품·장비 업종에 시장의 관심이 확산됐음을 보여줍니다. 다만 구체적인 기술, 수요처, 기업별 실적이나 주가 상승의 직접적인 원인은 제공된 내용만으로 확인하기 어렵습니다.",
+      "careerRelevance": "첨단 패키징의 중요성이 커지는 흐름을 파악하는 데 참고할 수 있습니다. 다만 특정 기업의 채용이나 실제 공정 변화가 기사 내용에 제시되지 않아 채용 영향은 판단하기 어렵습니다.",
       "relatedJobs": [
-        "반도체 장비 개발 엔지니어",
-        "반도체 장비 필드 서비스 엔지니어",
-        "반도체 제조 공정 엔지니어",
-        "반도체 산업·시장 분석가"
+        "반도체 패키징 공정 엔지니어",
+        "반도체 소재·부품·장비 기술 엔지니어",
+        "패키징 공정 연구개발 엔지니어"
       ],
       "skillsToLearn": [
-        "반도체 제조 공정과 주요 장비의 기초",
-        "AI 반도체 생산 및 투자 흐름의 기초",
-        "기업의 사업보고서와 제품 정보를 확인하는 능력",
-        "주가 변동과 실제 사업 성과를 구분해 분석하는 능력"
+        "반도체 후공정 및 첨단 패키징의 기본 흐름",
+        "HBM의 구조와 메모리 적층 개념",
+        "패키징 소재·장비와 공정 간의 관계",
+        "반도체 기업의 실적과 시장 수요를 분석하는 기초 역량"
       ],
       "terms": [
         {
-          "term": "AI 반도체",
-          "explanation": "인공지능의 학습이나 추론에 필요한 연산을 빠르게 처리하도록 설계된 반도체를 말합니다."
+          "term": "HBM",
+          "explanation": "여러 개의 메모리 칩을 수직으로 쌓아 데이터 처리 장치와 빠르게 통신하도록 만든 고대역폭 메모리입니다."
         },
         {
-          "term": "반도체 장비주",
-          "explanation": "반도체 제조에 쓰이는 장비를 개발·생산하거나 관련 사업을 하는 기업의 주식을 가리키는 표현입니다."
+          "term": "첨단 패키징",
+          "explanation": "칩을 단순히 보호하는 데 그치지 않고, 여러 칩을 연결하거나 적층해 성능과 전력 효율을 높이는 후공정 기술입니다."
         },
         {
-          "term": "투자 확대",
-          "explanation": "기업이나 기관이 생산능력, 연구개발 또는 시설 등에 더 많은 자금을 투입하는 것을 말합니다. 이 제목만으로 실제 투자 규모나 장비 발주를 확인할 수는 없습니다."
+          "term": "소부장",
+          "explanation": "소재·부품·장비의 줄임말로, 반도체 제조에 필요한 재료와 부품, 생산 장비를 통칭합니다."
         }
       ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+      "aiAnalyzedDate": "2026-11-27",
+      "aiAnalyzedAt": "2026-11-27T00:49:51.281Z"
     },
     {
-      "id": 120,
-      "title": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공 - 헤럴드경제",
+      "id": 230,
+      "title": "화웨이, 독자 설계 '타우 칩' 적용 확대…폴더블 신제품 공개 - 전자신문",
       "category": "공정",
       "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
-      "publishedAt": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT3JuRTRSTkNYWUJPamNGcGIxSUR1UFIwc21jNVZNa2lLRUlpYmtfcV9EamttMjQ2MUdMb0h4QWdGY2hnSW83aVZaM3FFZnZ2RkE2ZURn?oc=5",
-      "summary": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공  헤럴드경제",
-      "technicalSignificance": "제목은 반도체 초미세 공정의 핵심 기술을 국산화해 외산 장비 의존을 줄일 가능성을 제시합니다. 다만 어떤 장비나 기술을 국산화했는지, 실제로 외산 독점이 해소됐는지, 양산 검증을 마쳤는지는 제공된 내용만으로 판단할 수 없습니다.",
-      "careerRelevance": "반도체 장비·부품의 국산화와 공정 적용에 관심 있는 구직자에게 관련성이 있습니다. 장비 개발, 공정 평가, 품질 검증 분야와 연결될 수 있지만 구체적인 기술 내용은 부족합니다.",
+      "publishedAt": "2026-11-25",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NYnlQUTE4ZGpBREFpR2dUcHk0RVBoSkFVTVNHTXFLWWJPUGlQTFgyeGNTajQ2TE5LRE1FYnF2SzgxSVQ1WFVHN280R2dlQQ?oc=5",
+      "summary": "화웨이, 독자 설계 '타우 칩' 적용 확대…폴더블 신제품 공개  전자신문",
+      "technicalSignificance": "화웨이가 자체 설계한 것으로 소개된 ‘타우 칩’의 적용을 확대하고 폴더블 신제품을 공개했다는 내용입니다. 칩의 용도, 제조 공정, 성능, 생산 업체와 실제 적용 범위는 제공된 내용만으로 확인하기 어렵습니다.",
+      "careerRelevance": "독자 칩 설계와 스마트폰 제품 적용은 반도체 설계부터 검증, 제품 통합까지의 직무와 연관될 수 있습니다. 다만 칩의 세부 사양과 설계·제조 주체가 밝혀져 있지 않아 구체적인 기술 분야를 단정할 수는 없습니다.",
       "relatedJobs": [
-        "반도체 장비 개발 엔지니어",
-        "반도체 공정 통합 엔지니어",
-        "장비 평가·검증 엔지니어",
-        "반도체 품질 엔지니어"
+        "반도체 SoC 설계 엔지니어",
+        "RTL 설계 및 검증 엔지니어",
+        "반도체 제품·시스템 검증 엔지니어",
+        "모바일 기기 하드웨어 엔지니어"
       ],
       "skillsToLearn": [
-        "반도체 제조 장비와 공정의 기본 원리",
-        "장비 성능 평가 및 데이터 분석",
-        "전기·전자 시스템 기초",
-        "국산 장비의 공정 적합성·신뢰성 평가 방법"
+        "디지털 논리회로와 컴퓨터 구조",
+        "Verilog 또는 SystemVerilog 기반 RTL 설계·검증 기초",
+        "칩 성능·전력·면적(PPA) 개념",
+        "모바일 기기의 시스템 구성과 칩 통합 과정",
+        "칩의 제조 공정이나 파운드리 정보는 기사만으로 확인되지 않으므로 관련 사실을 구분해 해석하는 역량"
       ],
       "terms": [
         {
-          "term": "초미세 공정",
-          "explanation": "매우 작은 크기의 회로 패턴을 웨이퍼에 구현하는 반도체 제조 공정을 뜻합니다. 구체적인 선폭이나 공정 단계는 기사 내용에 제시되지 않았습니다."
+          "term": "독자 설계 칩",
+          "explanation": "제품이나 시스템에 필요한 기능을 기업 또는 조직이 자체적으로 설계한 반도체를 뜻합니다. 실제 제조까지 자체적으로 한다는 의미인지는 별도로 확인해야 합니다."
         },
         {
-          "term": "장비 국산화",
-          "explanation": "해외에서 들여오던 장비나 핵심 기술을 국내에서 개발·생산해 활용하려는 것입니다. 국산화가 곧바로 양산 현장 적용이나 수입 대체를 뜻하지는 않습니다."
+          "term": "SoC",
+          "explanation": "CPU 등 여러 기능 블록을 하나의 반도체 칩에 통합한 시스템온칩입니다. 타우 칩이 SoC인지는 제공된 기사 내용만으로 확인할 수 없습니다."
         },
         {
-          "term": "양산 검증",
-          "explanation": "개발된 장비나 기술이 실제 대량 생산 환경에서도 품질과 성능을 안정적으로 유지하는지 확인하는 절차입니다. 이 뉴스에서 검증 여부는 확인할 수 없습니다."
+          "term": "폴더블",
+          "explanation": "화면이나 기기 일부를 접을 수 있도록 설계한 제품 형태를 말합니다. 제목에서는 화웨이의 신제품 유형으로 언급됐습니다."
         }
       ],
-      "aiAnalyzedDate": "2026-11-23",
-      "aiAnalyzedAt": "2026-11-23T00:38:44.738Z"
+      "aiAnalyzedDate": "2026-11-27",
+      "aiAnalyzedAt": "2026-11-27T00:49:51.281Z"
     },
     {
       "id": 118,
@@ -352,84 +352,104 @@
       "aiAnalyzedAt": "2026-11-27T00:49:51.282Z"
     },
     {
-      "id": 254,
-      "title": "[한장TECH] 2027년 반도체 시장, AI 인프라 질적 경쟁 돌입 - 테크월드",
+      "id": 6,
+      "title": "충청에 '반도체 심장' HBM 거점 … 삼성, 첨단 패키징 승부 건다 - 매일경제",
       "category": "패키징",
       "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IanBiTlpwRnpFQThNQ0xfR0l5MEV3blFjTTJiMF9EdmlMX3NzRVdnZWJpcVBlX2hMMTNTbF92M2ZkYnRlQ2JucDIycVZXMUNYSjJtYVk1MUVLcGpfd29LNW9XcHJEbnJQ?oc=5",
-      "summary": "[한장TECH] 2027년 반도체 시장, AI 인프라 질적 경쟁 돌입  테크월드",
-      "technicalSignificance": "제목은 2027년 반도체 시장에서 AI 인프라의 경쟁이 규모뿐 아니라 질적 요소로 확대될 가능성을 제시합니다. 패키징 분야 뉴스로 분류되어 있지만, 구체적인 패키징 기술이나 시장 전망의 근거는 제공되지 않아 HBM 등 특정 기술을 다룬다고 단정할 수 없습니다.",
-      "careerRelevance": "첨단 패키징과 AI 인프라의 연관성을 폭넓게 살펴볼 주제입니다. 패키징 직무를 준비한다면 기본 공정과 제품 간 연결을 학습할 수 있으나, 기사에서 강조하는 세부 기술·기업·직무 수요는 정보가 부족합니다.",
+      "publishedAt": "2026-11-12",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDbVpJUEtRSVJrWW5vR1dRWHBXcnBJZm1kajZGaXVUQzNNaGk3cE1MR1M5U2JnVkRVSDdyNXd6Sm1MNDl5OEFLYllscDBsRzlDdTdwbURR?oc=5",
+      "summary": "충청에 '반도체 심장' HBM 거점 … 삼성, 첨단 패키징 승부 건다  매일경제",
+      "technicalSignificance": "제목상 삼성전자가 충청 지역을 HBM 거점으로 삼고 첨단 패키징 경쟁을 강화하려는 흐름을 다룬 것으로 보입니다. HBM은 여러 메모리 다이를 적층해 고대역폭을 구현하므로, 적층·접합·열 관리·수율 확보 등 패키징 기술이 성능과 생산성에 중요합니다. 다만 기사 본문이 제공되지 않아 거점의 구체적 위치와 설비 규모, 적용 기술, 투자 계획은 확인할 수 없습니다.",
+      "careerRelevance": "HBM과 첨단 패키징 분야의 투자·사업 확대는 패키징 공정, 장비, 소재, 품질·수율, 테스트 관련 직무와 연관될 수 있습니다. 다만 실제 채용 규모나 직무 구성은 뉴스 정보만으로 판단하기 어렵습니다.",
       "relatedJobs": [
         "반도체 패키징 공정 엔지니어",
-        "반도체 패키지 설계 엔지니어",
-        "반도체 제품·기술 기획 담당자",
-        "AI 반도체 시장 분석가"
+        "HBM 적층·접합 공정 엔지니어",
+        "패키징 장비 엔지니어",
+        "패키징 소재 개발 엔지니어",
+        "공정 품질·수율 엔지니어",
+        "반도체 테스트 엔지니어"
       ],
       "skillsToLearn": [
-        "반도체 패키징 공정의 기초",
-        "칩·패키지·시스템 간 연결 구조에 대한 이해",
-        "AI 인프라와 반도체 수요의 관계",
-        "시장 전망 자료의 가정과 근거를 검토하는 능력"
+        "반도체 후공정과 패키징 공정의 기초",
+        "HBM 구조와 적층 방식",
+        "열·기계적 신뢰성 및 불량 분석",
+        "공정 데이터 분석과 수율 관리",
+        "반도체 재료 및 접합 기술",
+        "반도체 테스트 기초"
       ],
       "terms": [
+        {
+          "term": "HBM",
+          "explanation": "고대역폭 메모리(High Bandwidth Memory)의 약자입니다. 메모리 다이를 여러 층으로 쌓아 데이터가 빠르게 오가도록 만든 메모리입니다."
+        },
         {
           "term": "첨단 패키징",
-          "explanation": "칩을 보호하는 데 그치지 않고 여러 칩을 연결하거나 함께 배치해 성능과 전력 효율 등을 높이려는 패키징 기술을 말합니다."
+          "explanation": "칩을 단순히 보호하고 연결하는 데 그치지 않고, 여러 칩을 쌓거나 가까이 배치해 성능과 전력 효율을 높이는 후공정 기술입니다."
         },
         {
-          "term": "AI 인프라",
-          "explanation": "AI 서비스를 운영하는 데 필요한 데이터센터, 컴퓨팅 장비, 네트워크와 전력 설비 등을 포괄하는 표현입니다."
+          "term": "패키징",
+          "explanation": "반도체 칩을 외부 회로와 연결하고 보호하는 공정입니다. HBM에서는 여러 메모리 칩을 적층하고 연결하는 과정이 특히 중요합니다."
         },
         {
-          "term": "질적 경쟁",
-          "explanation": "단순히 생산량이나 투자 규모를 늘리는 경쟁을 넘어 성능, 효율, 신뢰성 등 제품이나 시스템의 질을 높이는 경쟁을 뜻합니다."
+          "term": "TSV",
+          "explanation": "실리콘 관통 전극(Through-Silicon Via)의 약자입니다. 실리콘 칩을 수직으로 관통하는 전극으로 층 사이를 연결하는 데 쓰일 수 있습니다. 다만 제공된 뉴스 정보만으로 해당 거점에서 TSV를 적용하는지는 확인할 수 없습니다."
         }
-      ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+      ]
     },
     {
-      "id": 11,
-      "title": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격 - 한겨레",
+      "id": 261,
+      "title": "반도체 수요 지속?…D램은 공급부족, 낸드는 공급확대 - 한겨레",
       "category": "메모리",
       "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFlLVXFjWFdEQ2pRQUlDYm9CSWRBMFR2RGU1OWh3UlVaeTVNOUVlbFZiM3JnbnMtMXV6NTJsSkFNU1ZEd2xxUUxSYXM4bjFhVTQ5NTRVSDZqTjFXWWNUMXp4ZXlIM0tyTjNDXw?oc=5",
-      "summary": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격  한겨레",
-      "technicalSignificance": "제목만으로는 구체적인 제품 성능, 공정 기술, 생산능력 또는 시장 점유율을 확인할 수 없어 기술적 수준을 판단하기 어렵습니다. 제목은 중국 메모리 업체들이 D램과 낸드 분야에서 한국 기업을 추격하고 있다는 내용을 시사합니다.",
-      "careerRelevance": "메모리 분야의 경쟁 구도와 기술 개발 동향을 살펴볼 때 참고할 수 있는 주제입니다. 다만 기사 본문이 제공되지 않아 어떤 기술이나 기업 활동이 채용 수요에 영향을 주는지는 판단하기 어렵습니다.",
+      "publishedAt": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01YjBxYkYxVzNxX1FqbnNxcGI3eW1aRU12SG1hZ3ROdmx0ZHpTRWI1RmFXWERVS2RyWFJUaXh2ZXFlejJpRVlWNEdUZ2w4ZlB5blV0Wk14Y1BKS2d2NjhPM1ZwWWZyMG13eHc?oc=5",
+      "summary": "반도체 수요 지속?…D램은 공급부족, 낸드는 공급확대  한겨레",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 13,
+      "title": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망 - www.cio.com",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNS29Sd2ljM1pyM3ZQc05GeVIxUlRVaDFCcV96bXpHT0h6SmpzMjdGZi1ZMTBhT3NsSlRFRXVVQnZ3VEVxS0NpREIyZVpGdzFGdlJHbExVeU5uSHVKWWh6WWdpMnk3SjBob2lsYktZVkJmb0dJU2g1Y3RNbTlkZnBfSDUtNDFsdTZyaUdLSVI1LUZnVDBBQkh5YVJmRldMQnFBMnc1WGRERzViSGlNYWtfblBkT3pIZmxqcl9yejlUWmxlTU45Z0dpVlpQa0dsdks4VVFCdC0yai1kMG1vcUZ3VVZneE9xU05Ed2V1QlkzUWdsVkxjWUVsREE3R1ZpU1ZJMFMzcDBVQ29SYTNzcXpiZEpjeEp5X3ViMkhac2hFTkFERzRxXzB0ZDF3VW82MUpaWnowVlBjbnVuejNqSXBZVHdFNA?oc=5",
+      "summary": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망  www.cio.com",
+      "technicalSignificance": "제목은 ‘멤플레이션’과 함께 NAND 372%, DRAM 247%의 성장 전망을 제시해 메모리 시장의 큰 폭의 성장 가능성을 시사합니다. 다만 성장률의 기준(매출·가격·출하량 등), 비교 기간, 전망 기관과 전제는 제공된 내용만으로 확인할 수 없습니다. 기술적 성능이나 새로운 공정의 진전을 다룬 기사인지는 정보가 부족합니다.",
+      "careerRelevance": "메모리 시장의 성장 전망은 메모리 반도체 설계·공정·제품·시장 분석 직무의 산업 동향을 파악하는 데 참고가 될 수 있습니다. 다만 전망이 실제 채용 규모나 특정 직무의 수요 증가로 이어질지는 이 내용만으로 판단하기 어렵습니다.",
       "relatedJobs": [
-        "메모리 반도체 공정 엔지니어",
-        "메모리 소자·제품 엔지니어",
-        "반도체 설계 엔지니어",
-        "메모리 테스트 엔지니어",
-        "시장·기술 분석가"
+        "DRAM 설계 엔지니어",
+        "NAND 설계 엔지니어",
+        "메모리 공정 엔지니어",
+        "메모리 제품·특성 평가 엔지니어",
+        "반도체 시장·사업 분석가"
       ],
       "skillsToLearn": [
-        "반도체 메모리 기본 원리",
-        "D램·낸드 구조와 동작 이해",
-        "반도체 공정 기초",
-        "메모리 제품 평가 및 테스트 기초",
-        "반도체 산업·시장 동향 분석"
+        "DRAM과 NAND의 기본 구조 및 동작 원리",
+        "메모리 반도체 제조 공정의 기초",
+        "메모리 제품의 성능·수율·신뢰성 평가 기초",
+        "반도체 시장 지표와 성장률의 기준 및 산정 방식 분석",
+        "수요·공급과 가격 변화가 메모리 시장에 미치는 영향 이해"
       ],
       "terms": [
         {
-          "term": "D램(DRAM)",
-          "explanation": "데이터를 빠르게 읽고 쓸 수 있어 컴퓨터와 서버의 주기억장치 등에 쓰이는 메모리입니다. 저장된 데이터는 전원이 공급되는 동안에도 주기적으로 유지해야 합니다."
+          "term": "멤플레이션",
+          "explanation": "메모리(memory)와 인플레이션(inflation)을 결합한 표현으로, 메모리 제품의 가격 상승을 가리키는 말로 쓰입니다. 이 기사에서 구체적으로 어떤 가격 지표를 뜻하는지는 제공된 내용만으로 확인하기 어렵습니다."
         },
         {
-          "term": "낸드(NAND)",
-          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
+          "term": "NAND",
+          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리의 한 종류입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
         },
         {
-          "term": "메모리 반도체",
-          "explanation": "데이터를 저장하는 반도체를 말합니다. 대표적인 종류가 D램과 낸드입니다."
+          "term": "DRAM",
+          "explanation": "데이터를 빠르게 읽고 쓸 수 있지만 전원이 공급되는 동안 주기적으로 데이터를 갱신해야 하는 메모리입니다. 컴퓨터와 서버의 주기억장치 등에 사용됩니다."
         },
         {
-          "term": "추격",
-          "explanation": "후발 기업이나 국가가 선도 기업과의 기술·생산·시장 경쟁 격차를 줄여 가는 것을 뜻합니다. 이 기사 제목만으로는 격차가 얼마나 줄었는지 알 수 없습니다."
+          "term": "성장 전망",
+          "explanation": "앞으로 시장이나 특정 지표가 얼마나 커질지 예상한 수치입니다. 제목의 372%와 247%가 어떤 지표와 기간을 기준으로 한 것인지는 본문 정보가 없어 알 수 없습니다."
         }
       ]
     },
@@ -472,49 +492,6 @@
         {
           "term": "NAND 플래시",
           "explanation": "전원이 꺼져도 데이터가 유지되는 비휘발성 메모리로, SSD와 저장장치 등에 사용됩니다. 기사에서 구체적으로 다루는지는 확인할 수 없습니다."
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "title": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망 - www.cio.com",
-      "category": "메모리",
-      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
-      "publishedAt": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNS29Sd2ljM1pyM3ZQc05GeVIxUlRVaDFCcV96bXpHT0h6SmpzMjdGZi1ZMTBhT3NsSlRFRXVVQnZ3VEVxS0NpREIyZVpGdzFGdlJHbExVeU5uSHVKWWh6WWdpMnk3SjBob2lsYktZVkJmb0dJU2g1Y3RNbTlkZnBfSDUtNDFsdTZyaUdLSVI1LUZnVDBBQkh5YVJmRldMQnFBMnc1WGRERzViSGlNYWtfblBkT3pIZmxqcl9yejlUWmxlTU45Z0dpVlpQa0dsdks4VVFCdC0yai1kMG1vcUZ3VVZneE9xU05Ed2V1QlkzUWdsVkxjWUVsREE3R1ZpU1ZJMFMzcDBVQ29SYTNzcXpiZEpjeEp5X3ViMkhac2hFTkFERzRxXzB0ZDF3VW82MUpaWnowVlBjbnVuejNqSXBZVHdFNA?oc=5",
-      "summary": "‘멤플레이션’이 키운 메모리 호황…NAND 372%·DRAM 247% 성장 전망  www.cio.com",
-      "technicalSignificance": "제목은 ‘멤플레이션’과 함께 NAND 372%, DRAM 247%의 성장 전망을 제시해 메모리 시장의 큰 폭의 성장 가능성을 시사합니다. 다만 성장률의 기준(매출·가격·출하량 등), 비교 기간, 전망 기관과 전제는 제공된 내용만으로 확인할 수 없습니다. 기술적 성능이나 새로운 공정의 진전을 다룬 기사인지는 정보가 부족합니다.",
-      "careerRelevance": "메모리 시장의 성장 전망은 메모리 반도체 설계·공정·제품·시장 분석 직무의 산업 동향을 파악하는 데 참고가 될 수 있습니다. 다만 전망이 실제 채용 규모나 특정 직무의 수요 증가로 이어질지는 이 내용만으로 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "DRAM 설계 엔지니어",
-        "NAND 설계 엔지니어",
-        "메모리 공정 엔지니어",
-        "메모리 제품·특성 평가 엔지니어",
-        "반도체 시장·사업 분석가"
-      ],
-      "skillsToLearn": [
-        "DRAM과 NAND의 기본 구조 및 동작 원리",
-        "메모리 반도체 제조 공정의 기초",
-        "메모리 제품의 성능·수율·신뢰성 평가 기초",
-        "반도체 시장 지표와 성장률의 기준 및 산정 방식 분석",
-        "수요·공급과 가격 변화가 메모리 시장에 미치는 영향 이해"
-      ],
-      "terms": [
-        {
-          "term": "멤플레이션",
-          "explanation": "메모리(memory)와 인플레이션(inflation)을 결합한 표현으로, 메모리 제품의 가격 상승을 가리키는 말로 쓰입니다. 이 기사에서 구체적으로 어떤 가격 지표를 뜻하는지는 제공된 내용만으로 확인하기 어렵습니다."
-        },
-        {
-          "term": "NAND",
-          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리의 한 종류입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
-        },
-        {
-          "term": "DRAM",
-          "explanation": "데이터를 빠르게 읽고 쓸 수 있지만 전원이 공급되는 동안 주기적으로 데이터를 갱신해야 하는 메모리입니다. 컴퓨터와 서버의 주기억장치 등에 사용됩니다."
-        },
-        {
-          "term": "성장 전망",
-          "explanation": "앞으로 시장이나 특정 지표가 얼마나 커질지 예상한 수치입니다. 제목의 372%와 247%가 어떤 지표와 기간을 기준으로 한 것인지는 본문 정보가 없어 알 수 없습니다."
         }
       ]
     },
@@ -581,43 +558,46 @@
       ]
     },
     {
-      "id": 255,
-      "title": "지식재산처, 반도체 장비 제조기업의 지식재산(IP) 경쟁력 강화를 위한 현장 소통 간담회 개최 - OTN뉴스",
+      "id": 262,
+      "title": "[전망] 삼성 반도체 장비 정비도 로봇이 맡는다…AMR·이동형 로봇팔 옥석 가리기 By 알파경제 alphabiz - Investing.com 한국어",
       "category": "장비",
       "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tWDBRWDJ6dzkxa0NGRGsxdkF0aDJzUnp3dnZlQld3dXNRZjlMM0tvanN2YzRybTJzaHJyQUNTRV85YVRIRW11Zm43b2JuUnZGMTBFOTU1bkt3ZmNpMFI0Sy1WZG9DZGdo?oc=5",
-      "summary": "지식재산처, 반도체 장비 제조기업의 지식재산(IP) 경쟁력 강화를 위한 현장 소통 간담회 개최  OTN뉴스",
-      "technicalSignificance": "제목상 지식재산처가 반도체 장비 제조기업과 IP 경쟁력 강화를 위한 현장 간담회를 개최했습니다. 이는 장비 기술의 권리화와 보호가 산업 경쟁력의 한 요소임을 보여주지만, 논의된 제도·지원 내용과 기업의 구체적인 기술은 제공된 정보만으로 알기 어렵습니다.",
-      "careerRelevance": "장비 개발 직무뿐 아니라 특허 분석, 기술기획, 연구개발 전략 직무와도 연결됩니다. 기술을 개발하는 역량에 더해 개발 결과를 문서화하고 지식재산 관점에서 검토하는 역량이 관련될 수 있습니다.",
-      "relatedJobs": [
-        "반도체 장비 연구개발 엔지니어",
-        "반도체 장비 기구·제어 설계 엔지니어",
-        "특허 분석·지식재산 담당자",
-        "기술기획 및 연구개발 전략 담당자"
-      ],
-      "skillsToLearn": [
-        "반도체 장비의 기능과 구성 요소에 대한 기초",
-        "특허 검색 및 선행기술 조사 기초",
-        "기술 내용을 명확하게 문서화하는 능력",
-        "연구개발 결과의 권리화와 보호에 대한 기본 이해"
-      ],
-      "terms": [
-        {
-          "term": "IP(지식재산)",
-          "explanation": "특허·상표·저작권·영업비밀처럼 사람이나 기업이 가진 지식과 기술을 보호하는 권리 또는 자산입니다."
-        },
-        {
-          "term": "현장 소통 간담회",
-          "explanation": "정책이나 지원을 담당하는 기관이 기업 현장을 방문해 업계의 의견과 애로사항을 듣는 자리입니다."
-        },
-        {
-          "term": "특허",
-          "explanation": "새롭고 유용한 발명에 대해 일정 기간 독점적으로 실시할 수 있도록 법적으로 보호하는 권리입니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+      "publishedAt": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNWs0UWY5SjNVdzFMMk43TXpYZk9icU9fZXlZT2lGNl9qQnBYWGZyQ3pRMU9fNEJvLUd0U05tVU1OWXBicTJNMVFmTHJsWHRiSkVZN3pabktDeExYMU5kWmZzOEFSUXA3dmFqb2tBYkI?oc=5",
+      "summary": "[전망] 삼성 반도체 장비 정비도 로봇이 맡는다…AMR·이동형 로봇팔 옥석 가리기 By 알파경제 alphabiz  Investing.com 한국어",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 263,
+      "title": "지식재산처, 반도체·이차전지 현장 소통…기업 IP 경쟁력 강화 - 쿠키뉴스",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVWl5RzRsRjVaMGVTV29lTzZaWWxmM3ZPZmo1ckZSa3FmekdSS2NfUkJnQk1ad0pud0VOczdESDBNU25VVzV6NG1ib21namNWclFDZk5rT1FXWDJ5SmhtMWpqYw?oc=5",
+      "summary": "지식재산처, 반도체·이차전지 현장 소통…기업 IP 경쟁력 강화  쿠키뉴스",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
+    },
+    {
+      "id": 264,
+      "title": "미국 반도체 장비주 일제히 상승…HBM 검사·후공정 관련주에 시선 집중 - 핀포인트뉴스",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkS3RqZjhnYXBVamU5bnBaSElDQS1Kc1prbEotR2NYN3pCVENuZHNFczdNeTVVNjl5bWN2NG4yZXZfOU5hVkFBU05yMVFIVzIzbTAtX1o0RE5qMHlWaHpHV2M1LUdIVUhpYXpncnJNM1lxM2_SAXdBVV95cUxNVHd0aVREQlEtRml4T0Z0UXhGN2JNNlp2aGtPN2ljTTRMY2hmck55Rmt5elNVbVJhUWtFZWkyVXpzZmhqdmxOSzJPejE5MWlHdlJMS3A1SWE1YThobjFsRmJ5UnlDZmV4Y21GQlNwXzhQYnVReDN3MA?oc=5",
+      "summary": "미국 반도체 장비주 일제히 상승…HBM 검사·후공정 관련주에 시선 집중  핀포인트뉴스",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
     },
     {
       "id": 199,
@@ -661,86 +641,6 @@
       "aiAnalyzedAt": "2026-11-26T00:46:02.564Z"
     },
     {
-      "id": 245,
-      "title": "AI 접목한 전문 디지털 트윈 주목…반도체 공장 5분 만에 가상공간에 구현 - 아이티데일리",
-      "category": "장비",
-      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SXJnLVUzREIySzgzQlR3LUlVeGVBTlZxdUlmNFREN05KQ1RuOHR5eEhHcjNsTExOMTNrVlViZU5mT2tOdFdmRGt0aVNBWW5GdmJfbGZqR21WVXI4SkI5dnIzZFI1dDk0?oc=5",
-      "summary": "AI 접목한 전문 디지털 트윈 주목…반도체 공장 5분 만에 가상공간에 구현  아이티데일리",
-      "technicalSignificance": "제목은 AI를 접목한 디지털 트윈 기술로 반도체 공장을 짧은 시간 안에 가상공간에 구현하는 사례를 소개합니다. 공장 가상화와 AI 활용이 주제지만, 구현 범위·정확도·사용 데이터·실제 운영 효과는 제공된 정보만으로 확인할 수 없습니다.",
-      "careerRelevance": "반도체 제조 지식과 데이터·시뮬레이션 역량이 만나는 분야와 관련됩니다. 공정·설비 엔지니어뿐 아니라 제조 데이터 분석, 스마트팩토리, 디지털 트윈 개발 직무를 알아볼 때 참고할 수 있습니다.",
-      "relatedJobs": [
-        "반도체 공정 엔지니어",
-        "반도체 설비·자동화 엔지니어",
-        "스마트팩토리 엔지니어",
-        "디지털 트윈·시뮬레이션 엔지니어",
-        "제조 데이터 분석가"
-      ],
-      "skillsToLearn": [
-        "반도체 공장의 공정 흐름과 설비 기초",
-        "제조 데이터 수집·분석의 기초",
-        "3D 모델링 및 공장 시뮬레이션 도구의 기초",
-        "AI·머신러닝의 기본 개념",
-        "실제 설비와 가상 모델의 데이터 연동 개념"
-      ],
-      "terms": [
-        {
-          "term": "디지털 트윈",
-          "explanation": "현실의 공장이나 설비를 가상공간에 모델로 구현하고, 실제 데이터와 연결해 상태를 파악하거나 시나리오를 검토하는 기술입니다."
-        },
-        {
-          "term": "가상공간 구현",
-          "explanation": "현실의 공간이나 설비를 컴퓨터 안의 3D 모델 또는 시뮬레이션 환경으로 만드는 것을 말합니다."
-        },
-        {
-          "term": "AI 접목",
-          "explanation": "인공지능 기술을 기존 시스템에 적용하는 것을 뜻합니다. 이 기사에서 AI가 구체적으로 어떤 기능을 수행하는지는 제공된 정보만으로 판단하기 어렵습니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
-    },
-    {
-      "id": 246,
-      "title": "중국은 어떻게 미국의 반도체 수출 규제를 계속 우회하는가 - https://www.pado.kr/",
-      "category": "장비",
-      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVHNaZDBaVldkeW1SbUVYWXAyVk9ZSTZQbUdqTlZ3NzJrTGhKQ1p1Z0Q1aXFmUFhsYjktODBfUmtzQ1hfdkxpX3NZZ1ZIc0p1aHVfcVJJSFYxcW8?oc=5",
-      "summary": "중국은 어떻게 미국의 반도체 수출 규제를 계속 우회하는가  https://www.pado.kr/",
-      "technicalSignificance": "제목은 중국이 미국의 반도체 수출 규제를 우회해 장비나 관련 기술에 접근하는 문제를 다룹니다. 규제 우회가 실제로 어떤 장비·경로·기술에 해당하는지는 제공된 내용만으로 확인할 수 없습니다. 일반적으로 이 이슈는 첨단 제조 장비의 공급 가능성과 수출 통제의 실효성에 영향을 줄 수 있습니다.",
-      "careerRelevance": "반도체 장비의 해외 판매·조달, 수출 규제 준수, 공급망 위험 관리와 관련이 있습니다. 다만 기사 내용이 없어 구체적인 기업이나 장비를 중심으로 한 취업 연관성은 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "반도체 장비 엔지니어",
-        "무역 규제·수출통제 담당자",
-        "반도체 공급망 분석가",
-        "글로벌 조달·구매 담당자"
-      ],
-      "skillsToLearn": [
-        "반도체 제조 공정과 주요 장비의 기본 구조",
-        "반도체 장비 공급망 및 조달 흐름",
-        "수출통제·제재 규정의 기본 개념",
-        "해외 공급망 위험 분석"
-      ],
-      "terms": [
-        {
-          "term": "수출 통제",
-          "explanation": "특정 국가나 기업에 민감한 물품·기술이 전달되지 않도록 정부가 수출을 제한하거나 허가를 요구하는 제도입니다."
-        },
-        {
-          "term": "반도체 제조 장비",
-          "explanation": "웨이퍼에 회로를 만들고 가공하는 데 쓰이는 장비입니다. 노광·식각·증착·검사 장비 등이 포함됩니다."
-        },
-        {
-          "term": "공급망 우회",
-          "explanation": "직접 거래가 제한될 때 제3국이나 다른 유통 경로를 거쳐 물품을 조달하려는 방식입니다. 이 기사에서 어떤 경로가 언급됐는지는 제공된 정보만으로 알 수 없습니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:47:08.751Z"
-    },
-    {
       "id": 256,
       "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도 - 조선일보",
       "category": "AI 반도체",
@@ -782,41 +682,39 @@
       "aiAnalyzedAt": "2026-11-28T00:47:08.751Z"
     },
     {
-      "id": 257,
-      "title": "브로드컴, AI 반도체 판도 흔든다…엔비디아 독주에 거센 도전장 - 제민일보",
+      "id": 259,
+      "title": "AI 반도체 공급권 쥔 男과 고객사 女임원… 엔비디아에 또 무슨 일이... - 문화일보",
       "category": "AI 반도체",
       "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
       "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FRHg1UjU4VHl0UXFESXB4bmZLaWgweWdVVEpTXy0teko5LXNSLUN4NmIwdTcwVW96MzB1dnVHNDM5LVdvRUNETW5RRWp1cmxVamljZThLcjc2eGRDcDN3QlE1RnZnQQ?oc=5",
-      "summary": "브로드컴, AI 반도체 판도 흔든다…엔비디아 독주에 거센 도전장  제민일보",
-      "technicalSignificance": "제목은 브로드컴이 AI 반도체 시장에서 엔비디아의 우위에 도전하고 있다고 전합니다. 업체 간 경쟁은 AI 연산용 칩과 관련 시스템의 선택지를 넓히고 시장 구도에 영향을 줄 수 있습니다. 다만 기사에 구체적인 제품, 성능, 고객사 또는 경쟁 방식이 제시되지 않아 기술적 차이를 비교하기는 어렵습니다.",
-      "careerRelevance": "AI 칩 설계와 검증, 고성능 시스템, 반도체 영업·제품기획 분야와 관련이 있습니다. 브로드컴이 어떤 제품으로 경쟁하는지 본문 정보가 없어 특정 기술 역량과 직접 연결하는 데는 한계가 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rbnl4WjVpSk9ockxfeXMtTnVPaXJaV3ozNmxtWVhNdHc1MFpTRVRhYzRzb1BQRlItQnE3Z2NzeDhLVFJGcXM5R242QkVTTElN?oc=5",
+      "summary": "AI 반도체 공급권 쥔 男과 고객사 女임원… 엔비디아에 또 무슨 일이...  문화일보",
+      "technicalSignificance": "제목은 엔비디아의 반도체 공급권을 가진 남성과 고객사 여성 임원을 언급하지만, 어떤 사건인지와 사실관계는 제공된 내용만으로 확인할 수 없습니다. 따라서 기술적 내용이나 엔비디아의 제품·공급 정책에 관한 의미를 단정하기 어렵습니다.",
+      "careerRelevance": "제목에 나타난 범위에서는 반도체 공급 관계와 고객사 간 협업·관리 문제가 주제일 가능성이 있으나, 구체적인 내용은 확인할 수 없습니다. 기술 직무보다 공급망 관리, 고객 대응, 기업 윤리·준법 업무와의 관련성을 제한적으로 살펴볼 수 있습니다.",
       "relatedJobs": [
-        "AI 반도체 설계 엔지니어",
-        "칩 검증 엔지니어",
-        "반도체 제품기획 담당자",
-        "AI 하드웨어 시스템 엔지니어",
-        "반도체 기술영업 담당자"
+        "반도체 공급망·구매 담당자",
+        "고객사 기술지원·계정 담당자",
+        "반도체 영업 담당자",
+        "기업 윤리·준법 담당자"
       ],
       "skillsToLearn": [
-        "컴퓨터 구조와 AI 연산 가속기 기초",
-        "디지털 회로 설계 및 검증",
-        "반도체 성능·전력·비용 비교 방법",
-        "AI 데이터센터 하드웨어의 기본 구성",
-        "제품 및 시장 경쟁 분석"
+        "반도체 공급망과 고객사 협업의 기본 구조",
+        "B2B 고객 관리 및 의사소통",
+        "기업 윤리와 이해상충 방지의 기본 원칙",
+        "기사의 사실관계와 출처를 확인하는 정보 검증 능력"
       ],
       "terms": [
         {
-          "term": "AI 가속기",
-          "explanation": "AI에 필요한 계산을 일반적인 프로세서보다 효율적으로 처리하도록 설계한 칩이나 처리 장치입니다."
+          "term": "공급권",
+          "explanation": "특정 제품이나 물량을 고객에게 공급하거나 배정할 수 있는 권한을 가리키는 표현입니다. 이 제목에서 구체적으로 어떤 권한을 뜻하는지는 확인할 수 없습니다."
         },
         {
-          "term": "시장 경쟁 구도",
-          "explanation": "어떤 기업들이 제품과 기술을 놓고 경쟁하며 시장에서 어느 정도의 영향력을 갖는지를 뜻합니다."
+          "term": "고객사",
+          "explanation": "제품이나 서비스를 구매하거나 공급업체와 계약 관계를 맺은 기업입니다."
         },
         {
-          "term": "성능 비교",
-          "explanation": "칩의 계산 속도뿐 아니라 전력 소비, 비용, 메모리와의 연동 등 여러 기준으로 제품을 평가하는 것입니다."
+          "term": "이해상충",
+          "explanation": "개인적인 관계나 이익이 업무상 공정한 판단에 영향을 줄 수 있는 상황입니다. 해당 기사에서 실제로 이해상충이 있었는지는 제공된 내용만으로 알 수 없습니다."
         }
       ],
       "aiAnalyzedDate": "2026-11-28",
@@ -864,82 +762,59 @@
       "aiAnalyzedAt": "2026-11-28T00:47:08.751Z"
     },
     {
-      "id": 259,
-      "title": "AI 반도체 공급권 쥔 男과 고객사 女임원… 엔비디아에 또 무슨 일이... - 문화일보",
+      "id": 257,
+      "title": "브로드컴, AI 반도체 판도 흔든다…엔비디아 독주에 거센 도전장 - 제민일보",
       "category": "AI 반도체",
       "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
       "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rbnl4WjVpSk9ockxfeXMtTnVPaXJaV3ozNmxtWVhNdHc1MFpTRVRhYzRzb1BQRlItQnE3Z2NzeDhLVFJGcXM5R242QkVTTElN?oc=5",
-      "summary": "AI 반도체 공급권 쥔 男과 고객사 女임원… 엔비디아에 또 무슨 일이...  문화일보",
-      "technicalSignificance": "제목은 엔비디아의 반도체 공급권을 가진 남성과 고객사 여성 임원을 언급하지만, 어떤 사건인지와 사실관계는 제공된 내용만으로 확인할 수 없습니다. 따라서 기술적 내용이나 엔비디아의 제품·공급 정책에 관한 의미를 단정하기 어렵습니다.",
-      "careerRelevance": "제목에 나타난 범위에서는 반도체 공급 관계와 고객사 간 협업·관리 문제가 주제일 가능성이 있으나, 구체적인 내용은 확인할 수 없습니다. 기술 직무보다 공급망 관리, 고객 대응, 기업 윤리·준법 업무와의 관련성을 제한적으로 살펴볼 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FRHg1UjU4VHl0UXFESXB4bmZLaWgweWdVVEpTXy0teko5LXNSLUN4NmIwdTcwVW96MzB1dnVHNDM5LVdvRUNETW5RRWp1cmxVamljZThLcjc2eGRDcDN3QlE1RnZnQQ?oc=5",
+      "summary": "브로드컴, AI 반도체 판도 흔든다…엔비디아 독주에 거센 도전장  제민일보",
+      "technicalSignificance": "제목은 브로드컴이 AI 반도체 시장에서 엔비디아의 우위에 도전하고 있다고 전합니다. 업체 간 경쟁은 AI 연산용 칩과 관련 시스템의 선택지를 넓히고 시장 구도에 영향을 줄 수 있습니다. 다만 기사에 구체적인 제품, 성능, 고객사 또는 경쟁 방식이 제시되지 않아 기술적 차이를 비교하기는 어렵습니다.",
+      "careerRelevance": "AI 칩 설계와 검증, 고성능 시스템, 반도체 영업·제품기획 분야와 관련이 있습니다. 브로드컴이 어떤 제품으로 경쟁하는지 본문 정보가 없어 특정 기술 역량과 직접 연결하는 데는 한계가 있습니다.",
       "relatedJobs": [
-        "반도체 공급망·구매 담당자",
-        "고객사 기술지원·계정 담당자",
-        "반도체 영업 담당자",
-        "기업 윤리·준법 담당자"
+        "AI 반도체 설계 엔지니어",
+        "칩 검증 엔지니어",
+        "반도체 제품기획 담당자",
+        "AI 하드웨어 시스템 엔지니어",
+        "반도체 기술영업 담당자"
       ],
       "skillsToLearn": [
-        "반도체 공급망과 고객사 협업의 기본 구조",
-        "B2B 고객 관리 및 의사소통",
-        "기업 윤리와 이해상충 방지의 기본 원칙",
-        "기사의 사실관계와 출처를 확인하는 정보 검증 능력"
+        "컴퓨터 구조와 AI 연산 가속기 기초",
+        "디지털 회로 설계 및 검증",
+        "반도체 성능·전력·비용 비교 방법",
+        "AI 데이터센터 하드웨어의 기본 구성",
+        "제품 및 시장 경쟁 분석"
       ],
       "terms": [
         {
-          "term": "공급권",
-          "explanation": "특정 제품이나 물량을 고객에게 공급하거나 배정할 수 있는 권한을 가리키는 표현입니다. 이 제목에서 구체적으로 어떤 권한을 뜻하는지는 확인할 수 없습니다."
+          "term": "AI 가속기",
+          "explanation": "AI에 필요한 계산을 일반적인 프로세서보다 효율적으로 처리하도록 설계한 칩이나 처리 장치입니다."
         },
         {
-          "term": "고객사",
-          "explanation": "제품이나 서비스를 구매하거나 공급업체와 계약 관계를 맺은 기업입니다."
+          "term": "시장 경쟁 구도",
+          "explanation": "어떤 기업들이 제품과 기술을 놓고 경쟁하며 시장에서 어느 정도의 영향력을 갖는지를 뜻합니다."
         },
         {
-          "term": "이해상충",
-          "explanation": "개인적인 관계나 이익이 업무상 공정한 판단에 영향을 줄 수 있는 상황입니다. 해당 기사에서 실제로 이해상충이 있었는지는 제공된 내용만으로 알 수 없습니다."
+          "term": "성능 비교",
+          "explanation": "칩의 계산 속도뿐 아니라 전력 소비, 비용, 메모리와의 연동 등 여러 기준으로 제품을 평가하는 것입니다."
         }
       ],
       "aiAnalyzedDate": "2026-11-28",
       "aiAnalyzedAt": "2026-11-28T00:47:08.751Z"
     },
     {
-      "id": 248,
-      "title": "美, 중국 AI 반도체 우회 접근 차단…엔비디아 칩 판매업체들 새 고객 물색 - 헬로티",
+      "id": 265,
+      "title": "AI 반도체 호황, 한국과 대만의 성장률은 왜 다른가 - Korea IT Times",
       "category": "AI 반도체",
       "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
-      "publishedAt": "2026-11-27",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGs3cDF1cHdLRmpranM3czFVVnVUQUd3N1pIY25rajRQeWJqM3FiS19mNldvdmFtZTJFTU42eFZWbng2VjZMTEFZTTItb1M3MFBURFUzWHFaNjZPT2Y4?oc=5",
-      "summary": "美, 중국 AI 반도체 우회 접근 차단…엔비디아 칩 판매업체들 새 고객 물색  헬로티",
-      "technicalSignificance": "미국의 대중국 AI 반도체 접근 제한이 엔비디아 칩의 유통 경로와 판매처에 영향을 줄 수 있다는 점에서 의미가 있습니다. 다만 어떤 칩이나 우회 경로가 대상인지, 제한 조치의 범위와 시행 시점은 제공된 내용만으로 확인하기 어렵습니다.",
-      "careerRelevance": "수출 규제 변화는 반도체 기업의 고객 관리, 판매 전략, 공급망 운영에 영향을 줄 수 있어 관련 직무에서 규제와 시장 변화를 파악하는 역량이 중요합니다.",
-      "relatedJobs": [
-        "반도체 해외영업·사업개발",
-        "수출통제·무역 컴플라이언스",
-        "공급망 관리",
-        "시장·정책 분석"
-      ],
-      "skillsToLearn": [
-        "미국의 반도체 수출통제 및 관련 규정 이해",
-        "반도체 유통·공급망 구조 분석",
-        "해외 고객 및 시장 분석",
-        "영문 규제 문서와 산업 뉴스 독해"
-      ],
-      "terms": [
-        {
-          "term": "AI 반도체",
-          "explanation": "인공지능의 학습이나 실행에 필요한 대량 연산을 효율적으로 처리하도록 설계된 반도체를 말합니다."
-        },
-        {
-          "term": "우회 접근",
-          "explanation": "제한된 제품이나 기술에 직접 접근하지 않고 제3자나 다른 거래 경로를 거쳐 접근하는 것을 뜻합니다. 이 뉴스에서 구체적으로 어떤 경로를 가리키는지는 확인하기 어렵습니다."
-        },
-        {
-          "term": "수출통제",
-          "explanation": "정부가 특정 제품이나 기술의 해외 판매·이전을 제한하거나 허가 대상으로 관리하는 제도입니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-28",
-      "aiAnalyzedAt": "2026-11-28T00:47:29.893Z"
+      "publishedAt": "2026-11-28",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zbWV0V2NmMm5aVGJGSXU3dHpvdVF5ZVEzeWZDVEYzMFdQTktpY085M2VldWc2UHZLT1pmNXZNQ1dvN2NYX3lvck91T2pxNl8tbE5FUm1pSFVIaVN5UmtrUHZ2aU0zVkZuelcwQm9XOVQ?oc=5",
+      "summary": "AI 반도체 호황, 한국과 대만의 성장률은 왜 다른가  Korea IT Times",
+      "technicalSignificance": "",
+      "careerRelevance": "",
+      "relatedJobs": [],
+      "skillsToLearn": [],
+      "terms": []
     },
     {
       "id": 251,
@@ -1138,44 +1013,322 @@
       "aiAnalyzedAt": "2026-11-28T00:47:29.893Z"
     },
     {
-      "id": 230,
-      "title": "화웨이, 독자 설계 '타우 칩' 적용 확대…폴더블 신제품 공개 - 전자신문",
+      "id": 241,
+      "title": "라온로보틱스·서진시스템 '불기둥'…AI 반도체 투자 확대에 장비주 불붙었다 - 핀포인트뉴스",
       "category": "공정",
       "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
-      "publishedAt": "2026-11-25",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NYnlQUTE4ZGpBREFpR2dUcHk0RVBoSkFVTVNHTXFLWWJPUGlQTFgyeGNTajQ2TE5LRE1FYnF2SzgxSVQ1WFVHN280R2dlQQ?oc=5",
-      "summary": "화웨이, 독자 설계 '타우 칩' 적용 확대…폴더블 신제품 공개  전자신문",
-      "technicalSignificance": "화웨이가 자체 설계한 것으로 소개된 ‘타우 칩’의 적용을 확대하고 폴더블 신제품을 공개했다는 내용입니다. 칩의 용도, 제조 공정, 성능, 생산 업체와 실제 적용 범위는 제공된 내용만으로 확인하기 어렵습니다.",
-      "careerRelevance": "독자 칩 설계와 스마트폰 제품 적용은 반도체 설계부터 검증, 제품 통합까지의 직무와 연관될 수 있습니다. 다만 칩의 세부 사양과 설계·제조 주체가 밝혀져 있지 않아 구체적인 기술 분야를 단정할 수는 없습니다.",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzU2Y5UlV1eVE5cTQxTWIxb3ZmMHJ0LXJ3aWUxaXZXbU9henhLMHJReU1NUXZVQ0NlLURsZDNPYXRkc29rMXE1OGpQaVJidFlGeWYtZnhHM1FKeFhwNWZmdnZxcDRxYS05azlXQjBQX1ZNY3ZDWTV30gF3QVVfeXFMUDNTZjlSVXV5UTlxNDFNYjFvdmYwcnQtcndpZTFpdldtT2F6eEswclF5TU1RdlVDQ2UtRGxkM09hdGRzb2sxcTU4alBpUmJ0WUZ5Zi1meEczUUp4WHA1ZmZ2dnFwNHFhLTlrOVdCMFBfVk1jdkNZNXc?oc=5",
+      "summary": "라온로보틱스·서진시스템 '불기둥'…AI 반도체 투자 확대에 장비주 불붙었다  핀포인트뉴스",
+      "technicalSignificance": "제목은 AI 반도체 투자 확대 기대와 장비주 주가 상승을 연결합니다. 다만 어떤 투자나 장비 수요가 실제로 늘었는지, 언급된 기업이 어떤 장비를 공급하는지에 대한 정보는 제공되지 않아 구체적인 기술적 수혜를 판단하기 어렵습니다.",
+      "careerRelevance": "AI 반도체 투자와 제조 장비 산업의 관계를 살펴보는 데 참고할 수 있습니다. 다만 주가 움직임만으로 기업의 기술 경쟁력이나 채용 확대를 단정할 수는 없으며, 기업별 사업·제품 정보 확인이 필요합니다.",
       "relatedJobs": [
-        "반도체 SoC 설계 엔지니어",
-        "RTL 설계 및 검증 엔지니어",
-        "반도체 제품·시스템 검증 엔지니어",
-        "모바일 기기 하드웨어 엔지니어"
+        "반도체 장비 개발 엔지니어",
+        "반도체 장비 필드 서비스 엔지니어",
+        "반도체 제조 공정 엔지니어",
+        "반도체 산업·시장 분석가"
       ],
       "skillsToLearn": [
-        "디지털 논리회로와 컴퓨터 구조",
-        "Verilog 또는 SystemVerilog 기반 RTL 설계·검증 기초",
-        "칩 성능·전력·면적(PPA) 개념",
-        "모바일 기기의 시스템 구성과 칩 통합 과정",
-        "칩의 제조 공정이나 파운드리 정보는 기사만으로 확인되지 않으므로 관련 사실을 구분해 해석하는 역량"
+        "반도체 제조 공정과 주요 장비의 기초",
+        "AI 반도체 생산 및 투자 흐름의 기초",
+        "기업의 사업보고서와 제품 정보를 확인하는 능력",
+        "주가 변동과 실제 사업 성과를 구분해 분석하는 능력"
       ],
       "terms": [
         {
-          "term": "독자 설계 칩",
-          "explanation": "제품이나 시스템에 필요한 기능을 기업 또는 조직이 자체적으로 설계한 반도체를 뜻합니다. 실제 제조까지 자체적으로 한다는 의미인지는 별도로 확인해야 합니다."
+          "term": "AI 반도체",
+          "explanation": "인공지능의 학습이나 추론에 필요한 연산을 빠르게 처리하도록 설계된 반도체를 말합니다."
         },
         {
-          "term": "SoC",
-          "explanation": "CPU 등 여러 기능 블록을 하나의 반도체 칩에 통합한 시스템온칩입니다. 타우 칩이 SoC인지는 제공된 기사 내용만으로 확인할 수 없습니다."
+          "term": "반도체 장비주",
+          "explanation": "반도체 제조에 쓰이는 장비를 개발·생산하거나 관련 사업을 하는 기업의 주식을 가리키는 표현입니다."
         },
         {
-          "term": "폴더블",
-          "explanation": "화면이나 기기 일부를 접을 수 있도록 설계한 제품 형태를 말합니다. 제목에서는 화웨이의 신제품 유형으로 언급됐습니다."
+          "term": "투자 확대",
+          "explanation": "기업이나 기관이 생산능력, 연구개발 또는 시설 등에 더 많은 자금을 투입하는 것을 말합니다. 이 제목만으로 실제 투자 규모나 장비 발주를 확인할 수는 없습니다."
         }
       ],
-      "aiAnalyzedDate": "2026-11-27",
-      "aiAnalyzedAt": "2026-11-27T00:49:51.281Z"
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+    },
+    {
+      "id": 120,
+      "title": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공 - 헤럴드경제",
+      "category": "공정",
+      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
+      "publishedAt": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT3JuRTRSTkNYWUJPamNGcGIxSUR1UFIwc21jNVZNa2lLRUlpYmtfcV9EamttMjQ2MUdMb0h4QWdGY2hnSW83aVZaM3FFZnZ2RkE2ZURn?oc=5",
+      "summary": "“외산장비 독점 깬다”…반도체 초미세공정 핵심기술 국산화 성공  헤럴드경제",
+      "technicalSignificance": "제목은 반도체 초미세 공정의 핵심 기술을 국산화해 외산 장비 의존을 줄일 가능성을 제시합니다. 다만 어떤 장비나 기술을 국산화했는지, 실제로 외산 독점이 해소됐는지, 양산 검증을 마쳤는지는 제공된 내용만으로 판단할 수 없습니다.",
+      "careerRelevance": "반도체 장비·부품의 국산화와 공정 적용에 관심 있는 구직자에게 관련성이 있습니다. 장비 개발, 공정 평가, 품질 검증 분야와 연결될 수 있지만 구체적인 기술 내용은 부족합니다.",
+      "relatedJobs": [
+        "반도체 장비 개발 엔지니어",
+        "반도체 공정 통합 엔지니어",
+        "장비 평가·검증 엔지니어",
+        "반도체 품질 엔지니어"
+      ],
+      "skillsToLearn": [
+        "반도체 제조 장비와 공정의 기본 원리",
+        "장비 성능 평가 및 데이터 분석",
+        "전기·전자 시스템 기초",
+        "국산 장비의 공정 적합성·신뢰성 평가 방법"
+      ],
+      "terms": [
+        {
+          "term": "초미세 공정",
+          "explanation": "매우 작은 크기의 회로 패턴을 웨이퍼에 구현하는 반도체 제조 공정을 뜻합니다. 구체적인 선폭이나 공정 단계는 기사 내용에 제시되지 않았습니다."
+        },
+        {
+          "term": "장비 국산화",
+          "explanation": "해외에서 들여오던 장비나 핵심 기술을 국내에서 개발·생산해 활용하려는 것입니다. 국산화가 곧바로 양산 현장 적용이나 수입 대체를 뜻하지는 않습니다."
+        },
+        {
+          "term": "양산 검증",
+          "explanation": "개발된 장비나 기술이 실제 대량 생산 환경에서도 품질과 성능을 안정적으로 유지하는지 확인하는 절차입니다. 이 뉴스에서 검증 여부는 확인할 수 없습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-23",
+      "aiAnalyzedAt": "2026-11-23T00:38:44.738Z"
+    },
+    {
+      "id": 254,
+      "title": "[한장TECH] 2027년 반도체 시장, AI 인프라 질적 경쟁 돌입 - 테크월드",
+      "category": "패키징",
+      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IanBiTlpwRnpFQThNQ0xfR0l5MEV3blFjTTJiMF9EdmlMX3NzRVdnZWJpcVBlX2hMMTNTbF92M2ZkYnRlQ2JucDIycVZXMUNYSjJtYVk1MUVLcGpfd29LNW9XcHJEbnJQ?oc=5",
+      "summary": "[한장TECH] 2027년 반도체 시장, AI 인프라 질적 경쟁 돌입  테크월드",
+      "technicalSignificance": "제목은 2027년 반도체 시장에서 AI 인프라의 경쟁이 규모뿐 아니라 질적 요소로 확대될 가능성을 제시합니다. 패키징 분야 뉴스로 분류되어 있지만, 구체적인 패키징 기술이나 시장 전망의 근거는 제공되지 않아 HBM 등 특정 기술을 다룬다고 단정할 수 없습니다.",
+      "careerRelevance": "첨단 패키징과 AI 인프라의 연관성을 폭넓게 살펴볼 주제입니다. 패키징 직무를 준비한다면 기본 공정과 제품 간 연결을 학습할 수 있으나, 기사에서 강조하는 세부 기술·기업·직무 수요는 정보가 부족합니다.",
+      "relatedJobs": [
+        "반도체 패키징 공정 엔지니어",
+        "반도체 패키지 설계 엔지니어",
+        "반도체 제품·기술 기획 담당자",
+        "AI 반도체 시장 분석가"
+      ],
+      "skillsToLearn": [
+        "반도체 패키징 공정의 기초",
+        "칩·패키지·시스템 간 연결 구조에 대한 이해",
+        "AI 인프라와 반도체 수요의 관계",
+        "시장 전망 자료의 가정과 근거를 검토하는 능력"
+      ],
+      "terms": [
+        {
+          "term": "첨단 패키징",
+          "explanation": "칩을 보호하는 데 그치지 않고 여러 칩을 연결하거나 함께 배치해 성능과 전력 효율 등을 높이려는 패키징 기술을 말합니다."
+        },
+        {
+          "term": "AI 인프라",
+          "explanation": "AI 서비스를 운영하는 데 필요한 데이터센터, 컴퓨팅 장비, 네트워크와 전력 설비 등을 포괄하는 표현입니다."
+        },
+        {
+          "term": "질적 경쟁",
+          "explanation": "단순히 생산량이나 투자 규모를 늘리는 경쟁을 넘어 성능, 효율, 신뢰성 등 제품이나 시스템의 질을 높이는 경쟁을 뜻합니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+    },
+    {
+      "id": 11,
+      "title": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격 - 한겨레",
+      "category": "메모리",
+      "source": "\"반도체 메모리 OR HBM DRAM NAND\" - Google 뉴스",
+      "publishedAt": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFlLVXFjWFdEQ2pRQUlDYm9CSWRBMFR2RGU1OWh3UlVaeTVNOUVlbFZiM3JnbnMtMXV6NTJsSkFNU1ZEd2xxUUxSYXM4bjFhVTQ5NTRVSDZqTjFXWWNUMXp4ZXlIM0tyTjNDXw?oc=5",
+      "summary": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격  한겨레",
+      "technicalSignificance": "제목만으로는 구체적인 제품 성능, 공정 기술, 생산능력 또는 시장 점유율을 확인할 수 없어 기술적 수준을 판단하기 어렵습니다. 제목은 중국 메모리 업체들이 D램과 낸드 분야에서 한국 기업을 추격하고 있다는 내용을 시사합니다.",
+      "careerRelevance": "메모리 분야의 경쟁 구도와 기술 개발 동향을 살펴볼 때 참고할 수 있는 주제입니다. 다만 기사 본문이 제공되지 않아 어떤 기술이나 기업 활동이 채용 수요에 영향을 주는지는 판단하기 어렵습니다.",
+      "relatedJobs": [
+        "메모리 반도체 공정 엔지니어",
+        "메모리 소자·제품 엔지니어",
+        "반도체 설계 엔지니어",
+        "메모리 테스트 엔지니어",
+        "시장·기술 분석가"
+      ],
+      "skillsToLearn": [
+        "반도체 메모리 기본 원리",
+        "D램·낸드 구조와 동작 이해",
+        "반도체 공정 기초",
+        "메모리 제품 평가 및 테스트 기초",
+        "반도체 산업·시장 동향 분석"
+      ],
+      "terms": [
+        {
+          "term": "D램(DRAM)",
+          "explanation": "데이터를 빠르게 읽고 쓸 수 있어 컴퓨터와 서버의 주기억장치 등에 쓰이는 메모리입니다. 저장된 데이터는 전원이 공급되는 동안에도 주기적으로 유지해야 합니다."
+        },
+        {
+          "term": "낸드(NAND)",
+          "explanation": "전원이 꺼져도 데이터를 보존하는 비휘발성 메모리입니다. SSD와 스마트폰 저장장치 등에 널리 사용됩니다."
+        },
+        {
+          "term": "메모리 반도체",
+          "explanation": "데이터를 저장하는 반도체를 말합니다. 대표적인 종류가 D램과 낸드입니다."
+        },
+        {
+          "term": "추격",
+          "explanation": "후발 기업이나 국가가 선도 기업과의 기술·생산·시장 경쟁 격차를 줄여 가는 것을 뜻합니다. 이 기사 제목만으로는 격차가 얼마나 줄었는지 알 수 없습니다."
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "title": "지식재산처, 반도체 장비 제조기업의 지식재산(IP) 경쟁력 강화를 위한 현장 소통 간담회 개최 - OTN뉴스",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tWDBRWDJ6dzkxa0NGRGsxdkF0aDJzUnp3dnZlQld3dXNRZjlMM0tvanN2YzRybTJzaHJyQUNTRV85YVRIRW11Zm43b2JuUnZGMTBFOTU1bkt3ZmNpMFI0Sy1WZG9DZGdo?oc=5",
+      "summary": "지식재산처, 반도체 장비 제조기업의 지식재산(IP) 경쟁력 강화를 위한 현장 소통 간담회 개최  OTN뉴스",
+      "technicalSignificance": "제목상 지식재산처가 반도체 장비 제조기업과 IP 경쟁력 강화를 위한 현장 간담회를 개최했습니다. 이는 장비 기술의 권리화와 보호가 산업 경쟁력의 한 요소임을 보여주지만, 논의된 제도·지원 내용과 기업의 구체적인 기술은 제공된 정보만으로 알기 어렵습니다.",
+      "careerRelevance": "장비 개발 직무뿐 아니라 특허 분석, 기술기획, 연구개발 전략 직무와도 연결됩니다. 기술을 개발하는 역량에 더해 개발 결과를 문서화하고 지식재산 관점에서 검토하는 역량이 관련될 수 있습니다.",
+      "relatedJobs": [
+        "반도체 장비 연구개발 엔지니어",
+        "반도체 장비 기구·제어 설계 엔지니어",
+        "특허 분석·지식재산 담당자",
+        "기술기획 및 연구개발 전략 담당자"
+      ],
+      "skillsToLearn": [
+        "반도체 장비의 기능과 구성 요소에 대한 기초",
+        "특허 검색 및 선행기술 조사 기초",
+        "기술 내용을 명확하게 문서화하는 능력",
+        "연구개발 결과의 권리화와 보호에 대한 기본 이해"
+      ],
+      "terms": [
+        {
+          "term": "IP(지식재산)",
+          "explanation": "특허·상표·저작권·영업비밀처럼 사람이나 기업이 가진 지식과 기술을 보호하는 권리 또는 자산입니다."
+        },
+        {
+          "term": "현장 소통 간담회",
+          "explanation": "정책이나 지원을 담당하는 기관이 기업 현장을 방문해 업계의 의견과 애로사항을 듣는 자리입니다."
+        },
+        {
+          "term": "특허",
+          "explanation": "새롭고 유용한 발명에 대해 일정 기간 독점적으로 실시할 수 있도록 법적으로 보호하는 권리입니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+    },
+    {
+      "id": 245,
+      "title": "AI 접목한 전문 디지털 트윈 주목…반도체 공장 5분 만에 가상공간에 구현 - 아이티데일리",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SXJnLVUzREIySzgzQlR3LUlVeGVBTlZxdUlmNFREN05KQ1RuOHR5eEhHcjNsTExOMTNrVlViZU5mT2tOdFdmRGt0aVNBWW5GdmJfbGZqR21WVXI4SkI5dnIzZFI1dDk0?oc=5",
+      "summary": "AI 접목한 전문 디지털 트윈 주목…반도체 공장 5분 만에 가상공간에 구현  아이티데일리",
+      "technicalSignificance": "제목은 AI를 접목한 디지털 트윈 기술로 반도체 공장을 짧은 시간 안에 가상공간에 구현하는 사례를 소개합니다. 공장 가상화와 AI 활용이 주제지만, 구현 범위·정확도·사용 데이터·실제 운영 효과는 제공된 정보만으로 확인할 수 없습니다.",
+      "careerRelevance": "반도체 제조 지식과 데이터·시뮬레이션 역량이 만나는 분야와 관련됩니다. 공정·설비 엔지니어뿐 아니라 제조 데이터 분석, 스마트팩토리, 디지털 트윈 개발 직무를 알아볼 때 참고할 수 있습니다.",
+      "relatedJobs": [
+        "반도체 공정 엔지니어",
+        "반도체 설비·자동화 엔지니어",
+        "스마트팩토리 엔지니어",
+        "디지털 트윈·시뮬레이션 엔지니어",
+        "제조 데이터 분석가"
+      ],
+      "skillsToLearn": [
+        "반도체 공장의 공정 흐름과 설비 기초",
+        "제조 데이터 수집·분석의 기초",
+        "3D 모델링 및 공장 시뮬레이션 도구의 기초",
+        "AI·머신러닝의 기본 개념",
+        "실제 설비와 가상 모델의 데이터 연동 개념"
+      ],
+      "terms": [
+        {
+          "term": "디지털 트윈",
+          "explanation": "현실의 공장이나 설비를 가상공간에 모델로 구현하고, 실제 데이터와 연결해 상태를 파악하거나 시나리오를 검토하는 기술입니다."
+        },
+        {
+          "term": "가상공간 구현",
+          "explanation": "현실의 공간이나 설비를 컴퓨터 안의 3D 모델 또는 시뮬레이션 환경으로 만드는 것을 말합니다."
+        },
+        {
+          "term": "AI 접목",
+          "explanation": "인공지능 기술을 기존 시스템에 적용하는 것을 뜻합니다. 이 기사에서 AI가 구체적으로 어떤 기능을 수행하는지는 제공된 정보만으로 판단하기 어렵습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:46:49.782Z"
+    },
+    {
+      "id": 246,
+      "title": "중국은 어떻게 미국의 반도체 수출 규제를 계속 우회하는가 - https://www.pado.kr/",
+      "category": "장비",
+      "source": "\"반도체 제조 장비 OR 반도체 장비 기업\" - Google 뉴스",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVHNaZDBaVldkeW1SbUVYWXAyVk9ZSTZQbUdqTlZ3NzJrTGhKQ1p1Z0Q1aXFmUFhsYjktODBfUmtzQ1hfdkxpX3NZZ1ZIc0p1aHVfcVJJSFYxcW8?oc=5",
+      "summary": "중국은 어떻게 미국의 반도체 수출 규제를 계속 우회하는가  https://www.pado.kr/",
+      "technicalSignificance": "제목은 중국이 미국의 반도체 수출 규제를 우회해 장비나 관련 기술에 접근하는 문제를 다룹니다. 규제 우회가 실제로 어떤 장비·경로·기술에 해당하는지는 제공된 내용만으로 확인할 수 없습니다. 일반적으로 이 이슈는 첨단 제조 장비의 공급 가능성과 수출 통제의 실효성에 영향을 줄 수 있습니다.",
+      "careerRelevance": "반도체 장비의 해외 판매·조달, 수출 규제 준수, 공급망 위험 관리와 관련이 있습니다. 다만 기사 내용이 없어 구체적인 기업이나 장비를 중심으로 한 취업 연관성은 판단하기 어렵습니다.",
+      "relatedJobs": [
+        "반도체 장비 엔지니어",
+        "무역 규제·수출통제 담당자",
+        "반도체 공급망 분석가",
+        "글로벌 조달·구매 담당자"
+      ],
+      "skillsToLearn": [
+        "반도체 제조 공정과 주요 장비의 기본 구조",
+        "반도체 장비 공급망 및 조달 흐름",
+        "수출통제·제재 규정의 기본 개념",
+        "해외 공급망 위험 분석"
+      ],
+      "terms": [
+        {
+          "term": "수출 통제",
+          "explanation": "특정 국가나 기업에 민감한 물품·기술이 전달되지 않도록 정부가 수출을 제한하거나 허가를 요구하는 제도입니다."
+        },
+        {
+          "term": "반도체 제조 장비",
+          "explanation": "웨이퍼에 회로를 만들고 가공하는 데 쓰이는 장비입니다. 노광·식각·증착·검사 장비 등이 포함됩니다."
+        },
+        {
+          "term": "공급망 우회",
+          "explanation": "직접 거래가 제한될 때 제3국이나 다른 유통 경로를 거쳐 물품을 조달하려는 방식입니다. 이 기사에서 어떤 경로가 언급됐는지는 제공된 정보만으로 알 수 없습니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:47:08.751Z"
+    },
+    {
+      "id": 248,
+      "title": "美, 중국 AI 반도체 우회 접근 차단…엔비디아 칩 판매업체들 새 고객 물색 - 헬로티",
+      "category": "AI 반도체",
+      "source": "\"AI 반도체 OR GPU 반도체\" - Google 뉴스",
+      "publishedAt": "2026-11-27",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGs3cDF1cHdLRmpranM3czFVVnVUQUd3N1pIY25rajRQeWJqM3FiS19mNldvdmFtZTJFTU42eFZWbng2VjZMTEFZTTItb1M3MFBURFUzWHFaNjZPT2Y4?oc=5",
+      "summary": "美, 중국 AI 반도체 우회 접근 차단…엔비디아 칩 판매업체들 새 고객 물색  헬로티",
+      "technicalSignificance": "미국의 대중국 AI 반도체 접근 제한이 엔비디아 칩의 유통 경로와 판매처에 영향을 줄 수 있다는 점에서 의미가 있습니다. 다만 어떤 칩이나 우회 경로가 대상인지, 제한 조치의 범위와 시행 시점은 제공된 내용만으로 확인하기 어렵습니다.",
+      "careerRelevance": "수출 규제 변화는 반도체 기업의 고객 관리, 판매 전략, 공급망 운영에 영향을 줄 수 있어 관련 직무에서 규제와 시장 변화를 파악하는 역량이 중요합니다.",
+      "relatedJobs": [
+        "반도체 해외영업·사업개발",
+        "수출통제·무역 컴플라이언스",
+        "공급망 관리",
+        "시장·정책 분석"
+      ],
+      "skillsToLearn": [
+        "미국의 반도체 수출통제 및 관련 규정 이해",
+        "반도체 유통·공급망 구조 분석",
+        "해외 고객 및 시장 분석",
+        "영문 규제 문서와 산업 뉴스 독해"
+      ],
+      "terms": [
+        {
+          "term": "AI 반도체",
+          "explanation": "인공지능의 학습이나 실행에 필요한 대량 연산을 효율적으로 처리하도록 설계된 반도체를 말합니다."
+        },
+        {
+          "term": "우회 접근",
+          "explanation": "제한된 제품이나 기술에 직접 접근하지 않고 제3자나 다른 거래 경로를 거쳐 접근하는 것을 뜻합니다. 이 뉴스에서 구체적으로 어떤 경로를 가리키는지는 확인하기 어렵습니다."
+        },
+        {
+          "term": "수출통제",
+          "explanation": "정부가 특정 제품이나 기술의 해외 판매·이전을 제한하거나 허가 대상으로 관리하는 제도입니다."
+        }
+      ],
+      "aiAnalyzedDate": "2026-11-28",
+      "aiAnalyzedAt": "2026-11-28T00:47:29.893Z"
     },
     {
       "id": 139,
@@ -1454,44 +1607,6 @@
       "relatedJobs": [],
       "skillsToLearn": [],
       "terms": []
-    },
-    {
-      "id": 218,
-      "title": "HBM 넘어 첨단 패키징까지 불꽃랠리…엘티씨·심텍홀딩스 두 자릿수 상승속 반도체 소부장 무슨 호재 있나 - 핀포인트뉴스",
-      "category": "공정",
-      "source": "\"반도체 제조 공정 OR 반도체 미세공정\" - Google 뉴스",
-      "publishedAt": "2026-11-26",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ja0lqdTl0T09LVUo0cElyQlBZQ2hYSXlaeEhZWUI4Zkk5bERZby10U1gxa2hhLXdHT1ZDVHQ5RG53dFVjOHNwdndUTll3cUlZQTdSa0Z4aVNkN2VOdG5haWUwbTBQeU1VUkllMVg3ZW9WaTjSAXdBVV95cUxPdW9NQzFwN296TXViNGZsWFY0Y0ZobUxTZmJrMHJTTWNIYWpVaXF0VHpMSXBmNjU5LU5pMmJJT1UtbDgzbkoxMjd3cWFYZS12SFBLendPdjV4M0wyeEtKZW9sM3BUYVR5MEpjVDN3VkxWN0FtX1UzNA?oc=5",
-      "summary": "HBM 넘어 첨단 패키징까지 불꽃랠리…엘티씨·심텍홀딩스 두 자릿수 상승속 반도체 소부장 무슨 호재 있나  핀포인트뉴스",
-      "technicalSignificance": "제목은 HBM뿐 아니라 첨단 패키징 관련 기업과 반도체 소재·부품·장비 업종에 시장의 관심이 확산됐음을 보여줍니다. 다만 구체적인 기술, 수요처, 기업별 실적이나 주가 상승의 직접적인 원인은 제공된 내용만으로 확인하기 어렵습니다.",
-      "careerRelevance": "첨단 패키징의 중요성이 커지는 흐름을 파악하는 데 참고할 수 있습니다. 다만 특정 기업의 채용이나 실제 공정 변화가 기사 내용에 제시되지 않아 채용 영향은 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "반도체 패키징 공정 엔지니어",
-        "반도체 소재·부품·장비 기술 엔지니어",
-        "패키징 공정 연구개발 엔지니어"
-      ],
-      "skillsToLearn": [
-        "반도체 후공정 및 첨단 패키징의 기본 흐름",
-        "HBM의 구조와 메모리 적층 개념",
-        "패키징 소재·장비와 공정 간의 관계",
-        "반도체 기업의 실적과 시장 수요를 분석하는 기초 역량"
-      ],
-      "terms": [
-        {
-          "term": "HBM",
-          "explanation": "여러 개의 메모리 칩을 수직으로 쌓아 데이터 처리 장치와 빠르게 통신하도록 만든 고대역폭 메모리입니다."
-        },
-        {
-          "term": "첨단 패키징",
-          "explanation": "칩을 단순히 보호하는 데 그치지 않고, 여러 칩을 연결하거나 적층해 성능과 전력 효율을 높이는 후공정 기술입니다."
-        },
-        {
-          "term": "소부장",
-          "explanation": "소재·부품·장비의 줄임말로, 반도체 제조에 필요한 재료와 부품, 생산 장비를 통칭합니다."
-        }
-      ],
-      "aiAnalyzedDate": "2026-11-27",
-      "aiAnalyzedAt": "2026-11-27T00:49:51.281Z"
     },
     {
       "id": 67,
@@ -4855,51 +4970,6 @@
       ],
       "aiAnalyzedDate": "2026-11-22",
       "aiAnalyzedAt": "2026-11-22T00:33:02.755Z"
-    },
-    {
-      "id": 6,
-      "title": "충청에 '반도체 심장' HBM 거점 … 삼성, 첨단 패키징 승부 건다 - 매일경제",
-      "category": "패키징",
-      "source": "\"반도체 첨단 패키징 OR HBM 패키징\" - Google 뉴스",
-      "publishedAt": "2026-11-12",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDbVpJUEtRSVJrWW5vR1dRWHBXcnBJZm1kajZGaXVUQzNNaGk3cE1MR1M5U2JnVkRVSDdyNXd6Sm1MNDl5OEFLYllscDBsRzlDdTdwbURR?oc=5",
-      "summary": "충청에 '반도체 심장' HBM 거점 … 삼성, 첨단 패키징 승부 건다  매일경제",
-      "technicalSignificance": "제목상 삼성전자가 충청 지역을 HBM 거점으로 삼고 첨단 패키징 경쟁을 강화하려는 흐름을 다룬 것으로 보입니다. HBM은 여러 메모리 다이를 적층해 고대역폭을 구현하므로, 적층·접합·열 관리·수율 확보 등 패키징 기술이 성능과 생산성에 중요합니다. 다만 기사 본문이 제공되지 않아 거점의 구체적 위치와 설비 규모, 적용 기술, 투자 계획은 확인할 수 없습니다.",
-      "careerRelevance": "HBM과 첨단 패키징 분야의 투자·사업 확대는 패키징 공정, 장비, 소재, 품질·수율, 테스트 관련 직무와 연관될 수 있습니다. 다만 실제 채용 규모나 직무 구성은 뉴스 정보만으로 판단하기 어렵습니다.",
-      "relatedJobs": [
-        "반도체 패키징 공정 엔지니어",
-        "HBM 적층·접합 공정 엔지니어",
-        "패키징 장비 엔지니어",
-        "패키징 소재 개발 엔지니어",
-        "공정 품질·수율 엔지니어",
-        "반도체 테스트 엔지니어"
-      ],
-      "skillsToLearn": [
-        "반도체 후공정과 패키징 공정의 기초",
-        "HBM 구조와 적층 방식",
-        "열·기계적 신뢰성 및 불량 분석",
-        "공정 데이터 분석과 수율 관리",
-        "반도체 재료 및 접합 기술",
-        "반도체 테스트 기초"
-      ],
-      "terms": [
-        {
-          "term": "HBM",
-          "explanation": "고대역폭 메모리(High Bandwidth Memory)의 약자입니다. 메모리 다이를 여러 층으로 쌓아 데이터가 빠르게 오가도록 만든 메모리입니다."
-        },
-        {
-          "term": "첨단 패키징",
-          "explanation": "칩을 단순히 보호하고 연결하는 데 그치지 않고, 여러 칩을 쌓거나 가까이 배치해 성능과 전력 효율을 높이는 후공정 기술입니다."
-        },
-        {
-          "term": "패키징",
-          "explanation": "반도체 칩을 외부 회로와 연결하고 보호하는 공정입니다. HBM에서는 여러 메모리 칩을 적층하고 연결하는 과정이 특히 중요합니다."
-        },
-        {
-          "term": "TSV",
-          "explanation": "실리콘 관통 전극(Through-Silicon Via)의 약자입니다. 실리콘 칩을 수직으로 관통하는 전극으로 층 사이를 연결하는 데 쓰일 수 있습니다. 다만 제공된 뉴스 정보만으로 해당 거점에서 TSV를 적용하는지는 확인할 수 없습니다."
-        }
-      ]
     },
     {
       "id": 45,
